@@ -1,0 +1,29 @@
+
+
+Sales Rep: Good morning, I hope I'm not catching you at a bad time. 
+
+Customer: No, it's all good. Who is this?
+
+Sales Rep: My name is [Sales Rep Name], and I'm calling from [Energy Company]. We specialize in providing clean energy solutions for businesses and households. 
+
+Customer: Oh, okay. 
+
+Sales Rep: We can help you save money on your energy bills and reduce your carbon footprint. Would you be interested in learning more? 
+
+Customer: Well, I'm a college student, and I'm not sure I need this kind of service. 
+
+Sales Rep: That's understandable, but you may be surprised. We have some great solutions tailored specifically for college students. For example, our energy efficient home appliances help you save money on your energy bills without sacrificing comfort. 
+
+Customer: Hmm, okay. That sounds interesting. 
+
+Sales Rep: Great! We also have solar panels and other renewable energy solutions that can help you reduce your carbon footprint. 
+
+Customer: That does sound like something I'd be interested in. 
+
+Sales Rep: Absolutely! We'd love to discuss our services in more detail with you. Is there someone else I can speak with who is in charge of assisting customers with product returns? 
+
+Customer: Yes, that would be [Name]. 
+
+Sales Rep: Wonderful! Is there a good time for me to speak with [Name]? 
+
+Customer: Sure, let me check with them and get back to you.

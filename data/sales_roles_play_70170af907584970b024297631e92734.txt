@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hello, I’m [Name], a sales representative with [Company]. I’m calling to talk to you about our cutting-edge technology products. 
+
+High-end Consumer: [Name], I’m not interested in buying any products right now. 
+
+Sales Rep: That’s okay. I understand. Can I ask you a few questions about our company and our products? 
+
+High-end Consumer: Sure, go ahead. 
+
+Sales Rep: Thank you. [Company] is dedicated to providing our customers with the best possible experience. We have some great technology products that I think you’d be interested in. What concerns do you have about delivery times? 
+
+High-end Consumer: Well, I’ve heard some horror stories about people not getting their products in a timely manner. 
+
+Sales Rep: I understand your concern. I can assure you that we take delivery times very seriously at [Company]. We strive to provide our customers with the highest quality products as quickly as possible. We use cutting-edge technology and ship our products from multiple warehouses to ensure a speedy delivery. 
+
+High-end Consumer: That sounds great. What happens if something goes wrong with the delivery? 
+
+Sales Rep: If something does go wrong, we’re here to help. Our customer service team is available to address any concerns you may have. We understand that it can be frustrating when a product isn’t delivered on time, and we’re here to help make sure that doesn’t happen. 
+
+High-end Consumer: That’s reassuring. So, what do you think I should know about your products? 
+
+Sales Rep: Our products are designed to provide the highest performance and reliability. We use the latest technology to ensure our products are top-notch. We also offer a wide range of options so you can find the perfect product for your needs. 
+
+High-end Consumer: That sounds great. I'll definitely keep [Company] in mind when I'm looking for a new product. 
+
+Sales Rep: That’s wonderful. I'm glad I was able to answer your questions about delivery times and our products. Is there anything else I can help you with today? 
+
+High-end Consumer: No, that's all for now. Thank you for your time. 
+
+Sales Rep: You’re welcome. Have a great day.

@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hi, this is [Name] from [Healthcare Company]. I'm calling to speak with [Name], is he/she available?
+
+Senior Citizen: Yes, this is [Name], how can I help you?
+
+Sales Rep: Hi [Name], I'm calling to discuss our healthcare delivery services. We understand that there have been some issues with delivery times and we wanted to make sure you are aware of the changes we have implemented to ensure more timely delivery. 
+
+Senior Citizen: That sounds great, what kind of changes have you made? 
+
+Sales Rep: We have added additional staff to our delivery teams to help speed up the process and made sure our delivery drivers are more aware of the delivery times. We have also implemented a new tracking system to help you easily follow the progress of your order. 
+
+Senior Citizen: That sounds great, but how do I know if I can trust the delivery times?
+
+Sales Rep: We understand your concerns and we take our delivery times seriously. We guarantee that any order placed with us will be delivered within the timeframe stated in the order. If for some reason we cannot meet that timeframe, we will contact you and work with you to find an alternate solution. 
+
+Senior Citizen: That's reassuring. I'm glad to hear that you are taking steps to ensure timely delivery. 
+
+Sales Rep: Absolutely. We also provide a satisfaction guarantee on all orders. If you are not happy with the service, we will do everything we can to make it right. 
+
+Senior Citizen: That's great to know. Thank you for taking the time to explain everything. I will definitely consider using your services in the future. 
+
+Sales Rep: We appreciate that. Is there anything else I can help you with today? 
+
+Senior Citizen: No, that's all. Thank you for your help. 
+
+Sales Rep: You're welcome. Have a great day.

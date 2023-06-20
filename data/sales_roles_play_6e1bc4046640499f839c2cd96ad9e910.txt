@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning! My name is [Name] and I'm calling from [Energy Company]. 
+
+Customer: Hi, [Name]. How can I help you?
+
+Sales Rep: We're a leading energy provider in the area and I'm here to tell you about our great products and services. We have a variety of plans that can help you save on your energy bills and get the best value. 
+
+Customer: Yes, that's great. But I'm a senior citizen and I'm not sure if your products are suitable for me. 
+
+Sales Rep: Absolutely, we understand that seniors have different needs when it comes to energy plans. We have a special senior plan that's tailored to your needs and budget. It includes a discounted rate and extra benefits, such as free energy audits to help you save even more. 
+
+Customer: That sounds great. But I'm also interested in learning more about the features of your products. Can you tell me more about that? 
+
+Sales Rep: Sure, I can connect you with our customer service team who can provide you with all the details and answer any questions you may have. They are in charge of responding to customer inquiries and can provide you with all the information you need. 
+
+Customer: That sounds great. Can I get their contact information?
+
+Sales Rep: Absolutely! Here's the contact information for our customer service team. [Provide contact information] They're available to assist you Monday to Friday from 9am to 5pm. 
+
+Customer: Wonderful, thank you. I'll give them a call.
+
+Sales Rep: Great, I'm sure they'll be more than happy to help you. Is there anything else I can help you with before we finish our call? 
+
+Customer: No, that's all for now. Thank you for your help. 
+
+Sales Rep: You're welcome. Have a great day!

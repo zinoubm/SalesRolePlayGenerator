@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hi, I'm [Sales Rep Name] from [Technology Company]. I'm calling because we provide a range of technology services and products that might be of interest to your college. Is this a good time to discuss?
+
+College Student: Sure, I'm the person in charge of upselling additional products and services, so what do you have?
+
+Sales Rep: Great! We have a wide selection of products and services that could benefit your college. For example, we offer cloud computing solutions, data storage, and analytics, as well as software and hardware solutions. 
+
+College Student: That sounds great, but what makes you stand out from other technology companies?
+
+Sales Rep: We have a commitment to customer service and our products and services are tailored to meet the needs of your college. We also offer competitive pricing and a wide range of support options. 
+
+College Student: That sounds interesting. What kind of support options do you offer?
+
+Sales Rep: We offer a range of support options, from on-site technical assistance to phone and online support. We also provide training and educational resources for our customers.
+
+College Student: That's great. What kind of pricing do you offer?
+
+Sales Rep: We offer competitive pricing and discounts for bulk orders. We also have a flexible payment plan that allows you to spread the costs out over a period of time. 
+
+College Student: That sounds good. How soon can we get started?
+
+Sales Rep: We can get started right away. We just need a few details from you, such as the type of products and services you're interested in, and we can get the process started.

@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hello, this is [Name] from [Hospitality Company]. I'm calling to introduce our services to your business. 
+
+Business Owner: Hi [Name], what can you tell me about your services?
+
+Sales Rep: We provide comprehensive hospitality solutions, including catering services, catering equipment rentals, and event planning. We specialize in customizing our services to meet the unique needs of your customers. Our team is committed to providing exceptional customer service, and we have a great track record of success. 
+
+Business Owner: That sounds great. What kind of customer service do you offer?
+
+Sales Rep: We offer 24/7 customer service, with a dedicated team of professionals ready to answer any questions your customers may have about our services or products. We also provide a variety of resources and tools to help our customers make informed decisions about their event planning. 
+
+Business Owner: That's really helpful. Do you have someone in charge of responding to customer inquiries about product features?
+
+Sales Rep: Absolutely. Our team has extensive experience in this area and can provide tailored and comprehensive answers to any questions your customers may have. We also offer training and support to ensure that all of your customers are receiving the best service possible. 
+
+Business Owner: That's great. What other services do you offer?
+
+Sales Rep: In addition to our customer service and support, we also offer event planning and management services. We can help you plan and manage your events from start to finish, including venue selection, menu planning, and entertainment. We also provide catering services and equipment rentals, so you can provide your customers with a complete hospitality experience. 
+
+Business Owner: That sounds like a great package. How can I get started?
+
+Sales Rep: We would be happy to provide you with more information on our services and discuss the best options for your event. We can also set up a meeting to discuss the details and find the best solution for your needs.

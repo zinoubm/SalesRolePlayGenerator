@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Agriculture Company] calling. How are you doing today? 
+
+Business Owner: Good morning, I'm doing well. How can I help you? 
+
+Sales Rep: I'm calling to introduce you to our company and discuss how we can help you with your agricultural needs. We specialize in delivering a wide range of products to our customers quickly and efficiently. 
+
+Business Owner: That sounds great. What kind of products do you offer? 
+
+Sales Rep: We offer a wide range of products including fertilizers, seeds, and other related products. We also have a team of experts on hand to help with any questions you may have. 
+
+Business Owner: That's great. I'm interested in learning more. 
+
+Sales Rep: Great! We'd love to discuss our services further. Before we do, I wanted to make sure we address any concerns you may have about delivery times. 
+
+Business Owner: Yes, I've heard that delivery can be an issue with some companies. 
+
+Sales Rep: We understand that delivery time is an important factor for customers. That's why we have implemented a number of measures to ensure fast and reliable delivery of our products. We have streamlined our ordering and delivery process, ensuring that orders are delivered on time and in full. We also have a customer service team on hand to respond to any queries or concerns you may have. 
+
+Business Owner: That sounds great. I appreciate you bringing that up. 
+
+Sales Rep: My pleasure. Is there anything else I can help you with today? 
+
+Business Owner: No, that's all for now. I'm interested in learning more about your services. 
+
+Sales Rep: Great. I'd be happy to answer any questions you may have. Let me know when you're ready and we can discuss further.

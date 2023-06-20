@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning/afternoon, this is [Name] from [Company] calling. We provide educational services and I'm sure you're familiar with the great work that we do. 
+
+Customer: Yes, I am. What can I do for you?
+
+Sales Rep: I'm calling to discuss how we can help your organization with our educational services. We provide top-level training and development programs that can help your employees stay up-to-date on the latest trends in the industry. 
+
+Customer: That sounds interesting. What other services do you offer?
+
+Sales Rep: We offer a variety of services, including online classes, in-person workshops, and customized courses tailored to your organization's needs. We also provide customer service training to help you resolve customer complaints quickly and efficiently. 
+
+Customer: That sounds great. Who do I need to speak with to learn more?
+
+Sales Rep: Great question. I would be happy to provide you with more information. Is there someone in particular that I should speak with about this?
+
+Customer: Yes, I'm in charge of customer service and resolving customer complaints.
+
+Sales Rep: Wonderful. I'll be happy to provide you with more information about our customer service training and how it can help your organization. Is there a convenient time for us to chat further?

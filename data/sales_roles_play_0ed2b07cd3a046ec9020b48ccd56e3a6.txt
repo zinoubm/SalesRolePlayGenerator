@@ -1,0 +1,21 @@
+
+
+Sales Rep: Hi, this is [name] from [Healthcare Company]. Is this a good time to talk? 
+
+Business Owner: Yes, what can I do for you? 
+
+Sales Rep: I’m calling because [Healthcare Company] offers a range of warranties for our healthcare products. We’d love to partner with you and your company so that you can offer these warranties to your customers.
+
+Business Owner: We’re always looking for ways to better serve our customers. Tell me more about the warranties you offer.
+
+Sales Rep: Sure. We offer a variety of warranties, ranging from 6 months up to 5 years, depending on the product. They cover everything from repair costs to replacement parts.
+
+Business Owner: That sounds great. Who would be responsible for explaining the warranty details to our customers?
+
+Sales Rep: We can provide you with a customer service representative who can help explain the details of the warranties to your customers and help them find the best option for them.
+
+Business Owner: That’s great. We do have someone in charge of customer service, but I’m not sure if they have experience with warranty plans.
+
+Sales Rep: That’s not a problem. We can provide a training session to make sure they’re familiar with the different warranties and can explain them confidently to your customers.
+
+Business Owner: That sounds like a great solution. Let’s move forward with this.

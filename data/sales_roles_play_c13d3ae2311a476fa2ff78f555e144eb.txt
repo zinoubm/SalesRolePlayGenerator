@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hello, is this the [Company Name]? 
+
+Business Owner: Yes, this is [Company Name], how can I help you?
+
+Sales Rep: Hi, my name is [Name], and I'm calling from [Energy Company]. We specialize in providing energy solutions for businesses and I wanted to talk to you about how we could help your company save money and improve efficiency. 
+
+Business Owner: That sounds interesting. What kind of solutions do you offer?
+
+Sales Rep: We provide a range of energy solutions, including solar panel installation, energy-efficient lighting, and energy-efficient HVAC systems. We also offer renewable energy credits and tax incentives to help reduce costs.
+
+Business Owner: That's great, but how do I know that your solutions are reliable and cost-effective?
+
+Sales Rep: We have an experienced team of engineers and technicians who are trained to recommend the best solutions for your business. Our solutions are designed to be cost-effective and reliable, and our team can provide you with all the information and support you need.
+
+Business Owner: That sounds good, but I'm not sure if I have the budget for this.
+
+Sales Rep: We understand that budget is a major factor for businesses. That's why we offer a range of financing options to help you manage the cost.
+
+Business Owner: That's great, but who do I talk to about product features?
+
+Sales Rep: We have a team of customer service representatives who are available 24/7 to answer any questions you may have about our products. They can provide you with detailed information about product features and discuss financing options with you.

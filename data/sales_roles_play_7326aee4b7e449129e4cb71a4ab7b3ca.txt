@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Energy Company]. How are you today?
+
+Customer: Hi, I'm doing okay. How can I help you?
+
+Sales Rep: I'm calling today to discuss our energy plans and the great prices we have to offer. We are looking to provide you with an energy plan that fits your needs and budget. Are you the person in charge of answering customer questions about pricing? 
+
+Customer: Yes, I am.
+
+Sales Rep: Great! I understand that you are a working parent and have limited time. I want to make sure to provide you with the best possible energy plan for your needs. Can you tell me a bit more about what you're looking for in an energy plan? 
+
+Customer: Well, I'm looking for something that is reliable and cost-effective.
+
+Sales Rep: Certainly. I'd be happy to walk you through our different plans and pricing. [Discuss pricing and plans.] 
+
+Customer: That all sounds great, but I'm concerned about the environmental impact of energy consumption. Does your company offer any renewable energy plans? 
+
+Sales Rep: Absolutely! We offer a variety of renewable energy plans that are both reliable and cost-effective. [Discuss renewable energy plans.] 
+
+Customer: That's great. Can you tell me more about how you will ensure reliability with a renewable energy plan? 
+
+Sales Rep: Certainly. We use a combination of solar, wind, and hydroelectric energy sources to ensure reliable power for our customers. We also have a network of backup generators that can be used in case of an outage. [Discuss reliability.] 
+
+Customer: That sounds really good. Can you tell me more about the pricing of these plans? 
+
+Sales Rep: Absolutely. [Discuss pricing.] 
+
+Customer: That sounds great. I think I'm ready to make a decision. 
+
+Sales Rep: Wonderful! Let me know if you have any other questions or concerns before we finalize the plan.

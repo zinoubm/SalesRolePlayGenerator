@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Company Name]. I'm calling to discuss our agricultural products and services. Is this a good time to talk?
+
+College Student: Sure, what can I do for you?
+
+Sales Rep: We specialize in products and services to help farmers and other agricultural businesses become more efficient and successful. I was wondering if I could provide you with some information about our products and services and answer any questions you might have.
+
+College Student: Yeah, sure. What kind of products and services do you offer?
+
+Sales Rep: We offer a variety of products, such as seed, fertilizer, and pest control, as well as services like planting, harvesting, and soil testing. We also have equipment and technology solutions to help make your business more efficient.
+
+College Student: Interesting. Who is the best person to talk to if I have more questions about the features of your products and services?
+
+Sales Rep: That would be [name of person in charge of responding to customer inquiries about product features]. I can put you in touch with them if you'd like. 
+
+College Student: That would be great.
+
+Sales Rep: No problem. I can provide you with their contact information. Would you like me to send it over to you now?
+
+College Student: Yes, that would be great.
+
+Sales Rep: Great. I'll send it over right away. Is there anything else I can help you with today?
+
+College Student: No, that should be it. Thanks for your help.
+
+Sales Rep: You're welcome. Have a great day.

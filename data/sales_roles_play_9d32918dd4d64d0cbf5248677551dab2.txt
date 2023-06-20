@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Company Name]. How are you doing today?
+
+Stay-at-home Parent: I'm doing alright. What can I do for you?
+
+Sales Rep: I'm calling because I wanted to talk to you about our [Technology] services that can help make your day-to-day work easier. We specialize in helping companies troubleshoot technical issues quickly and efficiently. 
+
+Stay-at-home Parent: That sounds interesting. Tell me more about your services.
+
+Sales Rep: Sure! Our services include a suite of troubleshooting tools that can help you identify and resolve technical issues quickly and efficiently. We also have a team of experts that are available to provide training and advice to help you get the most out of your technology. 
+
+Stay-at-home Parent: That sounds great. What kind of cost are we looking at?
+
+Sales Rep: We offer a range of pricing plans that are tailored to your specific needs. We can work with you to find the best option for your budget.
+
+Stay-at-home Parent: That's great. Are there any other features or options I should know about?
+
+Sales Rep: Absolutely! We also offer a 24/7 technical support line that can provide assistance with any issues you may encounter. We also offer a wide range of custom solutions to help you get the most out of your technology. 
+
+Stay-at-home Parent: That sounds very helpful. Is there anything else I should know about?
+
+Sales Rep: Yes, we also offer a variety of discounts and promotions that can help you save money. We also have a loyalty program, so if you choose to use our services for an extended period of time, you can get additional savings.

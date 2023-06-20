@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [sales rep name] from [Energy Company]. How are you doing today? 
+
+Business Executive: I'm doing well. How can I help you? 
+
+Sales Rep: We specialize in energy solutions for businesses, and I'm calling to see if you'd be interested in learning more about our products and services. 
+
+Business Executive: That sounds interesting. What do you offer?
+
+Sales Rep: We offer a variety of energy solutions that can help businesses reduce costs, increase efficiency, and improve their overall energy performance. 
+
+Business Executive: That sounds like something we'd be interested in. Who is the best person to speak with about this? 
+
+Sales Rep: I can connect you with our Upselling team, who can help you find the right energy solutions for your business. Is there someone I can connect you with? 
+
+Business Executive: Sure, I'll need to speak with the person in charge of Upselling. Do you have their contact information? 
+
+Sales Rep: Absolutely. I'll be happy to send you their contact information. Is there anything else I can help you with? 
+
+Business Executive: Yes, can you tell me how much this service will cost? 
+
+Sales Rep: Our Upselling team will discuss pricing with you once you are connected. Is there anything else I can help you with? 
+
+Business Executive: No, that should be it for now. 
+
+Sales Rep: Great. I will send you the contact information for our Upselling team right away. Have a great day!

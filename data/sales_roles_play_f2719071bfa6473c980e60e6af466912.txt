@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning! My name is [Sales Rep Name] and I'm calling from [Healthcare Company]. How can I help you today? 
+
+College Student: Hi there. I'm not sure how I can help. What does your company do? 
+
+Sales Rep: We provide healthcare solutions for businesses and educational institutions. We specialize in troubleshooting technical issues for customers, such as setting up new systems, providing support on existing systems, and helping with any other technical problems they may encounter. 
+
+College Student: Oh, that sounds helpful. What specifically do you offer? 
+
+Sales Rep: We offer a range of services, from system installation to ongoing maintenance and support. We also provide an array of training programs, so your staff can learn how to use the system and troubleshoot any issues they may encounter. 
+
+College Student: That's great. Do you offer any discounts for educational institutions? 
+
+Sales Rep: Absolutely! We offer a range of discounts for educational institutions. We have special packages tailored to the needs of universities and colleges. We also have a team of experienced technicians who can provide assistance with any technical issues that may arise. 
+
+College Student: That sounds great! Is there a way to get a free trial before committing to a package? 
+
+Sales Rep: Yes, we offer a free trial period so you can see how our services work for your institution. There's no commitment required and you can cancel anytime. We also provide a money-back guarantee if you're not satisfied with our services.

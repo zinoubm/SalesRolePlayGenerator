@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hi, my name is [Name] from [Energy Company], and I am calling to see if I can provide you with an energy solution for your business needs.
+
+Entrepreneur: Hi [Name], I'm [Name], the owner of the company, but I'm not the one in charge for providing product demonstrations to customers.
+
+Sales Rep: That's no problem. Can you tell me who is the person in charge of providing product demonstrations? 
+
+Entrepreneur: That would be [Name], our head of sales.
+
+Sales Rep: Great. Can I get [Name]'s contact information so I can reach out to them directly?
+
+Entrepreneur: Sure. [Name] can be reached at [contact information].
+
+Sales Rep: Perfect. I'm sure [Name] will be able to give me more information about your energy needs and how our company can help.
+
+Entrepreneur: Yes, [Name] is very knowledgeable about our company's needs and I'm sure he can help.
+
+Sales Rep: Great. Is there anything else I can help you with today?
+
+Entrepreneur: No, that's all. Thanks for your help.
+
+Sales Rep: My pleasure. Have a great day. 

@@ -1,0 +1,33 @@
+
+
+Sales Rep: Good morning, I'm [Name], a sales representative from [Agriculture Company]. Is this [Working Parent]? 
+
+Working Parent: Yes, this is [Working Parent]. How can I help you?
+
+Sales Rep: [Working Parent], I'm calling because [Agriculture Company] offers a variety of high-quality, organic farming products that can help your business save time and money. 
+
+Working Parent: That sounds interesting. What kinds of products do you offer? 
+
+Sales Rep: We offer a range of organic fruits and vegetables, as well as grains, nuts, and seeds. We also provide packaging and delivery services for all of our products. 
+
+Working Parent: That sounds great. Who do I need to talk to in order to process customer orders? 
+
+Sales Rep: You can speak directly to our customer service team, who are available to answer any of your questions and help you place an order. We also have a website that can provide more information about our products and services. 
+
+Working Parent: That sounds helpful. What if I need help after I place an order? 
+
+Sales Rep: Our customer service team is available 24/7 to assist with any post-order inquiries. We also have an online chat service that can help with any questions or concerns. 
+
+Working Parent: That sounds great. I'm interested in learning more about your products and services. 
+
+Sales Rep: We'd be happy to provide you with more information. Would you like me to send over a brochure with more details? 
+
+Working Parent: Yes, that would be great. 
+
+Sales Rep: Wonderful. I'll send over a brochure and some additional information about our products and services. I'll also schedule a call with our customer service team so that you can discuss your order in more detail. Is there anything else I can help you with today? 
+
+Working Parent: No, that should do it for now. 
+
+Sales Rep: Great. I'll be in touch soon with the brochure and additional information. Thank you for your time, [Working Parent]. Have a great day. 
+
+Working Parent: You too. Goodbye.

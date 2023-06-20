@@ -1,0 +1,15 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Hospitality Company]. Is this [Young Professional]?
+
+Young Professional: Yes, it is. How can I help you?
+
+Sales Rep: I wanted to talk to you about [Hospitality Company] and our services. We provide top-level hospitality services for a wide range of events, from corporate functions to private events. We have a great team that can help make your event memorable. 
+
+Young Professional: That sounds great, but I'm in charge of addressing customer concerns about delivery times at our company. What can you tell me about your delivery services?
+
+Sales Rep: Of course. We understand that timely delivery is important, so we always strive to make sure our clients receive their products as soon as possible. We are flexible in our delivery times and can accommodate your needs. We also have a team of experts that can help you with any issues you may have during the delivery process. 
+
+Young Professional: That's great to hear. What happens if there are any issues during delivery?
+
+Sales Rep: We have a team of experts that can help you troubleshoot any issues that may arise during delivery. We are also happy to discuss any concerns you may have about delivery times and can work with you to find the best solution for your needs.

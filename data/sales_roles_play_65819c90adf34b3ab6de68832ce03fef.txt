@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning! My name is [Sales Rep Name] and I'm calling from [Technology Company]. How can I help you today? 
+
+Single Parent: Hi, [Sales Rep Name], I'm [Single Parent Name]. I'm in charge of explaining product warranties to customers at our company. What can you tell me about your technology company?
+
+Sales Rep: Absolutely! We are a technology company that specializes in providing innovative solutions for businesses. Our products are designed to be reliable, efficient, and cost-effective. We also offer warranties on our products that cover any defects in materials or workmanship for a period of time. 
+
+Single Parent: That sounds great. Can you tell me more about the warranties you offer?
+
+Sales Rep: Absolutely! Our warranties cover any defects in materials or workmanship for a period of one year from the date of purchase. If there are any issues with the product, we'll repair or replace it for no additional cost. We also provide 24/7 customer support to help answer any questions or resolve any issues that may arise. 
+
+Single Parent: That sounds great. What happens if the product is damaged due to customer misuse? 
+
+Sales Rep: Unfortunately, our warranties do not cover any damage caused by customer misuse. However, we can offer some repair services at an additional cost. Please contact our customer service team for more information. 
+
+Single Parent: Ok, thanks for the information. Is there anything else I should know about your products or warranties? 
+
+Sales Rep: Absolutely! We also offer a 30-day money-back guarantee on all of our products. If you're not satisfied with the product for any reason, you can return it within 30 days of purchase for a full refund. 
+
+Single Parent: That's great to know. Thanks for the information! 
+
+Sales Rep: You're welcome! Is there anything else I can help you with today? 
+
+Single Parent: No, I think I'm all set. Thanks again for the information. 
+
+Sales Rep: No problem! Have a great day!

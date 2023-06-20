@@ -1,0 +1,29 @@
+
+
+Sales Rep: Hello, this is [Name], calling from [Healthcare Company]. How are you doing today?
+
+Stay-at-home Parent: Hi, [Name], I'm doing okay. What can I do for you?
+
+Sales Rep:  I'm calling from [Healthcare Company] because we offer a variety of healthcare services that could be of benefit to you and your family. Could I ask who I'm speaking with?
+
+Stay-at-home Parent: Sure, my name is [Name].
+
+Sales Rep: Hi [Name], it's nice to meet you. I'm wondering if you might be the person in charge of answering customer questions about pricing and services at [Healthcare Company]. 
+
+Stay-at-home Parent: Yes, I am. What questions do you have?
+
+Sales Rep: Well, I'm interested in learning more about the pricing and services that [Healthcare Company] offers. Could you tell me a bit more about that?
+
+Stay-at-home Parent: Of course. We offer a wide range of services, including preventative care, primary care, and specialty care. We also have a variety of payment options to make accessing our services easier.
+
+Sales Rep: That's great to hear. Can you tell me a bit more about the payment options?
+
+Stay-at-home Parent: We accept cash, check, debit, and credit card payments, as well as payment plans. We also accept most insurance plans.
+
+Sales Rep: That's really helpful. Do you offer any discounts for seniors or for people in low-income households?
+
+Stay-at-home Parent: Yes, we do. We offer discounts for seniors and we also have a sliding scale fee system for people in lower income households.
+
+Sales Rep: That's really helpful. Is there any other information I should know about [Healthcare Company]?
+
+Stay-at-home Parent: Yes, we also offer a variety of free health screenings and educational programs. We also have a team of experienced healthcare professionals who can answer any additional questions you may have.

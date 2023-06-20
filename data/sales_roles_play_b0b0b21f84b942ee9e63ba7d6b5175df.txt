@@ -1,0 +1,25 @@
+
+
+Sales Rep: Hello, this is [Name], from [Hospitality Company]. I’m calling to inquire about delivery times for your customers. Is this a good time to talk? 
+
+Working Parent: Yes, go ahead. What is it about? 
+
+Sales Rep: I'm interested in learning about what challenges customers face when it comes to the delivery times for your products. 
+
+Working Parent: Well, one of the challenges is that the delivery times can be too long. Customers often get frustrated and end up canceling their order.
+
+Sales Rep: I understand. That must be a big challenge for your business. Are there any strategies you have in place to address this issue? 
+
+Working Parent: Yes, we have implemented a system that allows us to track orders in real time and provide estimated delivery times. 
+
+Sales Rep: That sounds like a great solution. What other strategies do you have in place to address customer concerns about delivery times? 
+
+Working Parent: We also offer customers the option to pick up orders at our locations, which can help speed up the delivery process. We also have a customer service team that is available to answer any questions and address customer concerns. 
+
+Sales Rep: That's great to hear. I think these strategies could really help your business. Do you have any other ideas for addressing customer concerns about delivery times? 
+
+Working Parent: We are always looking for new solutions. We recently implemented a rewards program for customers who order frequently, which allows them to receive discounts on their orders. 
+
+Sales Rep: That's a great idea. It sounds like you have some great strategies in place to address customer concerns about delivery times. Is there anything else I can help you with today? 
+
+Working Parent: No, that's it for now. Thank you for the information.

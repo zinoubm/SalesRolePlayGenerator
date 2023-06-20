@@ -1,0 +1,25 @@
+
+
+Sales Rep: Hi, this is [Sales Rep name] from [Agriculture Company] calling. How are you doing today? 
+
+College Student: Hi, I'm doing alright. How can I help you?
+
+Sales Rep: I'm calling because we offer a variety of agricultural products and services that could be beneficial to your business. We know that you have a lot of options when it comes to your agricultural needs, and I wanted to take a few minutes of your time to explain why choosing [Agriculture Company] is a great choice.
+
+College Student: Okay, sure. 
+
+Sales Rep: To start, our products are all sourced from trusted suppliers, so you can rest assured that the quality of your purchase is the best. We also offer competitive pricing, so you know that you're getting the best deal. 
+
+College Student: That sounds great.
+
+Sales Rep: We also provide our customers with exceptional customer service. We understand that it can be difficult to manage orders and deliveries, so we offer dedicated customer service teams that can help answer any questions you may have.
+
+College Student: That does sound helpful.
+
+Sales Rep: Great! Now, I'm sure you're wondering who you should be speaking to if you decide to move forward with [Agriculture Company]. We recommend that you speak with the person in charge of processing customer orders. They will be able to provide you with the most accurate information regarding our products and services. 
+
+College Student: Alright, that sounds perfect. Who should I speak to?
+
+Sales Rep: You can speak with [Name], who is our Manager of Processing. They will be able to answer any questions you may have and provide you with the best advice. 
+
+College Student: Great, thank you for your help.

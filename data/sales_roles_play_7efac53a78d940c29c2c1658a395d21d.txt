@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hi, this is [Name] from [Agriculture Company]. How are you doing today? 
+
+College Student: Hi, good thanks.
+
+Sales Rep: Great! I'm calling because I wanted to introduce our agriculture products to you. We specialize in providing organic, locally-sourced products for customers. Would you be interested in learning more about our offerings? 
+
+College Student: Sure, what do you have? 
+
+Sales Rep: We have a wide variety of products, ranging from fresh produce to grains and other farm products. We also have a team of experts who are available to answer any questions you may have. 
+
+College Student: That sounds great. What about product warranties? 
+
+Sales Rep: Absolutely. We provide a warranty for all of our products. This warranty covers any defects that may arise in the product for up to one year from the date of purchase. We also offer a satisfaction guarantee, so if you're not completely satisfied with your purchase, you can return it for a full refund. 
+
+College Student: That's great! Who do I contact if I have any questions about the warranty? 
+
+Sales Rep: You can contact our customer service team if you have any questions. They will be able to answer any questions you may have about our product warranties.

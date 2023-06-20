@@ -1,0 +1,23 @@
+
+
+Sales Rep: [Cold call introduction] “Good morning, I’m [Name] from [Company]. We’re a leading energy company that specializes in providing renewable energy solutions to businesses. Is this a good time to talk?
+
+Business Executive: “Yes, what can I do for you?”
+
+Sales Rep: “I wanted to introduce you to our company and see if there was an opportunity to discuss how we can help your business reduce its energy costs. Is there someone in charge of processing orders that I could speak with?”
+
+Business Executive: “Yes, my name is [Name] and I’m the one responsible for processing orders here. What types of energy solutions do you offer?”
+
+Sales Rep: “We offer a wide range of products, from solar panels to wind turbines. Our goal is to help businesses reduce their energy costs while also providing a more sustainable energy source. Can I ask what kind of energy solutions your business is currently using?”
+
+Business Executive: “We currently use traditional energy sources, such as coal and natural gas. We’re looking for ways to reduce our energy costs and be more environmentally friendly.”
+
+Sales Rep: “That’s great! We have several solutions that can help you with both of those goals. Would you like to discuss them in more detail?”
+
+Business Executive: “Yes, that would be great. I’m also interested in learning more about your pricing and how quickly you can get us set up and running.”
+
+Sales Rep: “Absolutely! I’d be more than happy to discuss our pricing and the installation process. Before we get into those details, is there anything else I can help you with?”
+
+Business Executive: “No, that should be all. Let’s move forward with discussing pricing and installation.”
+
+Sales Rep: “Great, let’s get started.”

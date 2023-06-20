@@ -1,0 +1,41 @@
+
+
+Sales Rep: Hello, is this the right place to speak to someone in charge of answering customer questions about pricing at the company?
+
+Business Owner: Yes, this is the right place. Who's calling?
+
+Sales Rep: Hi, I'm [Name], and I'm calling from [Healthcare Company]. We offer a range of healthcare services, including preventive care and urgent care. 
+
+Business Owner: What can I do for you?
+
+Sales Rep: Well, I'd like to discuss our services and pricing with you, so you can make an informed decision about what best suits your company's needs. 
+
+Business Owner: Sure, I'm listening. 
+
+Sales Rep: We offer a range of services, including preventive care and urgent care. We also provide a range of discounts that could help you save money on your healthcare costs. For example, if you sign up for a long-term contract, we can offer you a discounted rate. 
+
+Business Owner: That sounds interesting. What are the details?
+
+Sales Rep: We offer a 10% discount on all preventive care services if you sign up for a long-term contract. This could help you save money and make sure you have the coverage you need. 
+
+Business Owner: That sounds great. What if I'm only interested in urgent care services? 
+
+Sales Rep: We also offer a discounted rate for urgent care services. We can provide you with a 15% discount if you sign up for a long-term contract. 
+
+Business Owner: That's great. What other options do you have?
+
+Sales Rep: We also offer a range of health and wellness services that can help you save money on your healthcare costs. We can provide you with a 20% discount if you sign up for a long-term contract. 
+
+Business Owner: That sounds like a great deal. I'm interested. Can you tell me more about the terms of the contract?
+
+Sales Rep: Absolutely. The contract will include a three-year commitment and will require payment upfront. We can provide you with a detailed breakdown of the costs and the services included in the contract. 
+
+Business Owner: That sounds great. Can you send over the details so I can take a look?
+
+Sales Rep: Absolutely. I'll send over the details right away. Do you have any other questions I can answer? 
+
+Business Owner: No, I think that's it for now. 
+
+Sales Rep: Great. I look forward to hearing from you soon. Have a great day. 
+
+Business Owner: You too! Bye.

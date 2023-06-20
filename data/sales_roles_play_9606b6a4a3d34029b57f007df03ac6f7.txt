@@ -1,0 +1,25 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Hospitality Company Name], how can I help you? 
+
+Senior Citizen: Morning, I am looking to speak to someone in charge of Resolving customer complaints.
+
+Sales Rep: Sure, I can help you with that. Can I ask what the issue is?
+
+Senior Citizen: Yes, I have an issue I need to discuss.
+
+Sales Rep: I understand. I'm sure we can help resolve this. Before I transfer you to the right department, could you tell me a little bit more about the issue?
+
+Senior Citizen: I recently stayed at one of your hotels and had a terrible experience with the service.
+
+Sales Rep: I'm sorry to hear that. That certainly doesn't sound like the kind of experience we want to provide for our customers. Can you tell me a little bit more about the issue so we can try and resolve it?
+
+Senior Citizen: Well, the room was not clean, the staff was rude and unhelpful, and the food was not up to the standard I expected.
+
+Sales Rep: I apologize for the experience you had. We strive to provide the best possible service to our customers, so I'm sorry that we fell short. I'll be sure to pass your feedback along to the appropriate department so that we can work on improving our service.
+
+In the meantime, I'd be happy to connect you with someone in the customer service department who can help you resolve the issue. Would that be alright?
+
+Senior Citizen: Yes, that would be great.
+
+Sales Rep: Wonderful! Let me just transfer you to the customer service department. Thank you for taking the time to share your feedback. Have a great day!

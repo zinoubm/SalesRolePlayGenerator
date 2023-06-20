@@ -1,0 +1,25 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Energy Company]. I’m calling to discuss our energy services. Is this a good time to talk?
+
+Customer: Yes, it is.
+
+Sales Rep: Great, thank you. Our company offers a wide variety of energy services, and I wanted to make sure you were aware of all of your options. 
+
+Customer: That sounds great.
+
+Sales Rep: Our services are reliable and cost-effective, and we have a team of experts who can help you make the best decision for your energy needs. Are you a college student?
+
+Customer: Yes, I am.
+
+Sales Rep: That’s great. I understand that college students have their own unique needs when it comes to energy services, and I’d be happy to discuss those with you. 
+
+Customer: Sure, I’d like to hear more.
+
+Sales Rep: One of the features of our service is our delivery times. We understand that college students may have to adjust their schedules to accommodate our delivery times, so we are dedicated to providing a reliable and consistent service. Additionally, our customer service team is available 24/7 to address any customer concerns about delivery times. 
+
+Customer: That’s great to hear. 
+
+Sales Rep: Absolutely. Additionally, we offer discounts for college students who sign up for our services. Would you like to hear more about that? 
+
+Customer: Yes, please.

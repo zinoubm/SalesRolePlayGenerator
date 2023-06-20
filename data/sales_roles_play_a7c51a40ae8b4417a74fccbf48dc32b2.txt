@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hi, this is [Name] with [Company], an agriculture company offering high quality products. Can I speak to [Person in Charge of Answering Customer Questions about Pricing]? 
+
+Working Parent: Hi, this is [Person in Charge of Answering Customer Questions about Pricing], how can I help you?
+
+Sales Rep: Hi [Person in Charge of Answering Customer Questions about Pricing], I’m calling on behalf of [Company], an agriculture company. We are offering high quality products and I wanted to know if you would be interested in hearing more about what we have to offer? 
+
+Working Parent: Sure, I’d be interested in hearing more about what you have to offer. 
+
+Sales Rep: Great! We specialize in providing top of the line products for the agricultural industry. Our products are designed to help farmers increase their yields, while also reducing their costs. We have a wide range of products, ranging from fertilizers to pest control products. 
+
+Working Parent: That sounds great! Can you tell me more about your pricing? 
+
+Sales Rep: Absolutely. Our prices are very competitive and we offer a variety of discounts and special offers. We also provide free shipping for orders over a certain amount. 
+
+Working Parent: That’s great. I’d like to learn more about your discounts and special offers. 
+
+Sales Rep: Of course! We offer a variety of discounts and special offers for both new and returning customers. For example, if you order a certain amount of products, you can receive a 10% discount. We also offer a loyalty rewards program, where you can earn points for every purchase you make and receive discounts on future purchases. 
+
+Working Parent: That sounds great! Can you tell me more about your shipping policy? 
+
+Sales Rep: Absolutely. We offer free shipping for orders over a certain amount. We also offer express shipping for an additional fee. We use only the most reliable shipping carriers and our products are always packaged securely. 
+
+Working Parent: That sounds great. I think I’d like to order some of your products. Can you tell me more about the ordering process? 
+
+Sales Rep: Absolutely. We offer both online and phone ordering. Our online ordering system is secure and easy to use. For phone orders, you can speak with one of our friendly customer service representatives, who can help you with any questions you may have. 
+
+Working Parent: That sounds great. I think I’d like to place an order now. 
+
+Sales Rep: Wonderful! We’d be happy to help you with your order. Please let me know if you have any other questions about our products or services.

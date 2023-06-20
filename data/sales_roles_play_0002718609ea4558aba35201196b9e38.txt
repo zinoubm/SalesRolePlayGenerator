@@ -1,0 +1,37 @@
+
+
+(Sales Rep)
+Hello, this is [Sales Rep Name] from [Energy Company Name]. I’m calling to see if I can help with your energy needs. 
+
+(Business Executive)
+I’m not interested.
+
+(Sales Rep)
+That’s understandable. May I ask why?
+
+(Business Executive)
+We’re already happy with our current energy provider.
+
+(Sales Rep)
+I completely understand and respect that. However, I’d like to let you know that we offer a wide variety of innovative products that could help you save money on energy costs. 
+
+(Business Executive)
+That’s interesting. Tell me more.
+
+(Sales Rep)
+Sure. We offer a variety of different energy solutions, such as solar panels, wind turbines, and other renewable energy sources. We also offer a variety of energy monitoring and management tools to help you get the most out of your energy usage. 
+
+(Business Executive)
+That all sounds great, but I don’t know if it’s something we need. 
+
+(Sales Rep)
+I completely understand. That’s why we offer free product demonstrations to customers. We can come to your office, show you our products and explain how they can help you save money. We can even answer any questions you have along the way. 
+
+(Business Executive)
+That sounds great. Who would be in charge of the product demonstration?
+
+(Sales Rep)
+We have a team of experienced professionals that can come to your office and provide a product demonstration. They can answer any questions you have, and provide you with the information you need to make an informed decision. 
+
+(Business Executive)
+That sounds great. Let me connect you to the person in charge of product demonstrations here.

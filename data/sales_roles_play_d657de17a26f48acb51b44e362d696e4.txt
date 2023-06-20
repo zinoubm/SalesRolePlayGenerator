@@ -1,0 +1,25 @@
+
+
+Sales Rep: Good morning, is this [Working Parent]? 
+
+Working Parent: Yes, this is [Working Parent].
+
+Sales Rep: Hi, [Working Parent], my name is [Sales Rep] and I'm calling from [Energy Company]. We specialize in providing energy solutions to businesses. Are you familiar with our company?
+
+Working Parent: No, I'm not familiar with you.
+
+Sales Rep: Okay, no worries. We've been in the energy business for over 30 years and we have a wide range of energy solutions that can help you save money and increase efficiency. Are you the right person to be speaking with about that?
+
+Working Parent: Well, I'm in charge of assisting customers with product returns, so I'm not sure if I'm the right person.
+
+Sales Rep: That’s perfectly fine. We actually offer a range of services that can help with that. For example, we have a team of experts that can help you process returns more quickly and efficiently. Would you like to hear more about that?
+
+Working Parent: Sure, that sounds interesting.
+
+Sales Rep: Great! We also offer a range of energy solutions that can help you reduce costs and increase efficiency. We have a variety of options, from solar energy to wind power, so you can find the solution that works best for your business. 
+
+Working Parent: That sounds great. I'll definitely consider it. 
+
+Sales Rep: Wonderful! Is there anything else I can help you with today? 
+
+Working Parent: No, that's all. Thanks for the information.

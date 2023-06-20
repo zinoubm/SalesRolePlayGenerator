@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [name] from [Energy Company]. How are you today?
+
+Young Professional: Good morning. I'm doing well, thanks.
+
+Sales Rep: Great! I'm calling to discuss our energy delivery services and how we can help you better manage your energy needs.
+
+Young Professional: That sounds interesting. What do you have to offer?
+
+Sales Rep: We offer a variety of energy delivery services, including same-day and next-day delivery, as well as the ability to customize delivery times to fit your schedule. We can also provide detailed tracking of your order, so you can always be sure that your energy is arriving when it should.
+
+Young Professional: That's great! Our company has been having some issues with delivery times lately, so this sounds like it would be extremely helpful.
+
+Sales Rep: Absolutely! We understand that delivery times are important to you and your business, and we want to make sure that you get your energy when you need it. We have a customer service team that is available 24/7 to address any customer concerns about delivery times. 
+
+Young Professional: That sounds great. Who is in charge of addressing customer concerns about delivery times?
+
+Sales Rep: Our customer service team is led by [name] who is a highly experienced customer service professional with many years of experience in the energy industry. He and his team are available to answer any questions or concerns you may have about delivery times. 
+
+Young Professional: That sounds perfect. I'm looking forward to speaking with [name].
+
+Sales Rep: Great! We look forward to helping you manage your energy needs and improving your delivery times. Is there anything else I can do for you today?
+
+Young Professional: No, that's all. Thank you for your help.
+
+Sales Rep: You're welcome. Have a great day!

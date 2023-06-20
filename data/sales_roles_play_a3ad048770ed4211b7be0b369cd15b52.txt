@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, may I please speak with [Name]?
+
+Customer: This is [Name].
+
+Sales Rep: Hi [Name], my name is [Name] and I'm calling from [Company], an energy company. We specialize in providing energy to households like yours, and I wanted to see if you were interested in hearing more about what we have to offer.
+
+Customer: Sure. What do you have to offer?
+
+Sales Rep: We can provide you with an energy supply that is reliable and cost-effective. We also have a number of additional services, such as discounts and rewards programs, that can help you save money on your energy bills. 
+
+Customer: That sounds interesting. What about delivery times?
+
+Sales Rep: Of course! We understand that your time is valuable, and we strive to deliver your energy in a timely manner. We have a dedicated customer service team that is always available to address any of your concerns. 
+
+Customer: That's good to know. I'm a single parent, and I'm always looking for ways to save money.
+
+Sales Rep: Absolutely! We have a number of offers and discounts that are specifically tailored to single parents. Our team can work with you to find the best solutions for your needs. 
+
+Customer: That sounds great. I'm interested in hearing more. 
+
+Sales Rep: Wonderful! I'm happy to provide you with more information about our services and how they can help you save money. Is there anything else I can answer for you? 
+
+Customer: No, that's all. Thanks for your help. 
+
+Sales Rep: Absolutely! It was my pleasure to speak with you. Please let me know if you have any other questions. Have a great day!

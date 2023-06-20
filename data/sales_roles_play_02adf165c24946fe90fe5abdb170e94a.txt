@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning! This is [Sales Rep Name] from [Healthcare Company]. How are you today?
+
+Working Parent: Hi there. I'm doing alright. What can I do for you?
+
+Sales Rep: Well, I'm calling because our company offers a range of healthcare products and services that I believe could be beneficial to your business. Is there someone in charge of processing customer orders that I could speak with?
+
+Working Parent: Yes, that would be me. What kind of services are you offering?
+
+Sales Rep: We offer a wide range of services, such as preventive healthcare, diagnostic screenings, and medical treatments. We also have a comprehensive online platform that allows you to manage your orders and track your progress.
+
+Scenario 1: Working Parent states they already have a healthcare provider
+
+Sales Rep: I understand that you already have a healthcare provider, but I thought it would be beneficial for you to hear about our services. Our products are more cost effective and provide greater access to resources. We also have a range of features that you may not find with your current provider.
+
+Scenario 2: Working Parent states they are too busy
+
+Sales Rep: I understand that you're busy, but I think you'll find our services very helpful. We offer a comprehensive online platform that allows you to manage your orders and track your progress without having to spend too much time. This will allow you to focus on other aspects of running your business.
+
+Scenario 3: Working Parent states they are not interested
+
+Sales Rep: I understand that you may not be interested at this time. If you change your mind, our services are still available. We offer a comprehensive online platform that allows you to manage your orders and track your progress. I'm confident you'll find our services very helpful.

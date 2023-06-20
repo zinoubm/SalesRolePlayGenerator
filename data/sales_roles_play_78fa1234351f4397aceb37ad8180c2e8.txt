@@ -1,0 +1,39 @@
+
+
+Sales Rep: Hello, is this [Business Owner]?
+
+Business Owner: Yes, this is [Business Owner].
+
+Sales Rep: Hi [Business Owner], my name is [Name] and I’m calling from [Healthcare Company]. We specialize in helping businesses like yours with their healthcare needs. 
+
+Business Owner: Alright, what can I do for you?
+
+Sales Rep: Well, we understand that you may be having some issues with delivery times, and we wanted to see if we could help. We have a variety of services that can help you streamline your delivery process and improve your customer service. 
+
+Business Owner: That sounds interesting. What kind of services do you offer?
+
+Sales Rep: Well, we can help you with everything from inventory management to scheduling and routing. We even have data analytics that can help you track and improve your delivery times. 
+
+Business Owner: That sounds great. Who would I need to talk to in order to get started?
+
+Sales Rep: You’d be speaking with me [Name], and I’d be happy to answer any questions you may have. 
+
+Business Owner: Alright, let’s hear more about what you can do for us. 
+
+Sales Rep: Sure thing! As I mentioned, we can help with inventory management, scheduling, routing, and data analysis. We also have a customer service team that can help you address any concerns that your customers may have about delivery times. 
+
+Business Owner: That sounds great. Do you have any success stories of other businesses that you’ve helped?
+
+Sales Rep: Absolutely! We’ve helped many businesses improve their delivery times and customer service. We’d be happy to provide you with some references so you can hear more about how we’ve helped others. 
+
+Business Owner: That would be great. Let’s set up a meeting and discuss more about what you can do for us. 
+
+Sales Rep: Sure thing! I’ll send over some information and we can set up a meeting at your convenience. 
+
+Business Owner: Sounds good. I look forward to hearing more. 
+
+Sales Rep: Great! I look forward to speaking with you soon. Have a great day. 
+
+Business Owner: You too. Goodbye. 
+
+Sales Rep: Goodbye.

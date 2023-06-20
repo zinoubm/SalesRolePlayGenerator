@@ -1,0 +1,21 @@
+
+
+Sales Rep: Good morning. My name is [sales rep name] and I'm calling from [energy company]. How are you today?
+
+Working Parent: I'm doing well, thank you.
+
+Sales Rep: Great. I'm calling because [energy company] is currently offering special rates on energy products that can help you save money. Would you be interested in learning more about this offer?
+
+Working Parent: That does sound interesting. What exactly does the offer entail?
+
+Sales Rep: Sure. We are currently offering discounted rates on energy products that can help to lower your monthly energy bill. We can provide product demonstrations to help you understand how our products work, as well as provide advice on how to get the best savings.
+
+Working Parent: That sounds great. Who would be in charge of providing product demonstrations?
+
+Sales Rep: You can speak with our customer service team and they will be able to help you with any questions you may have about our products. They can also provide product demonstrations if you would like. Would you like to set up a call to discuss this further?
+
+Working Parent: Yes, that would be great. Can you provide me with a contact number?
+
+Sales Rep: Absolutely. I can provide you with the contact number for our customer service team. They will be able to answer any questions you have and provide you with product demonstrations as well. Is there anything else I can help you with today?
+
+Working Parent: No, that should be all. Thank you for your help.

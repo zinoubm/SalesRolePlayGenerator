@@ -1,0 +1,15 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Technology Company]. How can I help you today?
+
+Business Owner: Hi [Sales Rep Name], this is [Business Owner Name], I'm the owner of [Business Name]. What can I do for you?
+
+Sales Rep: Great to speak with you [Business Owner Name]. I'm calling because our [Technology Company] specializes in providing products and services that can help businesses like yours succeed in the ever changing technology landscape.
+
+Business Owner: Interesting. What kind of services do you offer?
+
+Sales Rep: We offer a range of products and services that can help your business stay ahead of the competition. For example, we can provide cloud-based solutions that make it easier to manage data, collaborate with colleagues, and share information with customers. We also offer custom software development, website design, and other IT services.
+
+Business Owner: That sounds great! Who would be in charge of providing product demonstrations to customers at our company?
+
+Sales Rep: Our team of experts would be responsible for providing product demonstrations. Our team is highly experienced in the industry and can provide tailored solutions to meet the needs of your business. We also have a team of customer success managers who are available to help you every step of the way.

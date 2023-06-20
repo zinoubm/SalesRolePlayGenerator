@@ -1,0 +1,25 @@
+
+
+Sales Rep: Good morning! This is [Sales Rep] from [Technology Company]. How are you doing today? 
+
+Young Professional: Hi, I'm doing well. How can I help you? 
+
+Sales Rep: I'm calling to discuss our delivery times and how they may be affecting your business. Are you the right person to speak to about that? 
+
+Young Professional: Yes, I'm in charge of addressing those types of customer concerns. 
+
+Sales Rep: Great! Can you tell me a bit more about how our delivery times have been impacting your customers? 
+
+Young Professional: Yes, our customers have been complaining that our delivery times are too long and that they're not getting their orders on time. 
+
+Sales Rep: I understand why this could be a problem. We've been working hard to improve our delivery times, and we would love for you to be part of that process. Could you tell me a bit more about what your customers are experiencing with our delivery times? 
+
+Young Professional: Yes, they're saying that the delivery times are unpredictable and that they're often not receiving their orders on time. 
+
+Sales Rep: I see. That's not an ideal situation and we're committed to finding a solution. We've recently implemented new technology that should help us improve our delivery times. We'd love for you to be part of the process and give us feedback on how we can better serve your customers. Would you be interested in that? 
+
+Young Professional: Yes, I'd be happy to give you feedback and help you improve your delivery times. 
+
+Sales Rep: That's great! We really appreciate your help. We look forward to hearing from you soon and working together to find a solution. Thank you for your time. 
+
+Young Professional: You're welcome. Have a great day!

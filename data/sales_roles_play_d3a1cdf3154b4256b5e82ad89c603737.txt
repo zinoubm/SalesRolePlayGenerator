@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hi, this is [Name] with [Company], an educational software company. How are you doing today?
+
+Young Professional: I'm doing well, thank you. How can I help you?
+
+Sales Rep: Great! We provide educational software that helps students and teachers reach their learning goals. I'm calling to see if you'd be interested in learning more about our product. 
+
+Young Professional: That sounds interesting. What does your product do?
+
+Sales Rep: Our product offers a comprehensive suite of tools for creating and delivering lessons and assessments. We also provide a library of interactive resources and activities that teachers can use to engage their students. 
+
+Young Professional: That sounds great. Who is this product designed for?
+
+Sales Rep: Our product is designed for teachers, students, and administrators. We offer a variety of features that are tailored to each group. For example, teachers can use our assessments and interactive activities to measure student progress, while students can use our resources to enhance their learning experience. 
+
+Young Professional: What kind of product demonstrations do you offer?
+
+Sales Rep: We offer webinars and live product demonstrations to help our customers get the most out of our product. We also have online tutorials and videos that customers can use to familiarize themselves with our product.
+
+Young Professional: That sounds great. How can I get started with a product demonstration?
+
+Sales Rep: We have a team of experts who are available to provide product demonstrations to customers. I can connect you with one of our team members, who can guide you through the entire process. Can I provide you with their contact information?

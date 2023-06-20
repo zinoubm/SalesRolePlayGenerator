@@ -1,0 +1,19 @@
+
+
+[Sales Rep] Hi, this is [Name] from [Company]. We offer innovative healthcare solutions that can help your business save time and money.
+
+[Business Executive] I'm sorry, I'm not sure how we can help.
+
+[Sales Rep] We understand that you may have questions about pricing, and our team is here to answer them. We provide healthcare solutions that can help reduce costs, streamline processes, and improve customer experience. 
+
+[Business Executive] That sounds interesting. Can you give me an example of how you could help us? 
+
+[Sales Rep] Sure. For example, our software can automate customer service inquiries, allowing staff to focus on other tasks. This can result in fewer customer wait times and improved customer satisfaction.
+
+[Business Executive] That sounds promising. Do you have any other solutions that could help us?
+
+[Sales Rep] Yes, we also offer a platform that can help you track patient data and trends to inform your decision making. This can improve patient outcomes and reduce costs. 
+
+[Business Executive] That sounds great. Who should I speak to about pricing?
+
+[Sales Rep] Our team of experts is here to answer any questions you may have about pricing. I can connect you with the right person.

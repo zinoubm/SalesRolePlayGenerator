@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning, this is [Name], a sales representative from [Company Name]. I'm calling to see if we can help you with any of your healthcare needs. 
+
+Single Parent: Hello, this is [Name]. What do you offer?
+
+Sales Rep: We offer a full range of healthcare services, from preventive care to emergency care. We also offer a variety of technical troubleshooting services to help our customers with any technical issues they may encounter. 
+
+Single Parent: That sounds great. I'm the person in charge of troubleshooting technical issues for our customers. What can you tell me about your services?
+
+Sales Rep: Sure! We specialize in providing personalized customer service to our clients. Our team of experts can help you troubleshoot any technical issues you may have, as well as provide advice and guidance on how to prevent future issues.
+
+Single Parent: That sounds great. Do you offer any customer support?
+
+Sales Rep: Absolutely! We provide 24/7 customer support so that our customers can get the help they need when they need it. We also provide tutorials and resources to help you understand and troubleshoot any issues that may come up.
+
+Single Parent: That's great to hear. What about pricing?
+
+Sales Rep: We have various packages available that are tailored to meet the needs of our customers. We offer competitive prices and discounts for our customers, so you can be sure that you're getting the best value for your money.

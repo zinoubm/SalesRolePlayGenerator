@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hi, is this [College Student]? 
+
+College Student: Yes, who's this?
+
+Sales Rep: Hi [College Student], my name is [Name] and I'm calling from [Company], a healthcare company. I'm reaching out to ask if you have any concerns about delivery times from our company.
+
+College Student: Um, yeah, I've had some issues with that. I've been waiting for items for a few weeks now and still haven't received them.
+
+Sales Rep: I'm sorry to hear that. We take customer satisfaction very seriously at [Company], and we strive to deliver products quickly and efficiently. Can you tell me a bit more about your experiences with delivery times?
+
+College Student: Yeah, the last time I ordered something it took almost a month to arrive.
+
+Sales Rep: That's not ideal, and I apologize for the inconvenience. Let me see what I can do to help. We have several options available to address these concerns. We have a money-back guarantee, so if you're not satisfied with the delivery time, you can get a full refund. We also offer expedited shipping and priority delivery, so you can get your items faster. Is there anything else I can do to help?
+
+College Student: No, that sounds great. Thank you for your help.
+
+Sales Rep: You're welcome. We're here to help. If you have any other questions or concerns, please don't hesitate to reach out. Have a great day!

@@ -1,0 +1,21 @@
+
+
+Sales Rep: Hello! This is [Name], calling from [Energy Company]. Is this [Business Owner]?
+
+Business Owner: Yes, this is [Business Owner]. How can I help you?
+
+Sales Rep: Well, [Business Owner], I was calling to speak with you about our [Energy Company], and how we can help you address customer concerns about delivery times. We specialize in providing energy solutions that are tailored to each customer’s individual needs, and our delivery times are second to none. 
+
+Business Owner: That sounds great, but why should I choose your company over the competition?
+
+Sales Rep: Well, we not only offer the best delivery times, but our customer service is top of the line. We have a team of experts that are always on hand to answer any questions or concerns you may have. And of course, our prices are competitive.
+
+Business Owner: That's all well and good, but I'm still not sure how your company can help me address my customer's concerns about delivery times.
+
+Sales Rep: We understand that customer satisfaction is paramount, and that's why we offer a variety of solutions to ensure that your customers are getting the best delivery times possible. We provide tracking and monitoring services that can help you keep tabs on your deliveries and make sure they arrive on time. We also have a team of experts that can help you optimize your delivery route and make sure that your customers get their packages as quickly as possible. 
+
+Business Owner: That sounds great, but I'm still a bit skeptical. 
+
+Sales Rep: We understand that, and that's why we offer a satisfaction guarantee. If you're not 100% satisfied with our services, we will refund your money. That's how sure we are that our solutions will meet your needs. 
+
+Business Owner: Alright, that sounds good. Let’s set up a meeting to discuss further.

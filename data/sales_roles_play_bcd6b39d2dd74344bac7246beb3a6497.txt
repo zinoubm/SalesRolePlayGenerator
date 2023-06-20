@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hi, my name is [Name] and I'm calling from [Company Name], a healthcare company that specializes in providing healthcare services to entrepreneurs. May I please speak with the person in charge of answering customer questions about pricing?
+
+Entrepreneur: Sure, this is [Name], how can I help you?
+
+Sales Rep: Thanks for taking the call. I wanted to introduce our company and our services to you and get your thoughts on how we might be able to help you. We specialize in providing healthcare services to entrepreneurs like yourself, offering a range of services such as medical care, dental care, and vision care. We also offer flexible pricing options and discounts for entrepreneurs. 
+
+Entrepreneur: That sounds great. What kind of discounts do you offer?
+
+Sales Rep: We offer a range of discounts, such as 10% off for entrepreneurs who sign up for multiple services. We also have a loyalty program that gives additional discounts to entrepreneurs who stay with us for a certain period of time.
+
+Entrepreneur: That sounds interesting. What kind of customer support do you provide?
+
+Sales Rep: We have a team of knowledgeable customer service representatives who are available to answer any questions you might have about our services or pricing. We also offer online chat support, so you can get answers to your questions quickly. 
+
+Entrepreneur: That's great. What if I have a question that your customer service team can't answer? 
+
+Sales Rep: In that case, we have a team of experienced healthcare professionals who can provide additional assistance. They can help you evaluate your healthcare needs, answer any questions you may have, and recommend the best plan for you.

@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, This is [Name] calling from [Company]. We are a leading agricultural company offering a wide range of products. 
+
+High-end Consumer: Hi [Name], What can I do for you? 
+
+Sales Rep: We’re hoping to get your feedback on our products and services. Specifically, we’d like to know how our delivery times compare to other companies in the market. 
+
+High-end Consumer: Sure. What kind of information are you looking for? 
+
+Sales Rep: We would like to know of any concerns you have about our delivery times, and how we can improve them in the future. 
+
+High-end Consumer: Well, I’ve been a customer of [Company] for a few years, and I’ve noticed that delivery times can be quite long. It’s usually fine for us, but it can be a problem for some customers. 
+
+Sales Rep: We understand your concern and take it very seriously. We have recently implemented several new initiatives to improve our delivery times. For example, we have upgraded our fleet of trucks and are now able to deliver faster than ever before. Additionally, we have also implemented a new tracking system that allows customers to track their orders in real time. 
+
+High-end Consumer: That’s great to hear! I think these changes will definitely help improve customer satisfaction. 
+
+Sales Rep: We’re confident that these changes will make a difference. Is there anything else you’d like to know about our products or services? 
+
+High-end Consumer: No, I think that’s all for now. 
+
+Sales Rep: Alright. Well, thank you for your time. If you have any further questions, please don’t hesitate to reach out. We look forward to hearing from you soon. 
+
+High-end Consumer: Sure. Have a great day! 
+
+Sales Rep: You too! Goodbye.

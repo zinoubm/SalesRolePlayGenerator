@@ -1,0 +1,21 @@
+
+
+Sales Rep: Hi, this is [Sales Rep Name] with [Technology Company]. I'm calling today to discuss our technology solutions and how they can help your business.
+
+Entrepreneur: Hi, [Sales Rep Name]. What can your company do for me?
+
+Sales Rep: We specialize in providing custom technology solutions tailored to the needs of your business. Our technology can help streamline operations, increase customer satisfaction, and ultimately drive revenue. We'd love to discuss in further detail how we can help your business grow.
+
+Entrepreneur: That sounds great. Who will be my main point of contact?
+
+Sales Rep: You will be working with me directly. I serve as the main point of contact for all of our customers. I would also like to connect you with the person in charge of resolving customer complaints. Is that something you're interested in?
+
+Entrepreneur: Yes, that would be very helpful.
+
+Sales Rep: Great, I'll get you connected with them right away. I'm sure they will be able to provide valuable insights on how to best serve your customers and ensure their satisfaction.
+
+[Introduce a scenario]
+
+Entrepreneur: What if I want to offer a discount to a customer who has had a poor experience with our services?
+
+Sales Rep: That's a great idea. We can help you create a discount program that is tailored to their needs. We can also provide customer feedback surveys to ensure your customers are satisfied with the service they are receiving. This will help you identify areas for improvement and make sure your customers are getting the best experience possible.

@@ -1,0 +1,35 @@
+
+
+Sales Rep: Good morning, this is [Name], calling from [Agriculture Company]. I'm calling to see if I can help you with anything related to our agricultural products. 
+
+Stay-at-home Parent: Hi [Name], thank you for calling. I'm not sure how I can help you. 
+
+Sales Rep: Well, we specialize in agricultural products and I was hoping to see if you had any questions or inquiries about pricing or anything else.
+
+Stay-at-home Parent: Oh, I see. Well, I'm not sure who to ask about pricing. 
+
+Sales Rep: That's no problem. I can answer any questions you may have about pricing. I'd also be happy to introduce you to the person in charge of answering customer questions about pricing. 
+
+Stay-at-home Parent: That sounds great. I'm interested in learning more about your products and their prices.
+
+Sales Rep: Absolutely, I'd be happy to help. Can I start by asking what kind of agricultural products you are looking for?
+
+Stay-at-home Parent: Yes, I'm looking for seeds and soil for a vegetable garden. 
+
+Sales Rep: Great, we have a wide selection of both seeds and soil. I can tell you more about the different varieties and prices. Would you like to hear more? 
+
+Stay-at-home Parent: Yes, please. 
+
+Sales Rep: Sure, I can provide you with more detailed information about our products and pricing. Would you like me to connect you with the person in charge of answering customer questions about pricing?
+ 
+Stay-at-home Parent: That would be great. 
+
+Sales Rep: No problem. I can connect you with the right person right away. Do you have any other questions for me in the meantime? 
+
+Stay-at-home Parent: Yes, I was wondering if you have any special discounts available for bulk purchases? 
+
+Sales Rep: Absolutely, we have several discounts available for bulk purchases. I can tell you more about them if you'd like. 
+
+Stay-at-home Parent: Yes, please. 
+
+Sales Rep: Great. I'll be happy to provide you with more information about our bulk discounts. Let me connect you with the person in charge of answering customer questions about pricing, and they can provide you with additional details.

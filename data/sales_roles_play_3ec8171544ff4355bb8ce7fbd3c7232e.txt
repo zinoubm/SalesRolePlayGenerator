@@ -1,0 +1,31 @@
+
+
+(Sales Rep): Hi there! My name is [Sales Rep Name] and I’m calling from [Hospitality Company]. How are you today? 
+
+(High-end Consumer): Hi [Sales Rep Name], I'm doing great, thanks. 
+
+(Sales Rep): Great! I’m calling because I heard that [Hospitality Company] could use some help with product demonstrations. Is this something that you are in charge of? 
+
+(High-end Consumer): Yes, I am in charge of providing product demonstrations to our customers. 
+
+(Sales Rep): That’s great! I specialize in hospitality services, and I think my team could help you out with product demonstrations. Would you be interested in having a conversation about the services we offer? 
+
+(High-end Consumer): Sure, I’d be happy to hear what you have to say. 
+
+(Sales Rep): Great! Now, I know that scheduling product demonstrations can be a challenge. I can help make the process easier by providing you with a team of experienced professionals who can handle the entire process for you. 
+
+(High-end Consumer): That sounds great, but I’m not sure if I can afford it. 
+
+(Sales Rep): I understand. That’s why we offer a variety of different pricing options that can fit any budget. We also offer discounts for bulk orders and long-term contracts. 
+
+(High-end Consumer): That sounds like a great deal. I’d like to learn more. 
+
+(Sales Rep): Absolutely! I can provide you with more information about our services and pricing options. Would you like to set up a meeting to discuss this further? 
+
+(High-end Consumer): Yes, that would be great. 
+
+(Sales Rep): Perfect! I’ll set up a meeting and send you the details in an email. Is there anything else that I can help you with today? 
+
+(High-end Consumer): No, I think that’s it. Thank you for your time. 
+
+(Sales Rep): You’re welcome. I look forward to hearing from you soon. Have a great day!

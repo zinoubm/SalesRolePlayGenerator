@@ -1,0 +1,35 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Company Name]. How are you doing today? 
+
+Working Parent: Good morning. I'm doing well, thank you. How can I help you? 
+
+Sales Rep: I'm calling to introduce our hospitality company and discuss pricing for our services. Are you the person in charge of answering customer questions about pricing? 
+
+Working Parent: Yes, I am. What exactly would you like to know? 
+
+Sales Rep: Well, I'm sure you're aware that our hospitality company offers a variety of services from catering to event planning. We'd like to discuss our pricing and how our services could benefit your business. 
+
+Working Parent: That sounds great. What kind of pricing structure do you offer? 
+
+Sales Rep: We offer a variety of pricing options depending on the services needed. We have flexible packages that can be tailored to fit your specific needs. 
+
+Working Parent: That sounds great. Do you offer any discounts or promotions? 
+
+Sales Rep: We do offer discounts and promotions. We also have a loyalty program where customers can earn points for every purchase they make. The points can then be used to save on future purchases. 
+
+Working Parent: That's really helpful. Can you tell me more about the discounts and promotions you offer? 
+
+Sales Rep: Sure. We have special discounts for corporate clients, as well as seasonal promotions. We also offer discounts for bulk purchases and referrals. 
+
+Working Parent: That's great. Can you tell me more about the loyalty program? 
+
+Sales Rep: Absolutely. The loyalty program is a great way to save on future purchases. Customers can earn points for every purchase they make, which can then be used to save on future purchases. 
+
+Working Parent: That sounds great. Can you send me more information about the loyalty program? 
+
+Sales Rep: Absolutely. I'd be happy to send you more information about the loyalty program. Is there anything else I can help you with today? 
+
+Working Parent: No, that should do it. Thank you for your time. 
+
+Sales Rep: It was my pleasure. Have a great day!

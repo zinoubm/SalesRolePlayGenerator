@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning, I'm calling from [Healthcare Company]. I'm hoping to speak with the person in charge of processing customer orders.
+
+Single Parent: This is [Name], how can I help you?
+
+Sales Rep: Hi [Name], I'm [Name] from [Healthcare Company], and we specialize in providing healthcare solutions to people in need. 
+
+Single Parent: That sounds great. What kind of solutions do you offer?
+
+Sales Rep: We offer a variety of medical services, such as diagnostics, treatments, and preventive care. We also provide a wide range of home health care services, such as nursing care, physical therapy, and nutrition counseling. 
+
+Single Parent: That sounds great. What made you think of us?
+
+Sales Rep: We've heard great things about your company, and we believe that our services could be of great value to you. We have a team of experienced professionals that can provide you with the best possible care. 
+
+Single Parent: That sounds promising. What do you need from me?
+
+Sales Rep: We would like to offer you a free consultation to discuss your needs and how our services can help. We can also provide you with a free quote for any services you may need. 
+
+Single Parent: That sounds great. I'm a single parent with a busy schedule. How can I fit this into my day? 
+
+Sales Rep: We understand that you're busy, so we can arrange for you to have a phone consultation or even schedule a home visit if that would work better for you. We can also provide you with digital resources to help you make the best decision for your family. 
+
+Single Parent: That sounds great. Let's set something up. 
+
+Sales Rep: Wonderful. I'll get in touch with you shortly to get things started. Is there anything else I can help you with today? 
+
+Single Parent: No, I think that's all. Thank you for your time. 
+
+Sales Rep: Not a problem. It was great speaking with you and I look forward to working with you. Have a great day.

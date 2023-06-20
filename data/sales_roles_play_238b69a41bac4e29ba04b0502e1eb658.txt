@@ -1,0 +1,37 @@
+
+
+Sales Rep:
+Good morning, this is [Name] from [Company], a hospitality company that provides technical support for customers in the hospitality industry. May I please speak to the person in charge of troubleshooting technical issues?
+
+Business Executive:
+Yes, this is [Name], what can I do for you?
+
+Sales Rep:
+Well, [Name], I'm calling to see if you would be interested in learning more about our services. We have a great team of technical experts that are available to provide round-the-clock support for all your customers' technical issues.
+
+Business Executive:
+That sounds great, but why should we choose your services over our current provider?
+
+Sales Rep:
+That's a great question. Our team is highly experienced and knowledgeable in the hospitality industry, and we understand the unique challenges that come with it. We also offer 24/7 customer support, so you can be sure that your customers will always receive prompt and reliable assistance. Additionally, we have a competitive pricing structure that ensures you're getting the best value for your money.
+
+Business Executive:
+I see. That does sound like a great offer. What other scenarios might we encounter in using your services?
+
+Sales Rep:
+We have a wide range of services that can tailor to any need. We can provide troubleshooting for different software applications and hardware, as well as provide support for network infrastructure and cybersecurity. We even offer training and tutorials to help your team stay up to date on the latest technologies. 
+
+Business Executive:
+That sounds great. What about customer satisfaction?
+
+Sales Rep:
+We take customer satisfaction very seriously. Our team of experts is dedicated to providing the best possible service and ensuring that all of your customers are satisfied with the resolution of their technical issues. We also keep track of customer feedback and are constantly striving to improve our services. 
+
+Business Executive:
+I'm impressed. That all sounds great. I think we should take the next step and schedule a meeting to discuss this in more detail. 
+
+Sales Rep:
+Excellent! I'll get everything set up and let you know when the meeting is scheduled. I look forward to speaking with you soon. 
+
+Business Executive:
+Sounds good. Thank you for your time.

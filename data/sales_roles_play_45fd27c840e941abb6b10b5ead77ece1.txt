@@ -1,0 +1,39 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Agriculture Company], how can I help you?
+
+College Student: Hi [Name], I'm [Name], a college student. I'm calling about a product I recently purchased from your company.
+
+Sales Rep: Hi [Name], what seems to be the issue?
+
+College Student: I need to return the product, but I'm not sure how to go about it.
+
+Sales Rep: Certainly, I can help you with that. Can you tell me a bit more about your purchase?
+
+College Student: Sure, I purchased a [Product] from your website a few days ago.
+
+Sales Rep: Alright, that's no problem. We offer a 14-day return policy, so you should be able to return it. I can help walk you through the process. First, we'll need the order number or invoice number associated with the purchase. Do you have that handy?
+
+College Student: Yes, I do. It's [Order Number].
+
+Sales Rep: Perfect. Next, I'll need to know what the issue is with the product. Is there something wrong with it?
+
+College Student: Yes, there is. It doesn't seem to be functioning properly.
+
+Sales Rep: I'm sorry to hear that. We'll do our best to resolve the issue for you. Can you tell me a bit more about what's wrong with it?
+
+College Student: It's not responding to my inputs.
+
+Sales Rep: Alright, we'll take a look at it and see if we can figure out what's wrong. In the meantime, I can help you with the return process. Can you tell me what address the product was shipped to?
+
+College Student: Yes, it was sent to [Address].
+
+Sales Rep: Got it. Now, I'll need to verify some information to complete the return. Can you provide me with your contact information and the payment method you used?
+
+College Student: Sure. My email address is [Email Address] and I used a [Payment Method] to make the purchase. 
+
+Sales Rep: Great. I have all the information I need. Now, I just need to generate a return authorization number for you. I'll send it to the email address you provided, along with instructions on how to return the product. Is there anything else I can help you with?
+
+College Student: No, that's all. Thank you for your help.
+
+Sales Rep: You're welcome. Have a great day.

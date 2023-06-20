@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning! This is [Sales Rep name] calling from [Hospitality Company name]. How are you today? 
+
+Business Owner: I'm doing well, thank you. How can I help you? 
+
+Sales Rep: We specialize in providing hospitality services to businesses like yours, and I wanted to learn more about your current needs so that we can see if we can be of any assistance. 
+
+Business Owner: That sounds interesting. What kind of services do you offer? 
+
+Sales Rep: We offer a range of services, including training and support for customer service, as well as product warranties for your customers. 
+
+Business Owner: That's great, but we already have a system in place for explaining product warranties to customers. 
+
+Sales Rep: That's fantastic! We've developed a more comprehensive warranty program that includes additional features and benefits, such as extended coverage and online access to your warranty information. It's designed to make it easier for your customers to understand and utilize the warranty they have purchased. 
+
+Business Owner: That sounds like it could be a great addition to our current system. Who would be in charge of managing the warranty program at our company? 
+
+Sales Rep: We have an experienced team of customer service professionals who would be responsible for ensuring that your customers understand and utilize the warranty they have purchased. They would also be available to answer any questions your customers may have about the warranty program. 
+
+Business Owner: That sounds great. Can you provide me with more information about the warranty program and how it works? 
+
+Sales Rep: Absolutely! I'd be happy to walk you through the details of our program and answer any questions you may have.

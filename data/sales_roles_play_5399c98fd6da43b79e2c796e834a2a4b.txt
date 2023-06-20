@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hi, this is [Name] from [Company]. I'm calling to offer our technology services to help your company streamline product returns. 
+
+Stay-at-home Parent: Oh, hi. We're not interested in any new products right now. 
+
+Sales Rep: I understand, but our services are designed to help you make the most of your existing product return system. We can help you streamline the process to make things easier for your customers. 
+
+Stay-at-home Parent: That sounds intriguing. Can you tell me more about how your services work?
+
+Sales Rep: Absolutely! Our services make product returns much easier by automating the process. We can help you create a seamless experience for customers when they return products, which can help increase customer satisfaction. 
+
+Stay-at-home Parent: That sounds great. Who is the person in charge of product returns at our company?
+
+Sales Rep: I'm glad you asked! The best person to speak to would be [Name], who is the head of our customer service department and handles product returns. I can connect you with her if you'd like. 
+
+Stay-at-home Parent: That would be great. Can you put me in touch with her?
+
+Sales Rep: Absolutely! I'll let her know you're interested in learning more about our services and she'll be in touch with you shortly. Is there anything else I can help you with today? 
+
+Stay-at-home Parent: No, that's all for now. Thank you for your help! 
+
+Sales Rep: You're welcome! Have a great day.

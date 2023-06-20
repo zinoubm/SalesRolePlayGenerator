@@ -1,0 +1,33 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Energy Company]. How can I help you today?
+
+Business Owner: Hi, [Sales Rep Name], I'm [Business Owner Name], the owner of [Company Name]. What can I do for you?
+
+Sales Rep: I'm reaching out to you today to discuss our energy services. We understand the importance of providing reliable energy to businesses and want to ensure that your energy needs are met. Are you the person responsible for resolving customer complaints at the company?
+
+Business Owner: Yes, I am.
+
+Sales Rep: Great! I'd love to explore how our energy services can help your business. Can you tell me a bit more about your energy needs and what services you use?
+
+Business Owner: Currently, we use [X] energy services and we are looking to switch to a more cost-efficient option.
+
+Sales Rep: We can definitely help you with that! We offer a variety of energy plans that can help you save money and reduce your energy consumption. Is there any particular plan you're interested in?
+
+Business Owner: Yes, I'm interested in the [X] plan.
+
+Sales Rep: Wonderful! We can definitely help you with that. Let me just quickly check our system to see if that plan is available in your area.
+
+[The Sales Rep takes a few minutes to check the system.]
+
+Sales Rep: It looks like the [X] plan is available in your area and I have the details here. Would you like to hear more about it?
+
+Business Owner: Yes, please go ahead.
+
+[The Sales Rep shares the details of the plan.]
+
+Sales Rep: Do you have any questions or concerns about this plan?
+
+Business Owner: Yes, I'm a bit concerned about the customer service. I've heard some negative reviews about your customer service in the past.
+
+Sales Rep: I understand your concern. We take customer service very seriously, and our team is dedicated to providing the best possible service to our customers. We have a team of customer service professionals who are focused on resolving customer complaints quickly and efficiently. In addition, we offer 24/7 customer support so that you can get help when you need it.

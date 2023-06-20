@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning! I’m calling from XYZ Healthcare Company. How can I help you today? 
+
+High-end Consumer: I’m looking for information about pricing for your products and services. Are you the person in charge of answering questions about pricing? 
+
+Sales Rep: Yes, I am the person in charge of answering questions about pricing at XYZ Healthcare Company. What kind of pricing are you looking for specifically? 
+
+High-end Consumer: I’m looking for pricing information on your high-end products and services. 
+
+Sales Rep: Sure, I understand. We offer a wide range of high-end products and services at different price points. Can I ask what kind of budget you’re working with? 
+
+High-end Consumer: I’m looking to spend around $2,000. 
+
+Sales Rep: Great, I can certainly help you with that. We have a variety of products and services that fit within your budget. For example, our top-of-the-line product is priced at $2,000, and it comes with a one-year warranty and free shipping. 
+
+High-end Consumer: That sounds great. Can you tell me about any other options available in that price range? 
+
+Sales Rep: Absolutely. We also have several other products and services that fit within your budget. For example, we have a mid-range product priced at $1,500 and a basic product priced at $1,000. Both of these products come with a one-year warranty and free shipping. 
+
+High-end Consumer: That’s helpful. Can you tell me more about the differences between the mid-range product and the top-of-the-line product? 
+
+Sales Rep: Certainly. The main difference is that the top-of-the-line product comes with additional features that the mid-range product does not have. For example, the top-of-the-line product includes a higher quality material and a more advanced design. 
+
+High-end Consumer: That’s great. Can you provide me with additional information about the warranty and shipping?
+
+Sales Rep: Absolutely. All of our products come with a one-year warranty, and shipping is free for all orders within the continental United States. 
+
+High-end Consumer: That sounds great. I think I’m ready to make a purchase. 
+
+Sales Rep: Wonderful! I’ll be more than happy to help you with that. Is there anything else I can help you with today?

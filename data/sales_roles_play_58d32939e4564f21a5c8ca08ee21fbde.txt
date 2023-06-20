@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [Name], calling from [Energy Company]. How are you doing today?
+
+College Student: I’m doing okay. How can I help you?
+
+Sales Rep: We’re calling to let you know about our new energy plans, and to see if you’d be interested in switching over to us. 
+
+College Student: I’m not sure. What kind of plans do you have?
+
+Sales Rep: We have a variety of plans to choose from, depending on your budget and energy needs. We have plans that are tailored to college students, so you can get the most savings. 
+
+College Student: That sounds interesting, but I’d like to know more about pricing before I make a decision. 
+
+Sales Rep: Absolutely. I can put you in contact with one of our customer service representatives who can answer all of your pricing questions. Would that be okay?
+
+College Student: Sure, that would be great. 
+
+Sales Rep: Fantastic. I’ll connect you with a customer service representative right away. Is this the best number to reach you at? 
+
+College Student: Yes, that’s correct. 
+
+Sales Rep: Alright, I’m transferring you over now. Have a great day!

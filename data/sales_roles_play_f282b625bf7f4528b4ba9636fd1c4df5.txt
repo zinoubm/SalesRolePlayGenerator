@@ -1,0 +1,19 @@
+
+
+[Sales Rep] Hi, this is [Name] from [Hospitality Company]. I'm calling with a special offer for your company. 
+
+[Single Parent] Oh, hello. What's the offer? 
+
+[Sales Rep] We have a special deal for hospitality companies like yours. We offer a wide range of hospitality services, including catering and event planning, that can help you save time and money. 
+
+[Single Parent] That sounds interesting. Why should we choose your services? 
+
+[Sales Rep] Our services are reliable, cost-effective, and tailored to your exact needs. We understand that you're a single parent, and we want to make sure you have the best experience possible. We'll take the time to understand your goals and create a plan to help you achieve them. 
+
+[Single Parent] That sounds great. Who should I talk to about this offer? 
+
+[Sales Rep] You'll need to speak with the person in charge of processing customer orders. I can connect you with them if you like. 
+
+[Single Parent] Sure, that would be great. 
+
+[Sales Rep] Okay, I'll transfer you now. [Transfers call]

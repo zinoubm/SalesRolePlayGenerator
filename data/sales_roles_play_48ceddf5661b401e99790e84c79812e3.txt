@@ -1,0 +1,25 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] with [Technology Company Name]. I'm calling to speak with the person in charge of explaining product warranties to customers. Is that you?
+
+Working Parent: Yes, that's me. How can I help you?
+
+Sales Rep: I'm calling to inform you about our new product warranty plan for technology products. Our warranty plan covers the repair and replacement of any products that malfunction due to any kind of technical issue.
+
+Working Parent: That sounds great. How much does the plan cost?
+
+Sales Rep: The plan costs a one-time fee of [Price], with no additional costs.
+
+Working Parent: That's great, but I'm concerned about the time it takes to process a warranty claim.
+
+Sales Rep: We understand that time is of the essence. That's why we have streamlined the process and guarantee that your claim will be processed within 24 hours.
+
+Working Parent: That's great. What other benefits does the plan offer?
+
+Sales Rep: In addition to the repair and replacement of any malfunctioning products, the plan also offers a 30-day money back guarantee if you're not satisfied with the product.
+
+Working Parent: That's fantastic. Can I get a copy of the plan to review?
+
+Sales Rep: Absolutely. I can email it to you immediately. Is that okay?
+
+Working Parent: Yes, that's perfect. Thank you for your help.

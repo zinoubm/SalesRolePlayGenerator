@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hi, this is [Sales Rep Name] from [Company Name], the leading education company in the country. How are you doing today? 
+
+Young Professional: Pretty good, thanks. How can I help you?
+
+Sales Rep: Great! We specialize in providing educational resources and services to our customers, and I wanted to see if your company could benefit from our services. 
+
+Young Professional: That sounds interesting. What types of services do you offer?
+
+Sales Rep: We offer a wide range of services, including online courses, textbooks, and educational software. We also provide consulting services and custom-tailored curriculum for businesses. 
+
+Young Professional: That’s impressive. Who would I speak with about processing customer orders?
+
+Sales Rep: That would be me! I can walk you through the process and explain the different options available to you. Is now a good time or would you like to schedule a call for later? 
+
+Young Professional: Now is good. 
+
+Sales Rep: Great! The first step is to decide on the type of services you’d like to receive. Are you interested in our online courses, textbooks, software, or consulting services? 
+
+Young Professional: We are mainly interested in the online courses. 
+
+Sales Rep: Perfect! Our online courses offer a variety of topics and levels of difficulty, so you can find the right course for your needs. We also have a team of experts who can help you customize the course to fit your company’s specific needs. Once you’ve decided on the course, I can help you process the order. 
+
+Young Professional: That sounds great. We’d also like to know more about the textbooks and software you offer. 
+
+Sales Rep: Absolutely! Our textbooks provide comprehensive coverage of the topics and can be used for self-study or in the classroom. Our software is designed to help you track your progress and can be customized to fit your needs. I can provide you with more information on both of these services if you’d like. 
+
+Young Professional: That would be great. 
+
+Sales Rep: Alright. I’ll be happy to provide you with more information and answer any questions you may have. Do you have any specific questions about our services?

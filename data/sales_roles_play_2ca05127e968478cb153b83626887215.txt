@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hello, I'm [Name], calling from [Company]. How are you today?
+
+Young Professional: Hi [Name], I'm doing well. How can I help you?
+
+Sales Rep: I'm calling to introduce our company and offer our technology services. We specialize in upselling additional products and services to help companies improve their efficiency. Are you the person in charge of upselling?
+
+Young Professional: Yes, I'm the one responsible for that.
+
+Sales Rep: Great! Let me tell you a bit more about what we do. We offer a range of technology services that help companies stay on the cutting edge of their industry. Our services are designed to make businesses more efficient, cost-effective, and agile.
+
+Young Professional: That sounds interesting. Can you tell me more about the specific services you offer?
+
+Sales Rep: Sure! We focus on a variety of areas such as cloud computing, analytics, artificial intelligence, and automation. We can also help you with data security and compliance.
+
+Young Professional: That all sounds very useful. What kind of pricing structure do you have?
+
+Sales Rep: We have a variety of pricing options depending on the services you need. We can also offer discounts if you bundle multiple services together. 
+
+Young Professional: That's great. What other kinds of support do you offer?
+
+Sales Rep: We have a dedicated customer service team who can provide technical assistance and advice. We also have a range of online resources to help you get the most out of our services. 
+
+Young Professional: That sounds great. I'm interested in learning more about your services and pricing. Could you send me some more information?
+
+Sales Rep: Absolutely. I'll be happy to send you our brochure and pricing structure. Is there anything else I can help you with?
+
+Young Professional: No, that should do it for now. Thanks for your help.
+
+Sales Rep: You're welcome! It was a pleasure speaking with you. Have a great day!

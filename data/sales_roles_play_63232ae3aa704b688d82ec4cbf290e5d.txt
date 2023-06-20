@@ -1,0 +1,25 @@
+
+
+Sales Rep: Hi, my name is [Name] from [Company]. I’m calling to introduce our company’s technology solutions and services. Can I speak with the person in charge of answering customer questions about pricing? 
+
+Business Executive: Yes, this is [Name]. How can I help? 
+
+Sales Rep: Hi [Name], thanks for taking the time to speak with me. I wanted to discuss our company’s technology solutions and services. We offer competitive prices, and our solutions are tailored to meet your needs. 
+
+Business Executive: That’s great. What kind of pricing do you offer? 
+
+Sales Rep: We offer a variety of pricing models, depending on the size and scope of your needs. We can offer you a flat rate, monthly payment plan, or subscription-based model. 
+
+Business Executive: That sounds interesting. Do you offer any discounts for bulk purchases? 
+
+Sales Rep: Absolutely. We offer discounts for bulk purchases, and we are also willing to negotiate on pricing depending on the size and scope of your needs. 
+
+Business Executive: That sounds great. Can you provide me with some more information on your services and pricing? 
+
+Sales Rep: Of course. I’ll be happy to provide you with more information on our services and pricing. I can also provide you with a free consultation and pricing estimate. 
+
+Business Executive: That would be very helpful. Let’s set up a time to meet and discuss further. 
+
+Sales Rep: Absolutely. I’ll reach out to you with more information and a proposed meeting time. I look forward to speaking with you soon. 
+
+Business Executive: Sounds great. Thank you for your time.

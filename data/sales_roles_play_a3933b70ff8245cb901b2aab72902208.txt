@@ -1,0 +1,21 @@
+
+
+Sales Rep: Good morning, this is [name] from [company]. How are you today?
+
+Entrepreneur: I'm doing well. What can I do for you?
+
+Sales Rep: We're a technology company and we specialize in helping businesses like yours address customer concerns about delivery times. We can help you set up a system that will ensure orders are delivered on time and accurately.
+
+Entrepreneur: That sounds great. Tell me more about what you can do.
+
+Sales Rep: Sure. We have a system that will allow you to track orders from the moment they are placed until they are delivered. You can also set up automated notifications so your customers are always informed of the status of their order.
+
+Entrepreneur: That sounds like it could be really useful. What else can you do?
+
+Sales Rep: We can also help you customize your delivery times to meet the needs of your customers. For example, if you need to deliver orders within a certain timeframe, we can help you manage that. Additionally, we can help you set up a system that will allow you to easily track any late deliveries so you can address them quickly. 
+
+Entrepreneur: That sounds great. What would be the cost for setting up something like this?
+
+Sales Rep: We offer very competitive rates and can work with you to come up with a plan that fits within your budget. We can discuss the specifics and then go from there. 
+
+Entrepreneur: That sounds great. Let's discuss the details.

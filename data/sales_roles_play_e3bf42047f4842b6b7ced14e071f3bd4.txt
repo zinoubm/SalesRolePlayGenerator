@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hi, this is [Sales Rep Name] from [Company Name]. Is this [College Student Name]?
+
+College Student: Yes, this is [College Student Name].
+
+Sales Rep: Hi [College Student Name], I'm calling from [Company Name], an Agriculture Company. We specialize in providing high-quality agricultural products to farmers. How can I help you?
+
+College Student: I'm looking for a company to help with resolving customer complaints.
+
+Sales Rep: That's great! We have a team of highly experienced customer service representatives who specialize in resolving customer complaints. We are passionate about making sure our customers are satisfied with our products and services. How can we be of assistance to you?
+
+College Student: I'm looking for a company that can help me resolve customer complaints quickly and efficiently.
+
+Sales Rep: Absolutely! We have a team of customer service agents who are dedicated to resolving customer complaints quickly and effectively. We understand that customer satisfaction is the key to successful business and we want to ensure that our customers are happy with our products and services. Can I schedule a call with the person in charge of resolving customer complaints?
+
+College Student: Sure, that sounds great.
+
+Sales Rep: Great! Let me just get some details from you so I can set up the call. What is the best time and day to reach out to the person in charge of resolving customer complaints?
+
+College Student: Tuesday at 2pm would be best.
+
+Sales Rep: Perfect! I will be sure to reach out to the person in charge of resolving customer complaints at that time. Is there anything else I can do for you today?
+
+College Student: No, that's all. Thank you.
+
+Sales Rep: You're welcome. It was a pleasure speaking with you, [College Student Name]. Have a great day!

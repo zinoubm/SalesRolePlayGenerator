@@ -1,0 +1,37 @@
+
+
+Sales Rep: Good morning, this is [Name], calling from [Company Name]. How can I help you today?
+
+Senior Citizen: Hi there. I'm not sure what this call is about. 
+
+Sales Rep: Well, we're an education company that specializes in providing high-quality academic materials and services to students, parents and teachers. Is this something you or your company might be interested in?
+
+Senior Citizen: Maybe. What are some of the services you offer?
+
+Sales Rep: We offer a wide range of services, from tutoring and mentoring to online courses and workshops. We also provide a variety of academic materials, such as textbooks, practice tests, and study guides.
+
+Senior Citizen: That sounds interesting. Who would be in charge of processing orders for such services?
+
+Sales Rep: That would be [Name], our customer service manager. He's the person you'll need to speak to in order to get the ball rolling. Would you like me to transfer you to him or would you prefer to speak with me first?
+
+Senior Citizen: I think it would be best if I spoke with him first.
+
+Sales Rep: Sure thing. Let me just connect you with him. [Transfer call]
+
+Customer Service Manager: Hello, this is [Name], how can I help you? 
+
+Senior Citizen: Hi, I was speaking to [Name] from [Company Name] and he mentioned something about services and materials that you provide. I'm interested in learning more. 
+
+Customer Service Manager: Absolutely. Let me give you an overview of what we offer and then we can discuss what's best for you. We offer a range of services, such as tutoring and mentoring, online courses and workshops, as well as academic materials like textbooks, practice tests and study guides. 
+
+Senior Citizen: That sounds great. How do I go about ordering these services and materials? 
+
+Customer Service Manager: You can order them online on our website or you can call us and we can process the order for you. We also offer discounts for bulk orders. 
+
+Senior Citizen: That's great to know. I'll definitely keep that in mind. 
+
+Customer Service Manager: Is there anything else I can help you with today? 
+
+Senior Citizen: Yes, I have a few questions about the materials. 
+
+Customer Service Manager: No problem. I'm more than happy to answer any questions you have.

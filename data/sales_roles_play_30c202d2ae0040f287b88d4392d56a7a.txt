@@ -1,0 +1,19 @@
+
+
+[Sales Rep]: Hello, may I please speak with the person in charge of responding to customer inquiries about product features at the company? 
+
+[Young Professional]: Yes, this is [Name], how can I help you?
+
+[Sales Rep]: Hi [Name], my name is [Name] and I'm calling from [Energy Company]. We're here to offer our energy solutions to businesses in the area. Would you be interested in learning more about our services and how we can help you?
+
+[Young Professional]: Sure, what can you tell me about your services?
+
+[Sales Rep]: Well, we offer a variety of energy solutions that can help businesses reduce their energy costs and be more energy efficient. We also offer incentives such as free energy audits and discounts on energy-saving equipment.
+
+[Young Professional]: That sounds great, but I'm concerned about the cost. What kind of pricing do you offer?
+
+[Sales Rep]: We have flexible pricing structures that are tailored to each customer's individual needs. We can work with you to create a payment plan that fits your budget and helps you achieve your energy-saving goals.
+
+[Young Professional]: That sounds good, but I would like to know more about your customer service before I make a decision.
+
+[Sales Rep]: Of course! We pride ourselves on providing excellent customer service. We have a 24/7 customer support line and a team of experienced professionals who can answer any questions you may have. We also offer free consultations to help you make the best decision for your business.

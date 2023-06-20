@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [name], from [Hospitality Company]. I am calling to introduce our services to you. How are you today? 
+
+Working Parent: Hello, I'm doing great, thanks. What services do you offer?
+
+Sales Rep: We provide top-notch technical support services for the hospitality industry. Our team of experts can help troubleshoot technical issues with customers quickly and efficiently. Does your company have any technical issues that you need help with? 
+
+Working Parent: Yes, we do. We have been having some difficulty with our customer service software lately and it has been causing a lot of frustration for our customers.
+
+Sales Rep: That sounds like a difficult problem to deal with. Our team of professionals can help you with that. We have experienced technicians who can help troubleshoot the issue quickly and efficiently. We also have a 24/7 support line for any urgent needs. 
+
+Working Parent: That sounds great. Can you tell me more about the services you offer and how much they cost? 
+
+Sales Rep: Absolutely. Our services are tailored to each customer's needs, so the cost can vary. However, our rates are competitive and we offer discounts for long-term contracts. 
+
+Working Parent: That sounds good. Can you tell me more about what your team can do to help us troubleshoot the issue? 
+
+Sales Rep: Of course. Our team of technicians can analyze the issue, identify the root cause and develop a strategy to resolve the issue. We also provide ongoing maintenance and support to ensure the issue does not recur. 
+
+Working Parent: That sounds great. I would like to discuss this further. Can you set up a meeting with me to discuss the details? 
+
+Sales Rep: Absolutely. I can set up a meeting anytime that works for you. What time would you like to meet? 
+
+Working Parent: How about next Tuesday at 10am? 
+
+Sales Rep: Perfect. I'll be sure to send you a confirmation email. I look forward to meeting with you and discussing our services further.

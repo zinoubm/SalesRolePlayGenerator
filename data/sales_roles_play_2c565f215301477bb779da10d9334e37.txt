@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hello, I'm [Name], calling from [Hospitality Company]. How are you doing today? 
+
+Working Parent: Hi, I'm doing alright. What can I do for you?
+
+Sales Rep: I'm calling to introduce you to our services at [Hospitality Company]. We offer a wide range of hospitality services, from event planning to catering. 
+
+Working Parent: That sounds interesting. What kind of features does your company offer?
+
+Sales Rep: We offer a variety of features, such as custom menus, décor options, and entertainment packages. We also provide full service event planning, so you don't have to worry about anything. 
+
+Working Parent: That's great. What about customer service? 
+
+Sales Rep: Absolutely. We have a dedicated customer service team that will be available to answer any questions you may have. We also offer 24/7 support, so you can always get in touch with us if you need assistance. 
+
+Working Parent: That's really helpful. What about pricing? 
+
+Sales Rep: We offer competitive pricing and we're always happy to work with customers to find the best solution for their needs. We also have various discounts and promotions that we can offer. 
+
+Working Parent: That sounds great. I appreciate you taking the time to explain everything. 
+
+Sales Rep: You're welcome. Is there anything else I can help you with? 
+
+Working Parent: No, that's all. Thank you.
+
+Sales Rep: It was a pleasure speaking with you. Have a great day.

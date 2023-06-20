@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Agriculture Company Name]. How are you today?
+
+Single Parent: Hi [Sales Rep Name], I'm doing alright. How can I help you?
+
+Sales Rep: I'm calling from [Agriculture Company Name], and I wanted to speak with you about our products and services. Are you familiar with our company?
+
+Single Parent: Yes, I've heard of you before.
+
+Sales Rep: That's great to hear. I wanted to know if you had any questions or concerns about our delivery times?
+
+Single Parent: Yes, I do have a few questions. What kind of delivery times can I expect?
+
+Sales Rep: We offer same day delivery for most of our products and services, depending on the availability of the item. We also offer next day delivery, and sometimes even faster depending on the location. 
+
+Single Parent: That sounds great. Can I trust that the delivery will arrive on time?
+
+Sales Rep: Absolutely. We take pride in our delivery times, and we always strive to make sure that our customers receive their products and services on time. We also have a team of experienced customer service representatives who are available to answer any questions or concerns you might have about our delivery times.
+
+Single Parent: That's great to hear. I think I'm ready to make a purchase.
+
+Sales Rep: Wonderful! We are happy to have you as a customer. Is there anything else I can help you with before you make your purchase? 
+
+Single Parent: Not at this time. 
+
+Sales Rep: Great. I look forward to helping you with your purchase. Thank you for your time. Have a great day!

@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep] from [Company Name]. How can I help you today? 
+
+College Student: Hi, I'm looking for more information about the healthcare products your company is offering.
+
+Sales Rep: Absolutely, I'd be happy to help you with that! Our healthcare products are designed to provide the best possible care for our customers. We have a range of plans that are tailored to different needs, so we can find one that's perfect for you. 
+
+College Student: That sounds great. Can you tell me more about the features of your products?
+
+Sales Rep: Absolutely! Our products are designed to provide comprehensive coverage, with a wide range of benefits including doctor visits, hospitalization, prescription drugs, and more. We also offer a variety of discounts and incentives, to help make our products more affordable. 
+
+College Student: That sounds great. Can you tell me more about the customer service you offer?
+
+Sales Rep: Of course! We take customer service very seriously, and we strive to provide our customers with the best possible experience. We have a team of agents available to answer any questions or concerns you may have, and we are always happy to help. 
+
+College Student: That's great to hear. Can you tell me more about the pricing of your products?
+
+Sales Rep: Absolutely! Our products are designed to be both affordable and comprehensive, and we offer a variety of discounts and incentives that can help make our plans even more affordable. We also offer flexible payment options, to make it easier for our customers to manage their healthcare costs. 
+
+College Student: That's really helpful. Is there someone I can contact if I have more questions?
+
+Sales Rep: Of course! We have a team of dedicated customer service agents that can answer any questions you may have. You can reach out to them via email, phone, or our website, and they'll be happy to help.

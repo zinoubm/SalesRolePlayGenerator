@@ -1,0 +1,27 @@
+
+
+Sales Rep: [Cold call] Good morning, may I please speak to the person in charge of processing customer orders at your hospitality company?
+
+Business Executive: Yes, this is [name]. How can I help you?
+
+Sales Rep: Hi [name], my name is [Name], and I am calling from [Company Name]. We offer a variety of services designed to help hospitality companies increase their efficiency and streamline their operations. 
+
+Business Executive: That sounds interesting. Could you tell me more?
+
+Sales Rep: Certainly! We provide software solutions that help companies manage customer orders with ease and accuracy. Our services allow you to process orders quickly, get real-time updates, and have access to customer data. We also offer various features such as automated order reminders, order tracking, and customer loyalty programs. 
+
+Business Executive: That sounds great! But what makes your services stand out from the competition?
+
+Sales Rep: We are committed to providing the best customer experience possible. Our customer service representatives are available 24/7 to assist you with any questions or concerns you may have. We also offer a range of customization options to suit your business needs. 
+
+Business Executive: That's impressive. Can you provide examples of how your software has helped other companies?
+
+Sales Rep: Absolutely! We have had great success with a number of hospitality companies. For example, one company saw a 20% increase in customer orders after implementing our software. Another company was able to reduce processing time by 50%, which allowed them to serve more customers in a shorter amount of time. 
+
+Business Executive: That's impressive. Can I get a free trial of your services? 
+
+Sales Rep: Absolutely! We offer a free trial period for all of our services. We are confident that you will be impressed with our features and capabilities. 
+
+Business Executive: Great! I'd love to give it a try. 
+
+Sales Rep: Wonderful! I'll put you in touch with one of our customer service representatives to get you started. Thank you for your time and I look forward to hearing from you. Have a great day!

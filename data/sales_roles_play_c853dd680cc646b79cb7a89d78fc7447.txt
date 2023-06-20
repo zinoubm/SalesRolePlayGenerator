@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, my name is [Sales Rep Name] and I am calling from [Hospitality Company]. How can I help you today?
+
+Business Owner: Hi [Sales Rep Name], I'm [Business Owner Name], the owner of [Business Name]. What's this call about?
+
+Sales Rep: Well, [Business Owner Name], our hospitality company specializes in providing product demonstrations to customers. We have a range of different products and services, and we'd love to work with you to figure out what would work best for your business. 
+
+Business Owner: That sounds great. What do you think would be the best way for us to get started?
+
+Sales Rep: Well, the first step would be to schedule a product demonstration with one of our experts. They can show you the features and benefits of our products, and answer any questions you may have. 
+
+Business Owner: That sounds perfect. Can you tell me more about the products you offer and how they can help my business? 
+
+Sales Rep: Absolutely, [Business Owner Name]. Our products are designed to help you streamline your operations, save time and money, and provide customers with an excellent experience every time. We also offer a range of customization options, so you can tailor the product to your specific needs. 
+
+Business Owner: That sounds great, but I'm worried about the cost. 
+
+Sales Rep: I understand your concern. We have a range of pricing options to suit any budget. And if you decide to purchase our product after the demonstration, you'll be eligible for a special discount. 
+
+Business Owner: That sounds great. How soon can we schedule a product demonstration?
+
+Sales Rep: We can usually schedule a demonstration within a week or two. We'll also provide you with all the necessary resources to help you get started. 
+
+Business Owner: That sounds perfect. I look forward to seeing what you have to offer. 
+
+Sales Rep: We're excited to work with you, [Business Owner Name]. I'll get in touch with you soon to confirm the details of the product demonstration. Have a great day!

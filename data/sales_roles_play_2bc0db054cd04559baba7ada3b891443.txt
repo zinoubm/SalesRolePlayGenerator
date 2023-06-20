@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning! I’m [Sales Rep Name] with [Healthcare Company]. How are you doing today?
+
+Stay-at-home Parent: I’m doing okay, what can I do for you?
+
+Sales Rep: I’m calling because [Healthcare Company] offers a wide range of products and services for health care professionals and we’d love to have you as a customer. 
+
+Stay-at-home Parent: Alright, what kind of products do you offer?
+
+Sales Rep: We offer a variety of products including medical supplies, hospital equipment, and patient care products. 
+
+Stay-at-home Parent: That’s great. But I’m afraid I don’t work in the health care field.
+
+Sales Rep: Not to worry. We also offer products and services to those who don’t work in health care. For example, we provide support for product returns and exchanges, which may be of interest to you. 
+
+Stay-at-home Parent: That sounds great! I’d love to learn more about that.
+
+Sales Rep: Sure! Our customer service team is always available to assist with product returns and exchanges. We can even provide you with a free consultation to answer any questions you may have. 
+
+Stay-at-home Parent: That sounds great. Who should I speak with to get more information?
+
+Sales Rep: For product returns and exchanges, you should speak with our customer service team. They will be able to help you with any questions you may have.

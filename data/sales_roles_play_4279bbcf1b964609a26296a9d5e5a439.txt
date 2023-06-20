@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning, this is [Name], calling from [Healthcare Company]. How are you doing today?
+
+College Student: Hi [Name], I'm doing well, thank you for asking.
+
+Sales Rep: I'm glad to hear it. I'm calling to discuss our healthcare products and services, and how we can help your company. Are you the person in charge of explaining product warranties to customers?
+
+College Student: Yes, that's me.
+
+Sales Rep: Great! Let me start by explaining what our company has to offer. We specialize in providing healthcare products and services with competitive prices and reliable warranties. Our products are designed to be user-friendly and to provide a high level of customer satisfaction.
+
+College Student: That sounds interesting. Could you tell me more about your warranties?
+
+Sales Rep: Absolutely. Our warranties cover all parts and labor for a set amount of time, and if any repairs are needed, we will cover them for free. We also offer extended warranties for customers who want an extra layer of protection.
+
+College Student: That sounds like a great deal. Could you tell me more about the extended warranty?
+
+Sales Rep: Sure. The extended warranty covers all parts and labor for a longer period of time and also offers additional benefits, such as free shipping and priority repair service. It's a great way to ensure that your customers are getting the best possible service.
+
+College Student: That sounds great. Do you offer any discounts or promotions?
+
+Sales Rep: Yes, we do! We offer discounts for bulk orders and for customers who sign up for our loyalty program. We also have seasonal promotions that are available throughout the year. 
+
+College Student: That sounds perfect. Can I get a quote for the products and services that you offer?
+
+Sales Rep: Absolutely. I can provide you with a quote right away. Would you like me to email it to you?
+
+College Student: Yes, that would be great. Thank you for your time.
+
+Sales Rep: You're welcome. It was my pleasure speaking with you and I look forward to hearing from you soon. Have a great day!

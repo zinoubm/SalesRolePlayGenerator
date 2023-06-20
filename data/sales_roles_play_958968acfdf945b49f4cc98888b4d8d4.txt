@@ -1,0 +1,31 @@
+
+
+[Sales Rep]: Hi, this is [name] from [Company], a healthcare company that specializes in providing affordable healthcare solutions for working parents. I'm calling because I'd like to discuss our product features with you. Are you the person in charge of responding to customer inquiries about product features?
+
+[Working Parent]: Yes, that's me. How can I help you?
+
+[Sales Rep]: Thank you for taking the time to speak with me. We have a variety of products that can meet your needs as a working parent. Our products are designed to provide you with the peace of mind that comes with knowing that your family is covered. 
+
+[Working Parent]: That sounds interesting. What kind of features do your products offer?
+
+[Sales Rep]: Our products offer a variety of features, including coverage for doctor visits, hospital stays, and prescription drugs. We also have an array of additional benefits, such as access to 24/7 customer service, discounts on everyday items, and a variety of other savings opportunities. 
+
+[Working Parent]: That sounds great. What other features do you have that may be of interest to me?
+
+[Sales Rep]: We also offer coverage that can help you manage chronic conditions, such as diabetes and asthma. We have comprehensive coverage for preventive care and routine doctor's visits, as well as access to a wide range of specialists to help you manage your health. We also provide financial assistance for many services, such as vision and dental care, so you can get the care you need without worrying about the cost.
+
+[Working Parent]: That's great! What kind of customer service do you provide?
+
+[Sales Rep]: We offer 24/7 customer service, so you can get help when you need it. Our customer service team is knowledgeable, friendly, and always ready to assist you. We also have an online portal where you can access your account information and manage your coverage at any time. 
+
+[Working Parent]: Sounds great. What kind of discounts do you offer?
+
+[Sales Rep]: We offer discounts on a variety of everyday items, including groceries, clothing, and electronics. We also offer discounts on gym memberships, movie tickets, and other entertainment. We also have a variety of other savings opportunities, such as discounts on hotels and car rentals. 
+
+[Working Parent]: That's great! What do you need from me now in order to get started?
+
+[Sales Rep]: We just need some basic information from you and then we can get started. All you need to do is fill out a few forms and we can have you set up in no time. 
+
+[Working Parent]: Okay, sounds good. I'll get the forms filled out and get back to you.
+
+[Sales Rep]: Great, I look forward to hearing from you. Thanks for your time.

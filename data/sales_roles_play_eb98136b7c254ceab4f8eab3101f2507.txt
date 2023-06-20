@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [name] from [company name], an energy company. I'm calling to check in with you and see if there are any questions or concerns you may have about our energy services. 
+
+Business Owner: Hi [name], I'm [name], the business owner. At the moment we're not looking to switch providers, but I would like to know more about pricing. 
+
+Sales Rep: Sure, I'd be happy to answer any questions you may have. Can you tell me a bit about your current energy usage? 
+
+Business Owner: Sure. We use [amount] of energy per month.
+
+Sales Rep: Great, that helps me give you a better estimate of our prices. Based on your current usage, we can offer you a rate of [price]. Are there any other questions I can answer for you about our services? 
+
+Business Owner: Yes, I'm interested in knowing what kind of payment plans you offer and if there are any discounts available. 
+
+Sales Rep: Absolutely! We offer several payment plans, and we also have special discounts for certain customers. Would you like to hear more about those? 
+
+Business Owner: Yes, I'd like to know more. 
+
+Sales Rep: Great! We have several different payment plans that you can choose from, and we also offer discounts for customers who pay their bills on time and in full. Is there anything else I can answer for you? 
+
+Business Owner: No, that should do it. 
+
+Sales Rep: Alright, thank you for your time. If you have any other questions, please don't hesitate to reach out. Have a great day!

@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hello, this is [Name] from [Company], and I'm calling to talk to you about how our technology services can help your business. 
+
+Business Owner: Hi [Name], what can you do for us? 
+
+Sales Rep: We have a range of services that can help you with any technical issues you may have. Our team of specialists are highly trained and experienced in troubleshooting, so we can help you quickly identify and resolve any technical problems you may have. 
+
+Business Owner: That sounds great. Could you tell me a bit more about the services you offer? 
+
+Sales Rep: Of course. We offer a wide range of services such as website development, cloud hosting, software development, and data analysis. We also have a team of experts on hand to help troubleshoot any technical issues you may have. 
+
+Business Owner: That sounds like something our company could use. Who would be in charge of troubleshooting if we used your services? 
+
+Sales Rep: Our team of experienced technicians are available 24/7 to help you with any technical issues. They can also provide advice on how to prevent future technical problems. 
+
+Business Owner: That sounds like a great service. Do you have any other services you offer? 
+
+Sales Rep: Yes! We also offer security services, such as antivirus protection, firewalls, and malware detection. We also have a team of experts on hand to help you ensure your data is secure and protected from any potential threats. 
+
+Business Owner: That sounds like a great service. Is there anything else you can offer us? 
+
+Sales Rep: Yes, we offer a range of additional services such as email hosting, website hosting, and domain registration. We also have a team of experts who can help you with any technical issues you may have. 
+
+Business Owner: That sounds great. I'd like to learn more about your services. How can I get in touch with you? 
+
+Sales Rep: You can reach out to me at [phone number] or email me at [email address]. We can discuss any technical issues you may have and also give you more information about our services. 
+
+Business Owner: Great, I'll be in touch soon. Thanks for your time. 
+
+Sales Rep: You're welcome. Have a great day!

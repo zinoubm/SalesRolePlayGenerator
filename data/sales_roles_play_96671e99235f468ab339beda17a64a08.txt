@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hi [Name], my name is [Name], and I'm calling from [Company]. We are a technology company that provides products and services to businesses like yours. 
+
+Working Parent: Hi [Name], nice to meet you. What can I do for you today?
+
+Sales Rep: We specialize in helping businesses upsell their products and services. Are you the person in charge of upselling additional products or services at your company?
+
+Working Parent: Yes, I am. What do you have to offer?
+
+Sales Rep: We offer a full suite of services that can help you increase your sales and improve customer satisfaction. For instance, we can provide customized training and development programs, as well as sales support services to help you grow your business. 
+
+Working Parent: That sounds interesting. Could you tell me more about what you offer?
+
+Sales Rep: Absolutely. We offer a variety of services to help you reach your goals, including lead generation, customer segmentation, and marketing automation. We also provide tools and resources to help you track and analyze your performance. 
+
+Working Parent: That sounds great. How much does it cost?
+
+Sales Rep: We offer a variety of pricing plans, depending on your needs. We also offer discounts for businesses that commit to a long-term contract. 
+
+Working Parent: That sounds good. How soon can we get started?
+
+Sales Rep: We can get started right away. I'll send you some more information about our services and pricing plans, and we can set up a time to discuss them further. Does that sound good? 
+
+Working Parent: Yes, that sounds good. I look forward to hearing from you. 
+
+Sales Rep: Great. I'll be in touch soon. Have a great day.

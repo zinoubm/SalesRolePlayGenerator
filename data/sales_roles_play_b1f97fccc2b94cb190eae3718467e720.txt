@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hello, my name is [Name], and I’m calling from [Company]. We’re a hospitality company that specializes in providing high-quality service and accommodations to our customers. 
+
+Single Parent: Hi [Name], how may I help you? 
+
+Sales Rep: Well, I wanted to introduce our company and services to you and discuss how we may be able to assist you. Would you be interested in learning more? 
+
+Single Parent: Maybe. What types of services do you offer? 
+
+Sales Rep: We offer a variety of hospitality services such as hotel reservations, event planning, and catering. We also have a full-service restaurant and bar. 
+
+Single Parent: That sounds great. What about the features of your products? 
+
+Sales Rep: Absolutely. We pride ourselves on offering the best in quality and service. Our hotel rooms are comfortable and well-equipped with modern amenities. Our event planning services include custom menus and decorations, and our catering is tailored to meet your needs. 
+
+Single Parent: That all sounds great. Do you offer any discounts? 
+
+Sales Rep: Yes, we offer discounts for large groups and special events. We also have a loyalty program that offers additional discounts and perks. 
+
+Single Parent: That sounds great. Do you have any customer service support? 
+
+Sales Rep: Yes, we have a dedicated customer service department that is available to answer any questions. We also have an online help center and telephone hotline so you can get the answers you need quickly. 
+
+Single Parent: Wonderful. Is there anything else I should know before I make a decision? 
+
+Sales Rep: Yes, we have a satisfaction guarantee that ensures that you will be happy with our services. We also offer a money-back guarantee if you are not satisfied with our products or services. 
+
+Single Parent: That sounds great. I think I’d like to give your services a try. 
+
+Sales Rep: Wonderful! I’m glad to hear that. We look forward to working with you and providing you with the best in hospitality services.

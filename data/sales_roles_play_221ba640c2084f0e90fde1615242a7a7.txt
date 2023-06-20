@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hi, I'm calling from [Technology Company], and I'm looking to speak with the person in charge of answering customer questions about pricing.
+
+College Student: Hi, that's me. How can I help you?
+
+Sales Rep: Great! We're a technology company that specializes in providing innovative solutions to businesses. We've recently launched a new product that could save businesses time and money, and I'm sure it would be of great interest to you.
+
+College Student: That sounds interesting. What kind of product is it?
+
+Sales Rep: It's a software platform that helps businesses automate mundane tasks and streamline their operations. It's easy to use and very cost-effective. 
+
+College Student: Hmm, that sounds like something that could be useful. What kind of pricing do you offer?
+
+Sales Rep: We offer competitive pricing, and we have a variety of packages that can fit any budget. We also offer discounts for larger orders, and we can customize a package to fit your specific needs.
+
+College Student: That sounds great. Could you tell me a bit more about the features of the product? 
+
+Sales Rep: Absolutely! The product includes features like task automation, cloud storage, real-time analytics, and much more. It also has a user-friendly interface that makes it easy to use. 
+
+College Student: That sounds impressive. Do you offer any free trials? 
+
+Sales Rep: Yes, we do. We offer a free trial for our basic package, and you can upgrade to a paid subscription at any time.

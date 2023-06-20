@@ -1,0 +1,25 @@
+
+
+[Sales Rep] Hi, this is [sales rep name], I'm calling from [hospitality company]. Is this the right person I should be speaking with about product warranties? 
+
+[Entrepreneur]  Yes, this is [entrepreneur name]. How can I help you? 
+
+[Sales Rep]  Great! I'm calling to let you know about a new product warranty we offer that can help your business. We specialize in hospitality services and we understand the importance of providing customers with peace of mind. 
+
+[Entrepreneur] That's interesting. Tell me more about your product warranty. 
+
+[Sales Rep] Sure! Our product warranty covers any repair or replacement of a product for a set period of time. We also offer additional services like extended warranties and accidental damage coverage. 
+
+[Entrepreneur] That sounds like a great offer. What are the terms and conditions of your product warranty? 
+
+[Sales Rep] Our product warranty is valid for up to two years from the date of purchase. The warranty covers any defects in materials and workmanship, but does not cover any damages caused by misuse or abuse. We also offer an optional accidental damage coverage plan that covers any damages caused due to an accident. 
+
+[Entrepreneur] That's great. How do I get started? 
+
+[Sales Rep] You can purchase the warranty directly from our website, or you can give us a call and we can help you set up the coverage you need. 
+
+[Entrepreneur] That sounds great. I'll think about it and get back to you. 
+
+[Sales Rep] No problem. If you have any questions, don't hesitate to reach out. We'd be happy to help. Thanks for your time. Have a great day. 
+[Entrepreneur] You too. Bye. 
+[Sales Rep] Bye.

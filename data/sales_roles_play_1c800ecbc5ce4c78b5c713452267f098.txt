@@ -1,0 +1,23 @@
+
+
+Sales Rep: [Making a cold call] Hello, may I please speak with the person in charge of responding to customer inquiries about product features?
+
+High-end Consumer: Yes, this is [Name]. 
+
+Sales Rep: Hi [Name], this is [Name] from [Company]. We’re a leading energy company providing innovative solutions for all of your energy needs. 
+
+High-end Consumer: What can I do for you? 
+
+Sales Rep: We specialize in providing our customers with clean, reliable energy that helps them save money and reduce their environmental footprint. We believe that everyone should have access to affordable energy, and we’re committed to making that happen. 
+
+High-end Consumer: That’s great, but what can you do for me specifically? 
+
+Sales Rep: [Scenario 1]: We offer a variety of packages that can be tailored to your specific needs, whether you’re looking for a basic package or something more comprehensive. We also have a variety of incentives and discounts available that can help you save even more money. 
+
+High-end Consumer: [Scenario 2]: What about renewable energy options? Do you offer any of those? 
+
+Sales Rep: Absolutely! We have a range of renewable energy options available, including solar, wind, and hydropower. We can work with you to tailor a package that meets your individual needs and helps you transition to more sustainable energy sources. 
+
+High-end Consumer: [Scenario 3]: What about customer service? How responsive is your team when I have a question or need assistance? 
+
+Sales Rep: We take customer service very seriously and strive to provide our customers with the best possible experience. Our team is highly trained, always available, and ready to answer any questions you may have. We also have a variety of resources and tools available to help you make the most of your energy services.

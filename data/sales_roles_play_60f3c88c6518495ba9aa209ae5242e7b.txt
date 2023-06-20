@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Healthcare Company]. I’m calling to see if I can help you find the right healthcare plan for your family. 
+
+Working Parent: Oh, hello. What kind of help do you offer?
+
+Sales Rep: We specialize in providing healthcare plans for families. We have a variety of different plans, so I’m sure we can find one that fits your needs.
+
+Working Parent: That sounds great. Can you tell me more about your plans?
+
+Sales Rep: Absolutely. Our plans are tailored to meet the needs of different types of families. We offer plans with different levels of coverage, so you’re sure to find the one that best fits your family’s needs.
+
+Working Parent: That sounds great. Can you tell me more about the pricing?
+
+Sales Rep: Sure. We have several different pricing options depending on the plan you choose. I can go over a few of the options with you, if you’d like.
+
+Working Parent: That would be great.
+
+(Sales Rep goes over the pricing options for each plan)
+
+Working Parent: That’s very helpful. Do you have someone I can speak with about questions about the plans and pricing?
+
+Sales Rep: Absolutely. I can connect you with one of our customer service representatives who can answer any questions you have. Would you like me to do that now?
+
+Working Parent: Yes, please.
+
+(Sales Rep connects Working Parent with customer service representative)

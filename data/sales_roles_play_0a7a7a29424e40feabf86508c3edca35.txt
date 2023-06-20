@@ -1,0 +1,24 @@
+
+Sales Rep: Hello, is this [Name]? 
+
+Customer: Yes, this is [Name].
+
+Sales Rep: Hi [Name], this is [Name] with [Hospitality Company]. I’m calling to discuss our product return services and see if they would be a good fit for your company.
+
+Customer: OK, what do you have to offer?
+
+Sales Rep: We offer a full range of services, from simple refunds to complex exchanges. We also have an extensive network of product return centers, so you’re sure to find the best solution for your needs.
+
+Customer: That sounds great, but I’m a single parent and don’t have a lot of extra time to deal with returns.
+
+Sales Rep: I completely understand. We offer a streamlined process that takes only a few minutes. Also, all of our services are completely free to you, so you don’t have to worry about any additional costs.
+
+Customer: That’s great. Is there anything else I should know?
+
+Sales Rep: Yes, we have a dedicated customer service team that can assist you with any questions or concerns you may have. We also have a rewards program that allows you to earn points every time you make a return. 
+
+Customer: That sounds great. Can I speak with someone in charge of product returns? 
+
+Sales Rep: Absolutely! I can connect you with the appropriate person right away. Let me just put you on hold for one moment. 
+
+(Places customer on hold and connects them with the person in charge of product returns)

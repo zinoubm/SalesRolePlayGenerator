@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hi, my name is [Name], and I'm calling from [Company]. We specialize in providing technology solutions for businesses. I wanted to see if I could help answer any questions you might have about our pricing.
+
+Working Parent: Sure, I'm interested in learning more about your pricing. What kind of options do you offer?
+
+Sales Rep: We offer a variety of packages for our customers. For instance, we have a basic package that includes hardware and software installation, technical support, and training. We also offer enterprise-level solutions for larger businesses.
+
+Working Parent: That's great, but I'm a bit pressed for time. Can you tell me more about the pricing for these packages?
+
+Sales Rep: Absolutely. The basic package starts at $500 per month and includes unlimited support and training. The enterprise packages start at $1500 per month and offer additional features and benefits, such as priority support and custom solutions.
+
+Working Parent: That sounds reasonable. Do you offer any discounts for larger orders?
+
+Sales Rep: Yes, we do offer discounts for larger orders. We can work with you to create a custom package that meets your needs and fits your budget. Would you like to discuss further?
+
+Working Parent: Yes, I would like to discuss further. Can you tell me more about the customization options?
+
+Sales Rep: Of course. We can customize our packages to meet your exact needs. We also offer additional services, such as custom software development and on-site support. We can work with you to create a package that meets your budget and includes all of the features you need.

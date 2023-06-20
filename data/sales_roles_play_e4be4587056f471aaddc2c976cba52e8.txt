@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Healthcare Company]. How are you?
+
+Entrepreneur: Hi, [Name], I'm doing well. How can I help?
+
+Sales Rep: I'm calling to discuss a great opportunity to upsell additional products or services at your company. Can I ask who would be in charge of making such decisions?
+
+Entrepreneur: Sure. That would be [Name], our head of sales.
+
+Sales Rep: That's great. Can I speak with him/her?
+
+Entrepreneur: I'm sorry, [Name] is out of the office today. Is there something I can help you with?
+
+Sales Rep: Absolutely. I'd be more than happy to explain the opportunity. Our healthcare company offers a variety of products and services, including [list products/services] that can help improve the efficiency of your business. 
+
+Entrepreneur: That's interesting. Can you tell me more about these products and services?
+
+Sales Rep: Of course! [Explain more about the products/services]. We have a team of experts who are available to help you customize the services to fit your specific needs. 
+
+Entrepreneur: That sounds great. Can you provide me with more information so I can discuss this opportunity with [Name] when he/she returns?
+
+Sales Rep: Absolutely. I can email you a brochure that outlines our services and pricing. Would that be helpful?
+
+Entrepreneur: Yes, that would be very helpful.
+
+Sales Rep: Wonderful. I'll get that to you right away. In the meantime, is there anything else I can help you with?
+
+Entrepreneur: No, that's all. Thank you for your help.
+
+Sales Rep: You're welcome. I look forward to hearing from [Name] soon. Have a great day!

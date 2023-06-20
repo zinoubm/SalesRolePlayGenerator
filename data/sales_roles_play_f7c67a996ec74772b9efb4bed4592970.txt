@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning. This is [name], calling from [Technology Company]. We specialize in providing innovative solutions to help businesses increase their efficiency and productivity. Could I speak with someone in charge of answering customer questions about pricing?
+
+Young Professional: Yes, I'm in charge of that. How can I help you? 
+
+Sales Rep: Great! I'm calling because we offer many products that can help simplify your company's operations. Our team of experienced professionals can provide you with customized solutions tailored to your specific business needs. Would you be interested in discussing our products and services and how they could benefit your business?
+
+Young Professional: Sure, I'm interested in hearing more.
+
+Sales Rep: Wonderful! First, I'd like to go over our pricing structure. We have several packages available ranging from basic to advanced and our prices are very competitive. Would you like to hear more about the different packages and what they include? 
+
+Young Professional: Yes, that would be helpful.
+
+Sales Rep: Great! [Then provide an overview of each package and what they include.] Now, do you have any questions or concerns about our pricing structure or any of the features included with each package? 
+
+Young Professional: Yes, I'm wondering if there are any discounts available if we purchase multiple packages? 
+
+Sales Rep: Absolutely! We have several discounts available for bulk purchases that can help you save even more. Would you like to hear more about those options? 
+
+Young Professional: Yes, please! 
+
+Sales Rep: [Provide an overview of the different discounts available and explain how they can help the customer save money.] Does that answer your question? 
+
+Young Professional: Yes, thank you. I think I have enough information now to make an informed decision. 
+
+Sales Rep: Wonderful! Is there anything else I can help you with? 
+
+Young Professional: No, that's all. Thanks for taking the time to explain everything. 
+
+Sales Rep: You're welcome! If you have any other questions or concerns, please don't hesitate to reach out. We're here to help! Have a great day!

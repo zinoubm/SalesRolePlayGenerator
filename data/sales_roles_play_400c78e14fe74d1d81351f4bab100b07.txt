@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Insert Name] from [Healthcare Company]. Is this a good time to speak? 
+
+High-end Consumer: Sure, what can I do for you?
+
+Sales Rep: We are a healthcare company that specializes in troubleshooting technical issues for customers. I was wondering if you have any issues that need to be addressed that we could help you with? 
+
+High-end Consumer: Well, we do have some technical issues that we've been struggling with lately. 
+
+Sales Rep: Great, I'd be more than happy to help. Can you tell me a bit more about the issues so I can better understand what I can do to help? 
+
+High-end Consumer: Sure. We've been having trouble with our network connections and our system crashes frequently.
+
+Sales Rep: That sounds like a difficult issue to troubleshoot. I know our team has a lot of experience dealing with these kinds of issues. Would you like me to set up a call for you with one of our experts so we can work on a solution? 
+
+High-end Consumer: That sounds great.
+
+Sales Rep: Perfect! I'll get that set up for you and have one of our experts reach out to you. Is there anything else I can help you with today? 
+
+High-end Consumer: Actually, we've also been having trouble with customer service lately. The response times are too slow and customers are getting frustrated. 
+
+Sales Rep: That is definitely a problem. We have a team of customer service experts that can help you streamline your process and make sure customers get the help they need in a timely manner. Would you like me to set up a call for you with one of our experts to discuss it further? 
+
+High-end Consumer: That would be great. 
+
+Sales Rep: No problem. I'll get that set up for you and have one of our experts reach out to you. Is there anything else I can help you with today?

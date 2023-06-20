@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hello, is this [Young Professional]?
+
+Young Professional: Yes, this is [Name].
+
+Sales Rep: Hi [Name], this is [Sales Rep] calling from [Education Company]. We specialize in providing training and support for educational institutions. Is this a good time to discuss our services?
+
+Young Professional: Sure, what can I help you with?
+
+Sales Rep: We provide a range of services to help with troubleshooting technical issues for customers. Our team of experts will be able to help with any technical issues that you may be facing.
+
+Young Professional: That's interesting. What kind of technical issues do you handle? 
+
+Sales Rep: We can provide help and support for any technical issue that may arise, including software installation, hardware setup, network connectivity and security issues. We also offer comprehensive training for our customers, so they can get the most out of their technology and stay up-to-date with the latest trends in the industry.
+
+Young Professional: That sounds great. I'm in charge of troubleshooting technical issues for our customers, so I'm sure your services would be beneficial. Do you offer any discounts or packages?
+
+Sales Rep: Yes, we offer a range of packages that can be tailored to meet your needs. We also provide special discounts for educational institutions. If you're interested, I'd be happy to discuss the details with you.
+
+Young Professional: That sounds great. Let's talk about it.
+
+Sales Rep: Perfect. Let me explain what our packages include and how our discounts work. We have a range of packages that include everything from basic technical support to more advanced services such as software installation and hardware setup. We also offer discounts for educational institutions, so you can get the best value for your money. 
+
+Young Professional: That sounds great. I'm definitely interested in learning more about your services.
+
+Sales Rep: Great! I'm happy to answer any questions you may have and provide more information about our services.

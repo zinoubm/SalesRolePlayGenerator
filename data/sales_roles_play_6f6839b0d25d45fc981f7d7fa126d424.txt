@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good Morning, this is [Name] from [Healthcare Company].
+
+Business Owner: Hi, [Name]. How can I help you?
+
+Sales Rep: I am calling to discuss our healthcare services and to see if your company is interested in learning more about what we have to offer. 
+
+Business Owner: Sure, what do you have in mind?
+
+Sales Rep: We provide a wide range of healthcare services, from preventive health care to in-home patient care. We can help you maximize the quality of care for your clients while minimizing the costs. 
+
+Business Owner: That sounds interesting. What can you tell me about the cost?
+
+Sales Rep: Our services are tailored to meet the needs of your company and they are very competitively priced. We also offer a variety of payment options to suit your budget.
+
+Business Owner: That's great. Who would be responsible for providing product demonstrations to our clients?
+
+Sales Rep: We have a team of experienced professionals who are more than capable of providing product demonstrations to your clients. We can also provide training to your staff to ensure they are up to date with the latest technology and medical practices. 
+
+Business Owner: That sounds great. How soon can you get started? 
+
+Sales Rep: We can begin as soon as you are ready. Our team is available to answer any questions you might have and can provide you with a customized plan tailored to your needs. 
+
+Business Owner: That sounds perfect. I look forward to hearing from you. 
+
+Sales Rep: Excellent. We'll be in touch soon. Thank you for your time.

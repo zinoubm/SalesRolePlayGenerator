@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hello, my name is [Sales Rep Name] and I'm calling from [Company Name]. We specialize in [description of technology]. Can I speak with the person in charge of responding to customer inquiries about product features? 
+
+Stay-at-home Parent: Hi, this is [Name]. I'm sorry, the person you're looking for isn't available right now. Can I help you with something? 
+
+Sales Rep: Certainly. I'm sure you're aware of how important technology is in our everyday lives. We offer innovative products that can help make life easier. Is this something you would be interested in? 
+
+Stay-at-home Parent: It sounds interesting, but I'm not sure I have the time to look into it. 
+
+Sales Rep: I understand. We offer our products in a variety of packages so you can choose what works best for you. We also have a team of experts who can help you with product features and answer any questions you may have. Can I have your email so I can send you more information? 
+
+Stay-at-home Parent: Sure, that sounds great. 
+
+Sales Rep: Wonderful. I'll make sure to follow up with you soon. Is there anything else I can help you with today? 
+
+Stay-at-home Parent: No, that's all for now. 
+
+Sales Rep: Great. Thank you for your time and I look forward to speaking with you again soon. Have a great day.

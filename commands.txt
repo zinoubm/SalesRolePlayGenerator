@@ -1,0 +1,1 @@
+fint tuning:  openai api fine_tunes.create -t "fine_tuning_data.jsonl" --model davinci

@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Healthcare Company]. How are you doing today?
+
+College Student: Good morning, I'm doing well. How can I help you?
+
+Sales Rep: I'm calling because I noticed that your company is in the healthcare industry and I wanted to introduce our product to you. We specialize in providing comprehensive solutions for healthcare providers, and I think our product might be a great fit for you.
+
+College Student: That's interesting. Could you tell me more about it?
+
+Sales Rep: Absolutely! Our product provides a range of solutions to help healthcare providers manage their operations more effectively. It helps them streamline their processes, improve patient care, and increase their efficiency. We also offer product demonstrations so that our customers can get a firsthand look at how our product can help them. 
+
+College Student: That sounds great. Do you have any customer success stories? 
+
+Sales Rep: Yes, we do. We have several customers who have seen significant improvements in their operations after using our product. We would be more than happy to show you their success stories and put you in touch with them. 
+
+College Student: That would be helpful. Is there someone I can talk to about setting up a product demonstration?
+
+Sales Rep: Yes, absolutely. We have a team of experts who can provide detailed demonstrations and answer any questions you may have. We can connect you with the person in charge of providing product demonstrations, and they can help you set up an appointment.

@@ -1,0 +1,33 @@
+
+
+Sales Rep: Good morning, my name is [Name] and I’m calling from [Company Name]. We provide energy solutions for businesses. How can I help you today?
+
+Stay-at-home Parent: Hi [Name], I'm a stay-at-home parent and I'm not sure how I can help you.
+
+Sales Rep: That’s okay. We are looking to connect with the person in charge of providing product demonstrations to customers at your company. Do you know who that would be?
+
+Stay-at-home Parent: No, I'm afraid I don't know who that would be.
+
+Sales Rep: That's alright. Can I ask you a few questions to help me find the right person? 
+
+Stay-at-home Parent: Sure, go ahead.
+
+Sales Rep: Does your company have any in-house staff or contractors who specialize in demonstrating products?
+
+Stay-at-home Parent: Yes, we do. We have a team of in-house staff who provide product demonstrations.
+
+Sales Rep: Great. Do you know who is in charge of that team?
+
+Stay-at-home Parent: Yes, that would be [Name].
+
+Sales Rep: Perfect. Can I have [Name]'s contact information so I can reach out to them? 
+
+Stay-at-home Parent: Sure. [Name]'s contact information is [Contact Information]. 
+
+Sales Rep: Thank you for that information. Is there anything else I can help you with?
+
+Stay-at-home Parent: Not at the moment, but I'll keep you in mind if I think of anything else. 
+
+Sales Rep: Thanks for your time. Have a great day. 
+
+Stay-at-home Parent: You too. Bye.

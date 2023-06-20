@@ -1,0 +1,25 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Energy Company]. How are you doing today?
+
+Entrepreneur: Good morning. I'm doing well, thank you.
+
+Sales Rep: I'm calling to discuss ways [Energy Company] can help your business save money on energy costs. Can you tell me a little bit more about your company and what you're looking for?
+
+Entrepreneur: Sure. We are a [description of company] and we're looking for ways to reduce our energy costs.
+
+Sales Rep: That sounds great. We can definitely help with that. We have a variety of services and products that could help you save money and reduce your energy costs. Can I ask, who is in charge of Upselling additional products or services at your company?
+
+Entrepreneur: That would be me.
+
+Sales Rep: Great! I'd love to discuss our products and services and how they could help you. Are you open to a discussion?
+
+Entrepreneur: Yes, I'm open to hearing about your products and services.
+
+Sales Rep: Wonderful. Let me start by telling you about our energy-saving products and services. We have a variety of options that could help you save money and reduce your energy costs. For example, our solar panels are designed to help you reduce your energy costs by converting the sun's energy into electricity. We also offer energy-efficient light bulbs and appliances that can help you save money on your energy bills. Would you like to hear more about our products and services?
+
+Entrepreneur: Yes, please tell me more.
+
+Sales Rep: Sure. We also offer energy-conservation incentives and rebates that can help you save even more money on your energy bills. We can also help you find energy-saving tips and strategies that can help you reduce your energy costs. Would you like to learn more about these options?
+
+Entrepreneur: Yes, that sounds great.

@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning! My name is [Sales Rep Name] and I'm calling from [Company Name], an agriculture company that specializes in providing high quality tech solutions to farmers. Is this a good time to talk?
+
+Business Owner: Yes, go ahead.
+
+Sales Rep: Great! So, I understand that you are the person in charge of troubleshooting technical issues for customers. We specialize in providing tech solutions to farmers, and I wanted to find out how we could help with any of your current needs or challenges.
+
+Business Owner: We have had some difficulty in the past with our current setup, so I am interested in hearing what you have to offer.
+
+Sales Rep: Absolutely! Our team specializes in providing customized solutions that are tailored to your specific needs. We can provide a wide range of services, from software development and installation to support and maintenance. We also provide onsite training for employees and customers, so that they can get the most out of our products and services. 
+
+Business Owner: That sounds great. Can you tell me more about your services?
+
+Sales Rep: Sure! We are committed to providing quality products and services that are designed to meet the needs of farmers. Our team of experts can help you choose the right solution for your business and ensure that it is implemented correctly. We also offer ongoing support and maintenance to ensure that your system is running smoothly and efficiently.
+
+Business Owner: That sounds like it could be a great fit for our needs. What would be the next steps to get started?
+
+Sales Rep: We would be happy to provide you with a free consultation to discuss your needs in more detail and provide you with a customized solution. From there, we can move forward with the implementation process and provide you with the necessary training and support.

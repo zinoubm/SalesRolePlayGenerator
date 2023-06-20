@@ -1,0 +1,42 @@
+
+
+Sales Rep: Good morning, 
+Business Owner: Good morning.
+
+Sales Rep: My name is [Name] and I'm calling from [Company Name], a hospitality company that specializes in providing quality customer service and amenities to businesses. How are you today?
+
+Business Owner: I'm doing well, thank you.
+
+Sales Rep: Great! I was wondering if I could speak with the person in charge of answering customer questions about pricing at your company.
+
+Business Owner: Yes, that would be me. What can I do for you?
+
+Sales Rep: I'm here to find out more about your current pricing structure, and see if there is any way we can make it more competitive in order to better serve your customers. 
+
+Business Owner: We strive to offer competitive prices, but we also need to keep our overhead costs low in order to remain profitable. 
+
+Sales Rep: I completely understand that, and that's why I'm here. Our company can provide you with a comprehensive hospitality package that includes all of the amenities you need, but at a discounted rate. This will help you to keep your overhead costs low, while still providing excellent customer service. 
+
+Business Owner: That sounds interesting. Can you tell me more about the package? 
+
+Sales Rep: Absolutely! Our hospitality package includes a variety of services, such as on-site catering, housekeeping, event planning, and more. All of these services come at a discounted rate, and we offer flexible payment plans to make it easier for you to budget.
+
+Business Owner: That sounds great. What other benefits would we receive by working with your company? 
+
+Sales Rep: We also offer specialized customer service training to ensure that your employees have the skills and knowledge they need to provide the best possible service to your customers. Additionally, our team is always available to answer any questions or concerns you may have. 
+
+Business Owner: That all sounds very promising. Can you tell me more about the pricing structure?
+
+Sales Rep: Certainly. Our pricing structure is based on a tiered system, with discounts for larger orders. We also offer a variety of payment plans to make it easier for you to budget. 
+
+Business Owner: That sounds great. Can you send me more information about the package, so I can review it with my team?
+
+Sales Rep: Absolutely! I'll be sure to send you all the information you need. Is there anything else I can do for you today? 
+
+Business Owner: Not at this time. Thank you for your time. 
+
+Sales Rep: You're welcome. I look forward to hearing from you soon. Have a great day! 
+
+Business Owner: You too. Goodbye. 
+
+Sales Rep: Goodbye.

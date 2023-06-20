@@ -1,0 +1,21 @@
+
+
+Sales Rep: Hi, this is [Sales Rep Name] from [Hospitality Company]. I'm calling to introduce our services and see if we can help you with any hospitality needs you may have. 
+
+Stay-at-home Parent: Hi, I'm not really in charge of anything related to hospitality. Who did you need to speak with?
+
+Sales Rep: We serve a wide range of businesses, large and small, in the hospitality industry. Are you in charge of resolving customer complaints at your company? 
+
+Stay-at-home Parent: No, that’s not my department.
+
+Sales Rep: That’s okay. I understand. We specialize in providing hospitality services for businesses. We can work with you to improve customer service, increase customer satisfaction, and help you manage customer complaints. 
+
+Stay-at-home Parent: That sounds interesting, but I don’t think I’m the right person to talk to.
+
+Sales Rep: That’s okay. I understand. Is there someone else in your organization who might be interested in learning more about our services? 
+
+Stay-at-home Parent: Yes, you can speak with our manager in charge of customer service. 
+
+Sales Rep: Great! Could you provide me with his or her contact information? 
+
+Stay-at-home Parent: Sure, I can do that.

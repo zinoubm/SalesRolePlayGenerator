@@ -1,0 +1,21 @@
+
+
+Sales Rep: Hi, this is (Name) from ABC Hospitality Company. Can I speak to the person in charge of addressing customer concerns around delivery times? 
+
+High-end Consumer: Yes, that's me. How may I help you? 
+
+Sales Rep: Great! I'm calling to let you know that we have been working hard to improve our delivery services and have implemented several new strategies to ensure our customers receive their orders in a timely fashion. Would you like to hear more about what we are doing? 
+
+High-end Consumer: Sure, please go ahead. 
+
+Sales Rep: Our team is now actively monitoring and responding to customer inquiries in a timely manner. We have also streamlined our order processing process to reduce delays and ensure your orders are delivered as quickly as possible. Additionally, we are now offering same-day delivery and free shipping for orders over $50. 
+
+High-end Consumer: That sounds great! How will this benefit our customers? 
+
+Sales Rep: Our customers will enjoy faster delivery times, more reliable services, and cost savings with free shipping for orders over $50. We are confident that these changes will help us provide better customer service and satisfaction. 
+
+High-end Consumer: That's very impressive. I think our customers will be thrilled with these changes. 
+
+Sales Rep: We are confident that our customers will be pleased with the results. Thank you for taking the time to speak with me today. Is there anything else I can help you with? 
+
+High-end Consumer: Not at this time. Thank you for your help.

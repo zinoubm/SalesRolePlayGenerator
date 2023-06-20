@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Energy Company], how can I help you today? 
+
+Stay-at-home Parent: Hi [Name], this is [Name], I'm a stay-at-home parent. 
+
+Sales Rep: Nice to meet you [Name], I'm calling to tell you about a new energy product we offer that can help you save money on your energy bills. 
+
+Stay-at-home Parent: That sounds interesting. What are the benefits? 
+
+Sales Rep: Our new energy product offers competitive rates, easy installation, and access to a customer service line that is staffed 24/7 with knowledgeable energy experts who can answer all your questions and troubleshoot any technical issues you may have. 
+
+Stay-at-home Parent: That sounds great. I'm in charge of troubleshooting technical issues for customers at my company, so I'm definitely interested in this product. What else do you have to offer? 
+
+Sales Rep: We also have a variety of payment plans to choose from that can fit any budget. Plus, our customer service team is available to help you with any questions that may arise. 
+
+Stay-at-home Parent: That sounds really great. I'd love to learn more about this product. 
+
+Sales Rep: Absolutely! I'd be more than happy to answer any questions you may have and explain the features and benefits of our energy product. Is there anything else I can help you with? 
+
+Stay-at-home Parent: Yes, I have a few questions about the installation process. Can you tell me more about that? 
+
+Sales Rep: Sure! Our installation process is quick and easy. We have trained technicians who will come to your home and install the product in no time. We'll also provide you with all the necessary tools and instructions. Is there anything else I can help you with? 
+
+Stay-at-home Parent: No, that's all. Thank you for your time. 
+
+Sales Rep: You're welcome! If you have any further questions, please don't hesitate to give us a call. We look forward to hearing from you soon. Have a great day!

@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hi, this is [Name] from [Agriculture Company]. How are you doing today? 
+
+Young Professional: Hi, I'm doing well. How can I help you?
+
+Sales Rep: I'm calling to see if you have any questions or concerns about delivery times for our Agriculture products. 
+
+Young Professional: Yes, we are having some issues with delivery times. We were expecting our order to arrive last week, but it still hasn't shown up.
+
+Sales Rep: I apologize for the delay. I understand your frustration and we are doing our best to make sure all orders are delivered on time. Can I ask what the order was for?
+
+Young Professional: We ordered some fruits and vegetables for our restaurant. 
+
+Sales Rep: Got it. I'll check with our warehouse team to see what the status is and get back to you with an update. In the meantime, is there anything else I can help you with?
+
+Young Professional: No, that's all. Thank you.
+
+Sales Rep: No problem. I'll be in touch soon with an update. Have a great day.

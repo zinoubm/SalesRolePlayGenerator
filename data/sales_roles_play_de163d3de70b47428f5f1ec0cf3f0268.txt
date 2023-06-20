@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hi, this is [name] from [company]. Is this [Stay-at-home Parent]?
+
+Stay-at-home Parent: Yes, this is [Stay-at-home Parent].
+
+Sales Rep: Hi [Stay-at-home Parent], I'm calling because [company] is a leader in technology solutions and we wanted to let you know about our services. Our focus is on helping you get the most value from your technology investments. What do you use your technology for?
+
+Stay-at-home Parent: We use it mostly for personal use. We have a couple of laptops, a phone and a smart TV.
+
+Sales Rep: Great! We understand that you may have some concerns about the delivery times for our products. We want to make sure that you get the best service possible. We have a team of experts who are dedicated to making sure that your order arrives on time and in perfect condition. 
+
+Stay-at-home Parent: That's great to know. I'm interested in hearing more.
+
+Sales Rep: We also offer a satisfaction guarantee, so if you're not satisfied with your purchase, you can return it for a full refund. 
+
+Stay-at-home Parent: That's really reassuring. What other services do you offer? 
+
+Sales Rep: We also provide technical support and maintenance services. We can help you with any technical issues you may have with your existing devices, as well as set up new devices. We also have a wide selection of products that you can choose from. 
+
+Stay-at-home Parent: That sounds great. I appreciate that you took the time to explain your services to me. 
+
+Sales Rep: Our pleasure. Is there anything else I can help you with today? 
+
+Stay-at-home Parent: No, that's all for now. Thank you for your time. 
+
+Sales Rep: Thank you for your time. Have a great day!

@@ -1,0 +1,25 @@
+
+
+Sales Rep: Hello, is this [Name]? 
+
+High-end Consumer: Yes, this is [Name].
+
+Sales Rep: Hi [Name], this is [Name], calling from [Energy Company]. We are a leading provider of clean energy solutions, and I'm reaching out to see if you would be interested in learning more about our services. 
+
+High-end Consumer: Sure, what services do you offer? 
+
+Sales Rep: Great! We offer a range of services, including solar energy, wind energy, and energy efficiency solutions. We also provide custom solutions for any specific energy needs that you may have. 
+
+High-end Consumer: That sounds interesting. Can you tell me more about the energy efficiency solutions? 
+
+Sales Rep: Absolutely. Our energy efficiency solutions are designed to help you save money by reducing your energy costs. We can install energy-efficient lighting, appliances, and HVAC systems to help you reduce your energy consumption. 
+
+High-end Consumer: That sounds great. How do I know that I can trust your services?
+
+Sales Rep: We understand that trust is important when it comes to energy solutions. That's why we are committed to providing the highest quality of service and products. We also have a team of experts on hand to resolve any customer complaints. Is there someone in charge of resolving customer complaints at your company that I can speak to? 
+
+High-end Consumer: Yes, that would be me. How can I help? 
+
+Sales Rep: Great! I'd love to discuss our services in more detail with you and answer any questions that you may have. Is now a good time to talk? 
+
+High-end Consumer: Sure, let's talk.

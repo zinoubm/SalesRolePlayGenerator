@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hello, this is [Name], and I'm calling from [Energy Company]. Is this [Stay-at-home Parent]?
+
+Stay-at-home Parent: Yes, this is [Stay-at-home Parent].
+
+Sales Rep: Hi [Stay-at-home Parent], I'm so glad I was able to reach you today. I'm calling because I wanted to talk to you about our energy services. We offer a variety of energy-saving products and services that can help you reduce your energy costs and improve the efficiency of your home. 
+
+Stay-at-home Parent: That sounds great. What kind of products and services do you offer?
+
+Sales Rep: We offer energy-efficient light bulbs, energy efficient appliances, energy-saving thermostats, and more. We can also provide you with energy-saving tips and advice on how to implement energy-saving measures in your home. 
+
+Stay-at-home Parent: That sounds very interesting. Do you have any special deals or discounts available?
+
+Sales Rep: Yes, we do. We are currently offering a 10% discount on all of our energy-saving products and services. 
+
+Stay-at-home Parent: That's great. What else can you tell me? 
+
+Sales Rep: We can also help you with upselling your energy services. We offer a variety of options to help you save money and reduce your energy costs. We also have a team of experts who can provide you with advice and support on how to get the most out of your energy services. 
+
+Stay-at-home Parent: That sounds very helpful. Can you tell me more about the upselling options? 
+
+Sales Rep: Sure! We offer a range of upselling options that are tailored to your needs. We can help you find the best energy-saving products and services for your home, and we can provide you with tips and advice on how to make the most of your energy-saving measures. We also offer incentives and rewards for customers who upgrade their energy services. 
+
+Stay-at-home Parent: That sounds great. I'd like to learn more about what you have to offer. 
+
+Sales Rep: Absolutely! I'd be more than happy to provide you with more information and answer any questions you may have. Is there anything else I can help you with today? 
+
+Stay-at-home Parent: No, that's it. Thank you for your time. 
+
+Sales Rep: You're welcome! I look forward to speaking with you again soon. Have a great day!

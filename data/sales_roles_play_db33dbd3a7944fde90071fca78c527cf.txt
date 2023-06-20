@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good Morning, this is [Sales Rep Name] from [Company Name]. How are you doing today?
+
+Business Executive: Why hello there, this is [Business Executive Name]. I'm doing great, thank you. How can I help you?
+
+Sales Rep: I'm reaching out to let you know about our new healthcare products that we offer. We specialize in providing healthcare services to businesses, and I think our services could be very beneficial to your company. 
+
+Business Executive: That sounds interesting. What specifically do you offer?
+
+Sales Rep: We offer a wide variety of healthcare services, including medical plans, health savings accounts, prescription drug plans, and more. We can customize our services to meet the needs of your business.
+
+Business Executive: That sounds great. Can you tell me more about how your services work?
+
+Sales Rep: Absolutely. Our services are designed to be flexible and affordable, and can be tailored to the specific needs of your business. We also provide 24/7 customer support, so you never have to worry about any issues that may arise.
+
+Business Executive: That’s really helpful. Who would I be speaking with in terms of processing customer orders?
+
+Sales Rep: You would be speaking with our customer service team. They are available to assist you with any questions or issues you may have. They can provide you with a detailed quote and provide you with any additional information you may need.
+
+Business Executive: That sounds great. Is there any way I can get in touch with them?
+
+Sales Rep: Absolutely. You can contact them via phone, email, or our online chat. They are available to assist you with any questions or issues you may have.

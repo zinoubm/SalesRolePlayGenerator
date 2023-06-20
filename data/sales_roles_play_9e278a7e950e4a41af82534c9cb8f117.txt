@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] calling from [Healthcare Company Name]. Are you the person in charge of assisting customers with product returns?
+
+Single Parent: Hi [Sales Rep Name], yes this is [Single Parent Name]. How can I help you?
+
+Sales Rep: Thank you for taking the time to speak with me [Single Parent Name]. We are a healthcare company that specializes in providing innovative treatments and solutions for medical problems. We’ve recently introduced a new product that is designed to help reduce recovery time and improve patient outcomes. 
+
+Single Parent: That sounds great. What kind of product is this, and how can it help my family?
+
+Sales Rep: Our product is a revolutionary new device that combines the latest in medical technology with a user-friendly design. It is designed to help reduce recovery time and improve patient outcomes by providing a more comfortable and efficient treatment process.
+
+Single Parent: That sounds like something my family could benefit from. Can you tell me more about it?
+
+Sales Rep: Absolutely. Our product is designed to be easy to use and maintain, and it comes with a number of features that make it ideal for home use. It also has an intuitive user interface and a wide variety of settings that can be tailored to each user’s needs.
+
+Single Parent: That sounds great. What kind of warranty does it come with?
+
+Sales Rep: Our product comes with a two-year warranty that covers any defects or malfunctions. In addition, we also offer a 30-day money-back guarantee in case you’re not completely satisfied with the product.
+
+Single Parent: That’s great. Do you offer any discounts for single parents?
+
+Sales Rep: Absolutely. We are proud to offer a 10% discount to single parents. Please let me know if there is anything else I can do to help.

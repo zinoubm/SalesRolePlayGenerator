@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Company]. How are you today? 
+
+Working Parent: Good morning. I'm doing okay. How can I help you?
+
+Sales Rep: I'm calling on behalf of [Company], an energy company that is dedicated to providing reliable and affordable energy services. We are offering a special package with competitive prices and great benefits for new customers. 
+
+Working Parent: That sounds interesting. What kind of benefits are we talking about?
+
+Sales Rep: We offer competitive rates, flexible payment options, and a rewards program that can help you save money on your energy bills. Plus, our delivery times are guaranteed. 
+
+Working Parent: That's great. Delivery times are always a concern for me, so I'm glad to hear that's something you guarantee. 
+
+Sales Rep: Absolutely! We value the customer experience, and understand how important timely deliveries are to our customers. We also have a dedicated customer service team that is available to address any concerns or issues you may have. 
+
+Working Parent: That's great. Are there any other benefits I should know about?
+
+Sales Rep: We offer 24/7 support, so you can always get help if you ever need it. We also have an online portal that allows you to monitor your energy usage and track your bills. 
+
+Working Parent: That's really helpful. What's the best way to get started? 
+
+Sales Rep: We can start by setting up an appointment for you to speak with one of our customer service representatives. They will be able to answer any questions you may have and help you get started with our service. 

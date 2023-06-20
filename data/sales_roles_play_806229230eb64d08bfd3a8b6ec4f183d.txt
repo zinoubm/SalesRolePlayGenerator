@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hello, this is [Name] from [Healthcare Company]. I'm calling to introduce our services and answer any questions you may have about our pricing. 
+
+College Student: Hi [Name], this is [Name]. What services are you offering?
+
+Sales Rep: We specialize in healthcare services such as physical therapy, medical imaging, and diagnostics. We also offer consultations with our certified professionals to discuss treatment options.
+
+College Student: That sounds interesting. What is the pricing structure like?
+
+Sales Rep: We offer a variety of pricing plans depending on the service. For example, we have a flat-rate fee for physical therapy and imaging, and we offer discounted packages for consultation services. We also have special offers for college students that can help you save even more.
+
+College Student: That's great. Do you offer any discounts for seniors?
+
+Sales Rep: Yes, we offer a 10% discount for seniors. We also have a loyalty program where you can earn points for every purchase. You can then redeem those points for discounts on future purchases. 
+
+College Student: That's really helpful. Are there any other special offers or discounts available?
+
+Sales Rep: Yes, we offer a referral program where you can earn a $50 credit for every friend or family member you refer who signs up for our services. We also have special promotions for holidays and other events. 
+
+College Student: That's great, thank you for providing all this information. Do you have any more questions for me?
+
+Sales Rep: No, thank you for taking the time to speak with me today. Is there anyone else I can speak with about pricing and special offers? 
+
+College Student: Sure, the person in charge of answering customer questions about pricing is [Name]. I can put you in touch with them. 
+
+Sales Rep: That would be great, thank you.

@@ -1,0 +1,15 @@
+
+
+Sales Rep: Hi, this is [Name] from [Energy Company], calling to introduce our energy services. We specialize in providing energy solutions to businesses like yours.
+
+Working Parent: Hi [Name], nice to meet you. What can you tell me about your energy services?
+
+Sales Rep: Well, our energy services are designed to help you save money, reduce emissions, and increase the efficiency of your energy usage. We also have a team of knowledgeable experts who can help troubleshoot any technical issues that may arise.
+
+Working Parent: That sounds great. We’re always looking for ways to save money and increase efficiency. What type of technical support do you offer?
+
+Sales Rep: Our technical support team is available 24/7 to help solve any issues you may have. We also provide a variety of tools and resources to help troubleshoot any technical problems.
+
+Working Parent: That’s really helpful. Who is in charge of troubleshooting technical issues for customers at your company?
+
+Sales Rep: Our technical support team is led by [Name], who has years of experience in the industry. He and his team are always available to help with any technical issues you may have.

@@ -1,0 +1,25 @@
+
+
+Cold Call: 
+
+Sales Rep: “Good morning, this is [Sales Rep name] from [Technology Company]. I’m calling to talk to you about our products and services. How can I help you today?”
+
+Single Parent: “Hi there. I was actually wondering if you could tell me more about the features of your products?”
+
+Sales Rep: “Yes, of course. We offer a wide range of products and services, each with their own unique features. For example, our [product name] has [list features]. Would you like me to go into more detail about any particular feature?”
+
+Single Parent: “That would be great, thank you. Could you tell me a bit more about the [specific feature]?”
+
+Sales Rep: “Sure. The [specific feature] is designed to [brief description of feature]. It can be used to [list benefits of feature]. Would you like to hear about any other features?”
+
+Single Parent: “Yes, that would be great. Can you also tell me about the [next feature]?”
+
+Sales Rep: “Absolutely. The [next feature] is designed to [brief description of feature]. It can be used to [list benefits of feature]. Is there anything else I can help you with today?”
+
+Single Parent: “Yes, actually. I have a few more questions about the product. Who do I contact if I need more help?”
+
+Sales Rep: “No problem. Our customer service team is always available to answer any questions you may have. You can reach them by phone, email, or live chat. Is there anything else I can help you with today?”
+
+Single Parent: “No, that should do it. Thank you very much for your help.”
+
+Sales Rep: “You’re welcome! Have a great day.”

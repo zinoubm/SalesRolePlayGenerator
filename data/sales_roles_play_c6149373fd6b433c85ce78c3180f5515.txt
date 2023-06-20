@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Healthcare Company]. Can I speak to the person in charge of resolving customer complaints?
+
+Single Parent: Yes, this is [Name]. How can I help you?
+
+Sales Rep: Hi [Name], thank you for taking the time to speak with me. I wanted to introduce our company and discuss our healthcare services. We specialize in providing affordable, quality healthcare plans to families like yours.
+
+Single Parent: That sounds interesting. Could you tell me more about what you offer?
+
+Sales Rep: Absolutely. We have a wide range of plans and services tailored to fit the needs of families like yours. Our services include preventative care, emergency care, and ongoing care. We also provide specialized care services such as mental health treatment, physical therapy, and more.
+
+Single Parent: That sounds great. But I'm worried about the cost.
+
+Sales Rep: We understand that cost is a concern for many families. That's why we offer a variety of options to make our services more affordable. We have a range of payment plans that can be tailored to your specific budget and needs. We also offer discounts for those who qualify.
+
+Single Parent: That sounds promising. Can you tell me more about the discounts?
+
+Sales Rep: Sure. We offer discounts for those who are part of a certain group, such as military personnel, seniors, and single parents. As a single parent, you may be eligible for a discount on our services. We also provide additional discounts for those who sign up for a long-term plan. 
+
+Single Parent: That's great. I'd like to learn more about the discounts and plans you offer.
+
+Sales Rep: Absolutely. I'd be happy to answer any questions you have and provide more information. Is there anything else I can help you with today?

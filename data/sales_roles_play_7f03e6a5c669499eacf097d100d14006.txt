@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hi, my name is [sales rep name], and I am calling from [Company Name]. We are a technology company that specializes in providing innovative solutions to our customers. Is this a good time to talk?
+
+Single Parent: Yes, this is a good time. What can I do for you?
+
+Sales Rep: Well, I wanted to talk to you about our latest product and what it can do for you. We have a unique and innovative solution that can save you time and money. Would you be interested in hearing more?
+
+Single Parent: Sure, that sounds interesting. Please go ahead.
+
+Sales Rep: Great! Our product is designed to provide you with an easy and efficient way to manage your day-to-day tasks. It has a range of features that you can use to make your life easier. For example, it can help you manage your finances, organize your appointments, and respond quickly to customer inquiries. 
+
+Single Parent: That sounds really helpful. What kind of pricing do you offer?
+
+Sales Rep: We offer a range of payment plans tailored to your needs. We understand that not everyone can afford the same plan, so we want to ensure that everyone has a plan that works for them. We also offer discounts for certain groups, such as single parents. Would you like me to explain our pricing plans in more detail?
+
+Single Parent: Yes, that would be great.
+
+Sales Rep: Sure thing! We offer a variety of payment plans, starting from a basic monthly plan that covers all the basic features, to a more comprehensive plan that covers all the features plus additional features. We also offer discounts for certain groups, such as single parents. Would you be interested in learning more about our pricing plans?
+
+Single Parent: Yes, please explain.
+
+Sales Rep: Absolutely! Our basic plan starts at $XX per month and covers all the basic features. And our comprehensive plan starts at $XX per month and covers all the features plus additional features. We also offer discounts for single parents, so please let me know if you qualify for that. Is there anything else I can help you with?

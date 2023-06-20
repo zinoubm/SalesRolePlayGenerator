@@ -1,0 +1,35 @@
+
+
+Sales Rep: Good morning. My name is [Name], and I'm calling from [Company Name], a technology company that specializes in troubleshooting technical issues for customers. Can I speak with the person in charge of this at your company?
+
+Entrepreneur: Yes, this is me. How can I help you? 
+
+Sales Rep: Great! We have a lot of experience helping businesses like yours with their technical issues, and I think we might be able to help you with any of your troubleshooting needs. Could I ask you a few questions to get an understanding of your current technical infrastructure?
+
+Entrepreneur: Sure, go ahead.
+
+Sales Rep: First, how many employees does your company have?
+
+Entrepreneur: We have about 25 people on staff.
+
+Sales Rep: Great. And what type of technology does your team use on a daily basis?
+
+Entrepreneur: We mostly use cloud-based software for our operations.
+
+Sales Rep: Okay, that's helpful. Now, how often do you encounter technical issues that require troubleshooting?
+
+Entrepreneur: We have quite a few issues that come up every month, so we're always looking for ways to address them quickly and efficiently.
+
+Sales Rep: I see. That's a common problem. What have you tried so far to resolve the issues?
+
+Entrepreneur: We've tried using a few different technical support services, but we still have a lot of problems that remain unresolved.
+
+Sales Rep: That's understandable. We offer a comprehensive suite of troubleshooting services, and our team is highly trained to quickly identify and resolve any technical issues. Would you be interested in learning more about how we can help? 
+
+Entrepreneur: Yes, that would be great. 
+
+Sales Rep: Wonderful. I'd be more than happy to provide you with a full demonstration of our troubleshooting services as well as answer any questions you may have. Would you be available for a call next week? 
+
+Entrepreneur: Yes, that sounds perfect. 
+
+Sales Rep: Great. I'll follow up with an email to schedule a call. Thank you for your time today. Have a great day!

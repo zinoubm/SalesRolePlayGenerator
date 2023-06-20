@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hello, this is [Sales Rep Name] from [Company Name]. I'm calling to see if I can help with any of your technology needs.
+
+Senior Citizen: Hi, I'm not really looking for anything in particular.
+
+Sales Rep: That's ok, I'm here to answer any questions you may have about technology. We also have some great deals that you may be interested in. Is there anything you'd like to know more about?
+
+Senior Citizen: Well, I'm looking to return a product I purchased at your store. Do you know who I should speak to about that?
+
+Sales Rep: Certainly. Let me connect you with our team in charge of product returns. Can I put you on hold while I connect you?
+
+Senior Citizen: Sure, that sounds great.
+
+[On Hold] 
+
+Sales Rep: [Returning to line] Alright, I have our product returns team on the line. Can I transfer you over now?
+
+Senior Citizen: Yes, please. 
+
+[Transferring call] 
+
+Sales Rep: [Returning to line] Alright, I've transferred you over to the product returns team. Is there anything else I can help you with today?
+
+Senior Citizen: No, that's all. Thank you. 
+
+Sales Rep: You're welcome. Have a great day!

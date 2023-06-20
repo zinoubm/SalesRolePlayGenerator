@@ -1,0 +1,29 @@
+
+
+Sales Rep: Good morning, I'm calling from XYZ Hospitality Company. Is this the Business Owner?
+
+Business Owner: Yes, this is the owner. How can I help you? 
+
+Sales Rep: Great, I'm calling to introduce our hospitality services. We specialize in providing food, beverages, and other hospitality services for events, weddings, and corporate functions. 
+
+Business Owner: That sounds interesting. What sets you apart from your competitors?
+
+Sales Rep: We offer a range of services and packages at competitive prices. On top of that, we have established relationships with suppliers so we can get the best quality ingredients and products. We are also very experienced in event planning and can provide you with tailored solutions to meet your needs. 
+
+Business Owner: That sounds great. Who is the person in charge of processing customer orders at your company?
+
+Sales Rep: That would be our Customer Service Manager. I'll be happy to provide you with their contact details. 
+
+Business Owner: Perfect. Before I do that, can you tell me what kind of payment methods you accept?
+
+Sales Rep: Of course. We accept major credit cards, PayPal, and bank transfers. We also offer payment plans if needed. 
+
+Business Owner: That sounds great. Can you also tell me about your delivery policies? 
+
+Sales Rep: Yes, absolutely. We offer free delivery for orders over a certain amount. If the order is below that amount, we charge a delivery fee. We also have a returns policy in place if the customer is not satisfied with the product or service. 
+
+Business Owner: That's very helpful. Alright, please send me the contact details of your Customer Service Manager. 
+
+Sales Rep: Absolutely. I'll get that to you right away. Thank you for your time, and I look forward to speaking with you again soon. 
+
+Business Owner: Thank you.

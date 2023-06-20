@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning, I'm calling from Healthcare Company. May I please speak with the person in charge of responding to customer inquiries about product features?
+
+Senior Citizen: Yes, this is the person. How can I help you? 
+
+Sales Rep: I'm calling to inform you about our latest product offering. It's an innovative healthcare solution that provides comprehensive coverage and access to quality care. 
+
+Senior Citizen: That sounds interesting. Can you tell me more about it?
+
+Sales Rep: Certainly. Our healthcare solution offers a variety of benefits, including access to top-tier providers, coverage for pre-existing conditions, and comprehensive coverage. 
+
+Senior Citizen: That sounds great. What do I need to do to sign up?
+
+Sales Rep: You will need to fill out an application and submit it to our office. We also require proof of insurance and any additional documentation that may be required. 
+
+Senior Citizen: That seems like a lot of paperwork. Is there any way I can simplify the process?
+
+Sales Rep: Yes! We have an online application that you can fill out in just a few minutes. You can submit it directly to us and we'll take care of the rest.

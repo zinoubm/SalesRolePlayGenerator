@@ -1,0 +1,26 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Energy Company]. How are you doing today?
+Business Owner: I'm doing well, how can I help you?
+Sales Rep: I'm calling today to discuss how our energy company can help your business save money and increase efficiency. Are you the person in charge of upselling products and services?
+Business Owner: Yes, I am. What can you tell me about your company?
+Sales Rep: We provide reliable energy solutions to businesses of all sizes. Our services are tailored to meet your needs and help you save money in the long run. 
+Business Owner: That sounds great. What kind of services do you offer?
+
+Sales Rep: We offer a variety of services, including energy audits, energy efficiency planning, and energy-saving solutions. We can also help you identify potential energy savings opportunities and provide expert advice on how to best utilize these savings. 
+
+Business Owner: That sounds interesting. What kind of savings can I expect? 
+
+Sales Rep: Depending on the size of your business and the type of energy solutions you choose, you can expect to save anywhere from 10% to 40% on your energy costs. 
+
+Business Owner: That’s great. How do I get started? 
+
+Sales Rep: The first step is to schedule a free consultation with one of our energy experts. During the consultation, they’ll assess your current energy usage and identify potential areas of improvement. We’ll then provide you with a detailed report outlining the best energy solutions for your business. 
+
+Business Owner: That sounds great. Can you tell me more about the energy audit process?
+
+Sales Rep: Our energy audit process typically involves a thorough evaluation of your current energy usage and an assessment of the potential areas of improvement. We’ll also provide you with detailed recommendations on how to best utilize energy savings opportunities. 
+
+Business Owner: That sounds great. Can you provide me with any additional information? 
+
+Sales Rep: Of course. We also offer a variety of energy-saving products and services, such as energy efficient lighting, insulation, and HVAC systems. We can also help you identify potential cost savings opportunities and provide expert advice on how to best utilize these savings.

@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning, I'm [name] from [technology company]. How are you today? 
+
+Business Owner: I'm doing well, thank you. What can I do for you?
+
+Sales Rep: I'm calling to introduce our company's technology solutions and to see if we could help streamline your processes. Do you have someone in charge of processing customer orders?
+
+Business Owner: Yes, we do. 
+
+Sales Rep: Great. We have some specialized technology that can help streamline your customer order processing, and I'd love to tell you more about it. Could I speak with that person so I can give more details about our solutions?
+
+Business Owner: Sure, let me transfer you.
+
+[Transfer]
+
+Sales Rep: Hi [Person in charge of order processing], I'm [name] from [technology company]. How are you today? 
+
+Person in charge of order processing: Hello, I'm doing well. What can I do for you?
+
+Sales Rep: I'm here to tell you about our technology solutions and to see if we can help streamline your customer order processing. We specialize in software that automates the entire process and can save you time and money.
+
+Person in charge of order processing: That sounds great. Can you tell me more about it?
+
+Sales Rep: Absolutely. Our software allows you to enter customer orders directly into the system and automatically generates invoices, shipping labels, and other documents. It also integrates with your existing systems and can be customized to fit your specific needs. 
+
+Person in charge of order processing: That sounds like it could be really helpful. What kind of support do you offer?
+
+Sales Rep: We provide 24/7 customer support so that you can get help whenever you need it. We also offer training and onboarding services to get you started quickly and ensure that you are getting the most out of our software. 
+
+Person in charge of order processing: That sounds great. I'd like to learn more.

@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hi, is this [Name]?
+
+Senior Citizen: Yes, this is [Name].
+
+Sales Rep: Hi [Name], my name is [Sales Rep Name] and I'm calling from [Hospitality Company]. We provide a wide range of hospitality services, from catering to party planning.
+
+Senior Citizen: Alright. What is it that you want?
+
+Sales Rep: I was wondering if you would be interested in hearing about some of our services. We understand that customers are concerned about delivery times and we are always looking for ways to improve our services to meet customer expectations.
+
+Senior Citizen: That's great. What kind of services do you offer?
+
+Sales Rep: We offer party planning services, catering, event planning, and more. We also offer delivery services, so we can make sure that your order is delivered on time.
+
+Senior Citizen: That sounds good. But I'm concerned about the cost of delivery.
+
+Sales Rep: We understand that cost is an important factor for customers. That's why we offer competitive rates for our delivery services, so you can be sure you're getting the best value for your money. We also have a satisfaction guarantee, so if you're not satisfied with the service, we'll make it right. 
+
+Senior Citizen: That's great. How long will it take for my order to arrive?
+
+Sales Rep: We strive to get all orders delivered within 48 hours. We also offer express delivery for urgent orders, so you can be sure that your order will arrive on time.

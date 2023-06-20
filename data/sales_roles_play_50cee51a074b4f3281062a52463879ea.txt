@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning! This is [Sales Rep Name], calling from [Agriculture Company]. How are you today? 
+
+Single Parent: Good morning. I'm doing alright, how can I help you?
+
+Sales Rep: Well, I'm calling today to tell you more about our [Agriculture Company], and the products we offer. 
+
+Single Parent: I'm interested in hearing more. 
+
+Sales Rep: Great! We specialize in providing top-of-the-line agriculture equipment to our customers. We also offer product warranties to ensure that our customers get the best possible experience with their purchases. 
+
+Single Parent: That sounds great! Can you tell me more about the product warranties? 
+
+Sales Rep: Absolutely! Our product warranties cover any damage or defects in the product that may occur during the warranty period. We also offer customer service to help with any questions or concerns you may have about the product. 
+
+Single Parent: That's really helpful. What happens if there is a defect in the product after the warranty period has expired?
+
+Sales Rep: In this case, we would be unable to provide coverage for any defects that may occur after the warranty period has expired. However, we do offer customer service to help troubleshoot any issues you may be having with the product. 
+
+Single Parent: That's good to know. Do you offer any other services or discounts?
+
+Sales Rep: Yes! We offer a variety of discounts and special offers to our customers. We also have an online store where you can purchase our products directly from the website. 
+
+Single Parent: That's great! I appreciate you taking the time to explain all of this. 
+
+Sales Rep: Absolutely! If you have any further questions or need more information, please don't hesitate to contact us. We're always here to help. Have a great day!

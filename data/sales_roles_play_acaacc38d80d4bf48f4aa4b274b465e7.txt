@@ -1,0 +1,23 @@
+
+
+Sales Rep: “Good morning, this is [Name] from [Company Name]. We are a technology company that specializes in product returns for businesses. I was wondering if I could speak to the person in charge of assisting customers with product returns. Is that person available?”
+
+Entrepreneur: “Yes, that’s me. What can I do for you?”
+
+Sales Rep: “I’m calling because I wanted to introduce our services to you. We offer a wide range of products and services that can help you with product returns. We have experienced staff on hand to provide assistance and guidance throughout the entire process, and our prices are very competitive. Would you like to hear more?”
+
+Entrepreneur: “Yes, I’d love to hear more.”
+
+Sales Rep: “Great. We offer a variety of different products and services, including returns management services, detailed tracking of returns, and custom return labels. We can also provide training and guidance to help your staff handle product returns efficiently and professionally.”
+
+Scenario 1: 
+
+Entrepreneur: “That sounds great, but I’m worried about the costs associated with these services.”
+
+Sales Rep: “I understand your concern. We offer competitive pricing, and we’re always happy to work with you to find the best solution for your needs and budget. We have a variety of payment options available, so you can choose the one that works best for you.”
+
+Scenario 2:
+
+Entrepreneur: “I’m concerned about the quality of your services. Do you have any customer testimonials or references I can look at?”
+
+Sales Rep: “Absolutely. We’d be happy to provide you with a list of references and testimonials from other customers. We’re proud of the quality of our services, and we’re confident that you’ll be satisfied with the results.”

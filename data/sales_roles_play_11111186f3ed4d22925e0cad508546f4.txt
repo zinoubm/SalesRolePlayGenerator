@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Name], from [Agriculture Company]. How are you today? 
+
+Business Owner: Fine, thank you. What can I do for you?
+
+Sales Rep: Well, I wanted to introduce our company and discuss the possibility of providing product demonstrations for your business. 
+
+Business Owner: Oh, I'm sorry, we already have someone who provides demonstrations for us. 
+
+Sales Rep: That's great! I'd like to point out that our company has a variety of services and products that could potentially help you improve your business operations. We have experience in the agricultural industry and offer a wide range of products and services. 
+
+Business Owner: That's interesting. What kind of products and services do you offer?
+
+Sales Rep: Sure. We offer custom-made irrigation systems, soil enhancement products, and pest control services. In addition, we also provide maintenance and repair services. 
+
+Business Owner: Alright, that sounds promising. What kind of demonstration do you provide?
+
+Sales Rep: Our demonstrations are tailored to the specific needs of your business. We will explain the features and benefits of our products and services, and show you how they can help you improve your operations. We also provide support, training, and troubleshooting services. 
+
+Business Owner: That sounds great. How much do your services cost? 
+
+Sales Rep: Our services are competitively priced and vary based on the scope of the project. We can discuss further details when we meet in person. 
+
+Business Owner: Okay, that sounds good. I'll be in touch. 
+
+Sales Rep: Great. I look forward to hearing from you. Have a great day!

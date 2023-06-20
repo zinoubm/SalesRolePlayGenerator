@@ -1,0 +1,35 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Energy Company]. 
+
+Customer: Hi, who is this? 
+
+Sales Rep: This is [Name] from [Energy Company]. I'm calling because we have recently launched our new energy product and I wanted to see if you would be interested in learning more about it?
+
+Customer: What kind of product is this? 
+
+Sales Rep: Well, our energy product is designed to help you save money on your energy bills. We have some really great rates that we think you'll be interested in. 
+
+Customer: That sounds interesting. What kind of rates are we talking about?
+
+Sales Rep: Well, our rates are very competitive and we have a variety of options that can help you save money on your energy bills. 
+
+Scenario 1:
+
+Customer: I'm not sure if I'm ready to commit to anything right now.
+
+Sales Rep: That's totally understandable. We can provide you with more information and let you take some time to consider the options. Would that be helpful? 
+
+Customer: Yes, that would be great. 
+
+Sales Rep: Absolutely. I can provide you with more details and answer any questions you might have. 
+
+Scenario 2:
+
+Customer: Who do I speak to if I have any complaints? 
+
+Sales Rep: We have a team of dedicated customer service representatives who are well trained and experienced in resolving customer complaints. I can put you in touch with the person in charge of customer service if you'd like. Would that be helpful? 
+
+Customer: Yes, that would be great. 
+
+Sales Rep: Absolutely. I'll transfer you to the customer service team right away.

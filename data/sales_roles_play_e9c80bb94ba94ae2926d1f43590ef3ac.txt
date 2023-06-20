@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep] from [Technology Company]. I’m calling to speak to the person in charge of responding to customer inquiries about product features. Is that you?
+
+College Student: Yes, this is me.
+
+Sales Rep: Great! I wanted to discuss our new technology product and how it can help you meet your needs. Can you tell me a bit about what you’re looking for?
+
+College Student: Sure. I’m looking for a product that has advanced features, such as cloud computing, and a user-friendly interface.
+
+Sales Rep: We have a product that matches your needs perfectly. Our technology product offers cloud computing and a user-friendly interface, as well as a number of other features. Would you like to hear more about them?
+
+College Student: Sure.
+
+Sales Rep: Our product offers a secure and reliable platform for data storage and sharing. It also has an intuitive user interface, so you can easily manage your files and documents. Additionally, it offers advanced analytics and data visualization tools to help you make informed decisions. Does that sound like something you’re interested in?
+
+College Student: Yes, it does.
+
+Sales Rep: Great! I’d love to discuss the specifics with you. Before we do, however, I’d like to address any of your questions or concerns. Is there anything you’d like to know?
+
+College Student: Yes, I’d like to know more about the pricing and the support options available.
+
+Sales Rep: Absolutely. We have a variety of pricing plans available that can be tailored to your specific needs. Additionally, we offer 24/7 customer service and technical support. Does that sound like something that would work for you? 
+
+College Student: Yes, that sounds great. 
+
+Sales Rep: Wonderful! Please let me know if you have any further questions, and I’d be happy to assist you. Thank you for your time.

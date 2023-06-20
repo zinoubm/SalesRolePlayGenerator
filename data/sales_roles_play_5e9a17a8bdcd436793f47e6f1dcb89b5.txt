@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hello, I'm calling from XYZ Technologies. May I please speak to the person in charge of providing product demonstrations to customers?
+
+College Student: Sure, this is them. How can I help?
+
+Sales Rep: Hi there. My name is [sales rep's name] and I'm calling today to tell you about a new technology that we've recently released. It's an advanced software system that can help streamline and automate a variety of processes for businesses.
+
+College Student: That sounds interesting. Can you tell me more about it?
+
+Sales Rep: Absolutely. The system is designed to save businesses time and money by automating mundane tasks such as scheduling meetings and managing customer databases. It also offers features such as data analysis and customer segmentation, allowing businesses to get more out of their data. 
+
+College Student: That sounds great. How much does it cost?
+
+Sales Rep: We offer a range of pricing packages to fit different budgets. We also offer discounts for educational institutions like yours. Would you like to hear more about our pricing plans? 
+
+College Student: Sure, I'm interested. 
+
+Sales Rep: Excellent. We offer both monthly and annual plans, as well as special packages for educational institutions. All of our plans come with a 30-day money-back guarantee, so you can try it risk-free. 
+
+College Student: That sounds good. Do you offer any free trials? 
+
+Sales Rep: Yes, we do. We offer a 30-day free trial so you can test out the system before committing to a plan. Do you think you'd be interested in scheduling a product demonstration? 
+
+College Student: Yes, definitely. When would be a good time for you to come by and show us the system? 
+
+Sales Rep: How about next Monday at 3 pm? Would that work for you? 
+
+College Student: That sounds great. I'll have the team ready for you. 
+
+Sales Rep: Perfect. I look forward to seeing you then. Have a great day.

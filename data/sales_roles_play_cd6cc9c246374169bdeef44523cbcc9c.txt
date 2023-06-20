@@ -1,0 +1,37 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Healthcare Company], how can I help you?
+
+Customer: Hi [Sales Rep Name], this is [Customer Name], I’m in charge of troubleshooting technical issues for customers at [Company].
+
+Sales Rep: [Customer Name], great to meet you. I’m calling today to let you know about our healthcare company’s services and how they can help you and your customers. We offer a comprehensive range of products and services to help your customers stay healthy and happy. 
+
+Customer: That sounds great. Tell me more.
+
+Sales Rep: Sure. We have a wide range of services ranging from preventative care and wellness programs to specialist treatments and surgeries. We also offer a variety of resources, such as online health tools, nutrition and exercise advice, and telemedicine services. 
+
+Customer: That’s really impressive. I’m interested in learning more.
+
+Sales Rep: Great! We also have a dedicated team of professionals who are available to provide technical support and troubleshooting for any issues your customers may have. We understand that technology can be tricky to navigate and our team is here to help. 
+
+Customer: That would be incredibly helpful. What type of technical support do you offer?
+
+Sales Rep: We offer a wide range of technical support services, including installation of hardware and software, troubleshooting of hardware and software, and 24/7 customer service. We also provide ongoing training and support for your customers to ensure that they are up to date on the latest technology.
+
+Customer: That sounds great. I’ll definitely consider your services. 
+
+Sales Rep: Wonderful! We also offer special discounts for senior citizens. Would you be interested in learning more about that? 
+
+Customer: Yes, definitely. 
+
+Sales Rep: Great! We offer discounts on our products and services for senior citizens, as well as tailored programs and activities that are designed to keep them healthy and happy. 
+
+Customer: That sounds wonderful. I’ll definitely look into it further. 
+
+Sales Rep: Wonderful! Is there anything else I can help you with? 
+
+Customer: No, that’s all. Thank you for the information. 
+
+Sales Rep: You’re welcome. If you have any questions in the future, please don’t hesitate to call us. Have a great day! 
+
+Customer: You too.

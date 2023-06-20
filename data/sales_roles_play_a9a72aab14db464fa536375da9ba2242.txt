@@ -1,0 +1,21 @@
+
+
+Sales Rep: Good morning, this is [sales rep name] from [tech company name]. I’m calling to see if I can help you with any of your technical troubleshooting needs.
+
+Business Executive: Hi [sales rep name], what kind of technical troubleshooting solutions do you offer?
+
+Sales Rep: We offer a wide range of solutions ranging from software troubleshooting, hardware repairs, and even on-site services. We’re highly experienced in helping businesses get the most out of their technology investments.
+
+Business Executive: That sounds great. Who do I need to speak to in order to get started?
+
+Sales Rep: I’m the person you need to speak to. I can help you determine the best solution for your company’s technical needs.
+
+Scenario 1: 
+Business Executive: We’re already working with another vendor who’s been helping us troubleshoot.
+
+Sales Rep: That’s great. We have the most up-to-date technology and the best customer service in the industry. We could provide you with additional solutions that your current vendor may not be able to provide, such as on-site services or extended warranties.
+
+Scenario 2: 
+Business Executive: We’re not sure if we want to invest in any new technology right now.
+
+Sales Rep: We understand. Our solutions are designed to help you get the most out of your existing technology investments. We offer flexible pricing plans that can fit any budget. We also have a team of experts ready to help you troubleshoot any issues you may be having.

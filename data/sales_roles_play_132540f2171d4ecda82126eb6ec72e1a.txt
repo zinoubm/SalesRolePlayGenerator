@@ -1,0 +1,26 @@
+
+Sales Rep: Good morning, this is [Name], I'm calling from [Agriculture Company]. How are you today?
+
+Single Parent: I'm doing okay, how can I help you?
+
+Sales Rep: We are a leading Agriculture Company and I'm calling to talk about our wide range of products that could benefit you. We have a variety of options that would be perfect for your needs. 
+
+Single Parent: That's great, what kind of products do you offer?
+
+Sales Rep: We have a variety of products including seeds, fertilizers, and other materials to improve your farming operations. We also have a customer service team that is available 24/7 to provide support.
+
+Single Parent: That sounds great. Do you have any special offers that I should know about?
+
+Sales Rep: Yes, we do have some special offers that you may be interested in. We are offering discounts on orders over a certain amount and free shipping on orders over $50.
+
+Single Parent: That sounds great. I think my farm could benefit from your products. 
+
+Sales Rep: That's excellent! Let me just check with my team to confirm the availability of the products. [Pause] Okay, everything looks good. Is there anything else I can help you with?
+
+Single Parent: Actually, I have had some issues with customer service in the past. Is there someone I can speak to directly if I have any issues?
+
+Sales Rep: Of course! We have a dedicated team of customer service professionals who are available 24/7 to help with any questions or issues you may have. You can reach them by calling our customer service line or emailing us. We also have a dedicated resolution team who specializes in resolving customer complaints. Would you like me to connect you with them directly?
+
+Single Parent: Yes, please.
+
+Sales Rep: Great! I'll transfer you over to our resolution team. Thanks for your time and have a great day!

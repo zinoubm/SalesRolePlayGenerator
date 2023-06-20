@@ -1,0 +1,21 @@
+
+
+Sales Rep: Good morning! My name is [Name] and I’m calling from [Company], a healthcare company that specializes in providing innovative medical solutions. How are you doing today?
+
+Entrepreneur: I'm doing well, thank you for asking.
+
+Sales Rep: Glad to hear that. I’m calling to introduce our company and discuss how our products and services can benefit your business. Is this a good time?
+
+Entrepreneur: It is. Please go ahead.
+
+Sales Rep: Sure! We provide a wide range of services that can help streamline your operations, such as AI-powered medical devices and remote patient monitoring. Our products are designed to be intuitive and user-friendly, and our customer service team can provide you with personalized support during the onboarding process.
+
+Entrepreneur: That sounds great. Who is typically in charge of processing customer orders at your company?
+
+Sales Rep: Our customer service team is in charge of processing orders and providing assistance with technical issues. We also have a dedicated team of account managers who can help you get started with our products and services. Would you like me to connect you with one of them?
+
+Entrepreneur: That would be great.
+
+Sales Rep: Absolutely. Let me transfer you to one of our account managers. They will be able to answer any questions you may have and provide you with more information about our products and services. 
+
+Entrepreneur: Sounds good. Thank you.

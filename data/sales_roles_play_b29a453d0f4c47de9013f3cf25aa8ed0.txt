@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hello, is this [Name]?
+
+Customer: Yes, this is [Name].
+
+Sales Rep: Hi [Name], this is [Name], from [Energy Company]. We specialize in providing energy services to households and businesses. I'm calling today to offer you the chance to switch to our company and save money on your energy bills. 
+
+Customer: I'm a senior citizen and I'm not sure if switching is the right move for me.
+
+Sales Rep: I understand your concerns and I'm happy to answer any questions you have. Switching energy providers is a great way to save money, and our company offers competitive rates and exceptional customer service. 
+
+Customer: Well, I'm concerned about delivery times. I don't want to be left without power.
+
+Sales Rep: I can assure you that won't happen. We pride ourselves on our reliable delivery and our commitment to customer satisfaction. We have a team of experts who are dedicated to addressing any delivery concerns you may have. 
+
+Customer: That sounds reassuring. Can I get a guarantee?
+
+Sales Rep: Absolutely! We guarantee our delivery times and the quality of the energy we provide. We also offer a satisfaction guarantee, so if you're not happy with our service, you can switch back to your original provider without any extra fees. 
+
+Customer: That sounds great. I'm ready to switch to [Energy Company]!
+
+Sales Rep: Wonderful! I'll get everything set up for you right away. Thank you for your time and I look forward to serving you.

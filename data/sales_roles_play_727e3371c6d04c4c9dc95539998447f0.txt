@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hello, may I speak with the business owner?
+
+Business Owner: Yes, this is the owner. How can I help you?
+
+Sales Rep: Hi, my name is [name] and I'm calling from [company name], a hospitality company that specializes in troubleshooting technical issues for customers. We provide a wide range of services, from hardware upgrades to software updates. 
+
+Business Owner: That sounds great. What can you do for me?
+
+Sales Rep: We can provide you with the latest technology, tailored for your business. We also provide personalized support, so you can be sure you're getting the best service possible. We also offer a 24/7 help desk to ensure that any technical issues you experience can be quickly and easily resolved.
+
+Business Owner: That's great. I'm interested in hearing more. How much do you charge?
+
+Sales Rep: We offer competitive rates based on the services you require. We also offer a range of packages that can be tailored to meet your exact needs.
+
+Business Owner: That sounds great. Can you tell me more about your packages?
+
+Sales Rep: Absolutely! We have packages designed for businesses of all sizes. We can provide you with everything from basic troubleshooting services to more complex services, such as network security and data recovery. We also offer a monthly subscription service that includes unlimited access to our help desk.
+
+Business Owner: That sounds great. Can you tell me more about the help desk?
+
+Sales Rep: Absolutely. Our help desk is staffed by experienced professionals who can assist with any technical issues you may experience. We also offer a range of tutorials and resources to help you troubleshoot any issues quickly and easily.

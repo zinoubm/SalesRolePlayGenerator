@@ -1,0 +1,27 @@
+
+
+Sales rep: Good morning, this is [name], calling from [healthcare company]. Is this [Entrepreneur]? 
+
+Entrepreneur: Yes, this is [Entrepreneur]. How can I help you? 
+
+Sales rep: Hi [Entrepreneur]. We’re a healthcare company that specializes in providing healthcare products and services. I’m calling to see if you’d be interested in learning more about our products and services. 
+
+Entrepreneur: Sure, what do you have to offer? 
+
+Sales rep: We have a wide range of products and services, from medical supplies to health insurance. We also offer personalized customer service and support, so you can rest assured that you’ll get the help you need. 
+
+Entrepreneur: That sounds great. Do you have any specific products or services that are tailored to my needs? 
+
+Sales rep: Absolutely. We have a range of products and services that are designed to meet the needs of entrepreneurs, including health insurance plans, medical supplies, and more. 
+
+Entrepreneur: That’s great. Who do I speak to if I have any questions about your products and services? 
+
+Sales rep: You can speak with our customer service team, who are always happy to help. They can provide you with information about our products and services, as well as answer any questions you may have. You can reach them at [phone number]. 
+
+Entrepreneur: Perfect, thank you. 
+
+Sales rep: You’re welcome! Is there anything else I can help with? 
+
+Entrepreneur: No, that’s it for now. 
+
+Sales rep: Alright, great. If you need anything else, don’t hesitate to give us a call. Have a great day!

@@ -1,0 +1,15 @@
+
+
+Sales Rep: Hello, my name is [Sales Rep Name] and I am calling from [Company Name] Healthcare. We specialize in healthcare services that are tailored to meet the individual needs of our clients. Is this a good time to talk?
+
+College Student: Yes, it is. What can I do for you?
+
+Sales Rep: We wanted to let you know that we are offering a range of healthcare services that are tailored to meet the individual needs of our clients. I would love to discuss our services with you and tell you more about how we can help. 
+
+College Student: That sounds interesting. Can you tell me more about what you offer?
+
+Sales Rep: Certainly! We offer a range of services, including primary care, specialty care, mental health services, and more. We also have a team of experienced healthcare professionals that can provide personalized care and advice to our clients. We also have an online portal where clients can access their healthcare records and manage their health information. 
+
+College Student: That sounds great. I'm also interested in learning more about how your company handles customer complaints.
+
+Sales Rep: Absolutely. We understand that customer satisfaction is of the utmost importance. We have a dedicated team of customer service representatives that are available to assist our clients with any issues they may have. We also have a satisfaction survey that our clients can take in order to provide us with feedback on their experience. We take feedback seriously and use it to improve our services.

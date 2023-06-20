@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning, is this [Young Professional]? 
+
+Young Professional: Yes, this is [Young Professional]. How can I help you?
+
+Sales Rep: Hi [Young Professional], my name is [Sales Rep], and I am calling from [Hospitality Company]. We provide hospitality services to customers all over the world, and I was wondering if I could speak with the person in charge of resolving customer complaints at your company. 
+
+Young Professional: Sure, that would be me. How can I help you?
+
+Sales Rep: Great! I wanted to discuss our services and how we can help your company with customer complaints. We offer a variety of solutions that can help you more effectively handle customer complaints and resolve them quickly. 
+
+Young Professional: That sounds interesting. Can you tell me more about what you offer?
+
+Sales Rep: Absolutely. We provide software that can help you track customer complaints and analyze patterns so you can better identify and resolve issues. We also have a team of customer service experts that can provide additional support when needed. 
+
+Young Professional: That sounds like it could be helpful. What other solutions do you offer?
+
+Sales Rep: We also offer customer satisfaction surveys that can help you identify and understand customer pain points. We can also help you build an effective customer service team, and even provide training and coaching to your team so they can better handle customer complaints. 
+
+Young Professional: That sounds great. How much does this service cost?
+
+Sales Rep: We offer a variety of pricing plans, depending on the services you need. We can discuss your specific needs and create a plan that fits your budget. 
+
+Young Professional: That sounds great. I would be interested in learning more about your services and pricing. Can you send me some more information?
+
+Sales Rep: Absolutely! I'll be happy to send you all the information you need. Is there anyone else at your company I should be speaking with about this?
+
+Young Professional: Yes, I'll put you in contact with our customer service lead. 
+
+Sales Rep: Great, I look forward to hearing from them. Thank you for your time. Have a great day!

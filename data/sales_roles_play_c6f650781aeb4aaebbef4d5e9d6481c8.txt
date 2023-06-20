@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning, this is [Name], calling from [Company]. How are you doing today? 
+
+Business Owner: Good morning, I'm doing well. How can I help you? 
+
+Sales Rep: Well, I'm calling to see if I can help you out with our technology solutions. We specialize in helping businesses increase their efficiency and productivity. 
+
+Business Owner: That sounds interesting. What kind of solutions do you offer?
+
+Sales Rep: We offer a range of software and hardware solutions, from basic data storage to advanced cloud computing systems. We can also provide tailored solutions for specific needs. 
+
+Business Owner: That sounds great. What kind of pricing do you offer? 
+
+Sales Rep: We offer a variety of pricing models, depending on the size and scope of your project. We can discuss your budget and find the best solution for your business. 
+
+Business Owner: That sounds great. I'm concerned about the security of our data. How do you protect it?
+
+Sales Rep: We take data security very seriously. All of our systems are protected with the latest encryption technologies and we use strict access control measures to protect your data. We also provide regular backups and monitoring to ensure your data is secure. 
+
+Business Owner: That's reassuring. I'm also interested in customer support. What kind of support do you offer?
+
+Sales Rep: We provide 24/7 customer support for any technical issues you may experience. We also offer a range of training and consultancy services to help you get the most out of our solutions. 
+
+Business Owner: That sounds great. I think I'm ready to move forward. Can you provide me with more details on pricing and availability?
+
+Sales Rep: Absolutely. Let me provide you with a quote and further information on our solutions. Is there anyone else I should speak to in your organization? 
+
+Business Owner: Yes, please speak to our customer service manager. They can answer any questions you have about pricing and availability. 
+
+Sales Rep: Great, I'll be sure to do that. Thank you for your time and I look forward to speaking with you soon.

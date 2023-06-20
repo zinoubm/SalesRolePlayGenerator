@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning, this is [Name] calling from [Company]. I'm calling to introduce our healthcare services. 
+
+Working Parent: Hi [Name], nice to meet you. What can you tell me about your services?
+
+Sales Rep: Sure, I'd be happy to. We provide healthcare services to companies like yours, that have a large number of employees. We can help you manage employee health and wellbeing, as well as offer technical support for any troubleshooting that needs to be done. 
+
+Working Parent: That's great to know. Can you tell me a bit more about the technical support services you offer?
+
+Sales Rep: Absolutely. Our technical support services include troubleshooting issues with hardware, software, and networking. We also offer support for mobile devices, such as smartphones and tablets. 
+
+Working Parent: That's great. We have a lot of employees who rely on these devices for their work and it would be great to have someone to help with any technical issues that arise. 
+
+Sales Rep: Absolutely. Our team of experienced technicians can help you with any troubleshooting needs. They are available 24/7, so you can be sure that any issues will be taken care of quickly. 
+
+Working Parent: That's great to know. Who do I speak to if I have any questions?
+
+Sales Rep: You can speak to our customer service team, who are available to answer any questions you may have. They can also help you set up an account and provide you with any additional information you need.

@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hi, this is [Sales Rep Name] from [Hospitality Company Name]. Is this [Young Professional Name]?
+
+Young Professional: Yes, this is [Young Professional Name], how can I help you?
+
+Sales Rep: Hi [Young Professional Name], I'm reaching out because I wanted to let you know about the services we offer at [Hospitality Company Name]. We specialize in helping small businesses streamline and optimize their customer processing services. We understand the importance of providing a great customer experience and are confident that our services can help you achieve this goal.
+
+Young Professional: That sounds interesting. Can you tell me more about your services?
+
+Sales Rep: Sure! Our services include automated email templates, personalized customer communication, and advanced analytics to help you better understand your customer’s buying habits. We also offer a variety of other services such as order fulfillment and customer loyalty programs. 
+
+Young Professional: That's great, but I'm not sure if we need all of those services right now.
+
+Sales Rep: That's understandable. We understand that you may not need all of our services immediately, so we offer flexible pricing plans to match the needs of your business. We also offer a free trial period so you can test out our services before committing to a plan. 
+
+Young Professional: That sounds interesting. Who would be the best person for me to talk to about setting up a trial period?
+
+Sales Rep: The best person for you to speak to about setting up a trial period would be the person in charge of processing customer orders at your company. I'm happy to provide you with any additional information you need and answer any questions you may have.

@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [sales rep name] from [agriculture company]. I’m calling to introduce our services to you and to see if you might be interested in learning more about what we have to offer. 
+
+Single Parent: Hi, thank you for calling. What kind of services does your company provide?
+
+Sales Rep: We offer a range of agricultural products and services, including seed and fertilizer, and we also provide technical assistance for farmers. 
+
+Single Parent: That sounds interesting. Can you tell me more about the technical assistance you offer?
+
+Sales Rep: Absolutely. We offer a variety of services, including advice on crop management, soil and water testing, and pest management. We also provide a range of products to help with crop production, such as fertilizers and pesticides. 
+
+Single Parent: That sounds great. Do you also offer assistance with product returns?
+
+Sales Rep: Yes, absolutely. We have a dedicated team of customer service professionals who are available to help with any product returns you may need. We also offer a wide selection of products, so if you need something that isn’t currently in stock, we can help you find it. 
+
+Single Parent: That’s great to hear. I may need to return a product in the near future, so I’m glad to know that you offer that service. 
+
+Sales Rep: Absolutely, we’ll be happy to help you with any product returns that you need. Is there anything else I can help you with today? 
+
+Single Parent: Not at this time. Thank you for your time, I appreciate it. 
+
+Sales Rep: No problem. Thank you for your interest, and please feel free to reach out if you have any other questions or need any further assistance. Have a great day.

@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hello, this is [Sales Rep Name] from [Company Name], an energy company. We provide energy services for businesses and residential customers. 
+
+College Student: Hi, how can I help you?
+
+Sales Rep: We offer customized energy solutions to meet your needs. I'm wondering if you might be interested in hearing more about our services?
+
+College Student: Sure, I'm curious to learn more.
+
+Sales Rep: Great! Let me tell you a bit about our company and the services we offer. [Explain company and services.]
+
+College Student: That sounds great. I'm interested in learning more.
+
+Sales Rep: Excellent! I'll be happy to answer any questions you may have. 
+
+Scenario 1: 
+
+College Student: I'm a college student, so I don't have much money to spend on energy services. 
+
+Sales Rep: I understand. We offer competitive pricing designed to meet your budget. We also have payment plans that could help you save money in the long run. 
+
+Scenario 2: 
+
+College Student: I'm looking for a company that resolves customer complaints quickly and efficiently. 
+
+Sales Rep: Absolutely. We take customer complaints seriously and strive to resolve them as quickly as possible. I'd be happy to introduce you to the person in charge of resolving customer complaints. Is that something you'd be interested in?

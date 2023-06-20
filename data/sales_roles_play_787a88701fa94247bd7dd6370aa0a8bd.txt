@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hello, my name is [Name] and I'm calling from [Technology Company]. I understand that you are in charge of assisting customers with product returns. Is this correct?
+
+Working Parent: Yes, that's correct.
+
+Sales Rep: Excellent. I'm calling because we have a new technology that can help streamline the product return process for your company. Would you be interested in learning more about it?
+
+Working Parent: Sure, tell me more.
+
+Sales Rep: We have a software program that automates the product return process. It allows customers to easily enter their return information through a web portal, and then our system processes the return information and tracks it through the entire process.
+
+Working Parent: That sounds like it could be helpful. What would be the cost of implementing this system?
+
+Sales Rep: The cost of implementation is based on the number of returns your company processes, but it is very affordable and we can offer a free trial to help you get started.
+
+Working Parent: That sounds great. What other features does the system include?
+
+Sales Rep: The system also includes a customer dashboard that allows customers to view their return status in real-time, as well as an automated email notification system that sends out updates when their return is processed.
+
+Working Parent: That sounds really useful. What other services do you offer?
+
+Sales Rep: We also provide customer support for our product, as well as training sessions for your team to help them get up to speed with the system quickly. We also offer monthly maintenance contracts to ensure that the system is running smoothly.

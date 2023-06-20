@@ -1,0 +1,27 @@
+
+
+Sales Rep:  Hi, this is [Sales Rep Name] from [Energy Company]. How are you doing today? 
+
+High-end Consumer:  Hi, I'm doing okay. How can I help you? 
+
+Sales Rep:  I'm calling because [Energy Company] is looking to improve our delivery times to our customers, and I was wondering if you have any insight into what we can do better? 
+
+High-end Consumer:  Well, delivery times are an important part of the customer experience. Can you tell me more about the current delivery times and what you're looking to improve?
+
+Sales Rep: Sure! We currently offer next-day delivery for most orders and two-day delivery for orders placed before a certain time. We're looking to improve our delivery times to make sure that our customers receive their orders even faster. 
+
+High-end Consumer: That's great to hear. What kind of solutions are you looking for? 
+
+Sales Rep: We're currently looking into ways to reduce the time it takes to process orders and get them out to our customers. We're also exploring options such as partnering with a third-party delivery service to make sure that orders are delivered even faster. 
+
+High-end Consumer: That sounds like a great idea. What kind of feedback have you received from customers so far? 
+
+Sales Rep: We've received a lot of positive feedback from customers who are happy with the delivery times they've experienced. However, we still want to continue to improve and make sure that our customers get the best service possible. 
+
+High-end Consumer: That's great to hear. Is there anything else I can help you with? 
+
+Sales Rep: Not at the moment, but we'd love to hear any feedback or suggestions that you may have. We're always looking for ways to improve and make sure our customers are happy. 
+
+High-end Consumer: Okay, I'll definitely keep that in mind. Thank you for your time. 
+
+Sales Rep: You're welcome! Thanks for taking the time to speak with me. Have a great day!

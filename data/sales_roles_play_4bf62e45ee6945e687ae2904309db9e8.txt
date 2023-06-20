@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Hospitality Company]. How are you doing today?
+
+High-end Consumer: Fine, thank you. 
+
+Sales Rep: Great! I'm calling because [Hospitality Company] offers a wide range of hospitality services, and I wanted to see if we could be of assistance to you.
+
+High-end Consumer: What kind of services do you offer?
+
+Sales Rep: We offer a variety of services, from product returns and customer assistance to event planning and catering. 
+
+High-end Consumer: Interesting. I'm actually in charge of assisting customers with product returns at my company. What types of services do you offer for product returns?
+
+Sales Rep: We understand that returning products can be a hassle and we want to make the experience as painless as possible. We can provide you with a dedicated customer service representative who will be available to answer any questions and help with the return process. 
+
+High-end Consumer: That sounds great. Can you tell me more about the customer service representative and how they can help?
+
+Sales Rep: Sure! Our customer service representative will be available to assist you with anything you need, from providing guidance and advice on the product return process to answering questions and providing customer support. They'll be on hand to ensure that you have a smooth and successful return experience. 
+
+High-end Consumer: That sounds very helpful. What other services do you offer?
+
+Sales Rep: In addition to product returns, we also offer event planning and catering services. We can help you plan and execute a successful event, from creating a unique menu to coordinating the venue and décor. We also offer a wide range of catering services, from breakfast and lunch to dinner and cocktails. 
+
+High-end Consumer: That sounds great. I'm interested in learning more. 
+
+Sales Rep: Perfect! I'd be more than happy to answer any questions you have and provide more information about our services. Do you have any questions for me?

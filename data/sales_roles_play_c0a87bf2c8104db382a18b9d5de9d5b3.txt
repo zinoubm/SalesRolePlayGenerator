@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Healthcare Company]. Am I speaking with the person in charge of Troubleshooting technical issues for customers at your company?
+
+Business Executive: Yes, this is [Name] and I'm in charge of Troubleshooting technical issues. How can I help you?
+
+Sales Rep: We specialize in providing healthcare products and services to companies like yours. We noticed that you are having some technical issues and I wanted to discuss how our products and services could help.
+
+Business Executive: That sounds interesting. What type of products and services do you offer?
+
+Sales Rep: We offer a variety of products and services ranging from software solutions to hardware upgrades and maintenance. Our goal is to help you solve any technical issues you may be having, so you can focus on growing your business. 
+
+Business Executive: That's certainly something I'm interested in exploring. What type of services do you provide specifically for troubleshooting technical issues?
+
+Sales Rep: We have a team of experts who specialize in troubleshooting technical issues. They have a deep understanding of the latest technologies and can quickly identify and fix issues. We also provide ongoing maintenance and support services to ensure your systems stay running smoothly. 
+
+Business Executive: That sounds great. How much does this service cost?
+
+Sales Rep: We offer flexible pricing packages that can be tailored to meet your specific needs. We would be happy to discuss these options with you and provide you with a detailed quote. 
+
+Business Executive: That sounds great. Can you tell me a bit more about what your services entail?
+
+Sales Rep: Absolutely. Our services include 24/7 support, on-site visits, and remote troubleshooting. We also provide training and education to ensure your staff is up to date on the latest technologies. 
+
+Business Executive: That sounds like a comprehensive service. Do you have any references I can speak with to get an idea of how your services work?
+
+Sales Rep: Absolutely. We have a number of satisfied customers who can provide you with an honest review of our services. I'd be happy to provide you with their contact information so you can reach out to them directly.

@@ -1,0 +1,35 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep] from [Technology Company]. How are you today?
+
+Single Parent: Hi, I'm okay. What can I do for you?
+
+Sales Rep: I'm calling to introduce our technology products and services to your company. We specialize in providing solutions for troubleshooting technical issues for customers. Would you be the person in charge of troubleshooting at your company?
+
+Single Parent: Yes, that's me.
+
+Sales Rep: Great, I'd love to tell you more about our products and services. Would you be interested in learning more?
+
+Single Parent: Sure, go ahead.
+
+Sales Rep: Our products and services are tailored to fit the needs of any company. We can provide comprehensive solutions for troubleshooting and resolving technical issues quickly and efficiently. We also offer a wide range of training services to help your team stay up-to-date on the latest technology. 
+
+Single Parent: That sounds great. What kind of services do you offer?
+
+Sales Rep: We offer a variety of services ranging from basic technical support to more advanced troubleshooting. We also have a team of experts available to help with any questions or issues you may have. Additionally, we offer ongoing training and support to help ensure that your team is able to handle any technical issues that may arise.
+
+Single Parent: That sounds great. What kind of pricing do you have?
+
+Sales Rep: We have a variety of pricing options to fit your budget. We offer both monthly and annual plans with discounts for long-term commitments. We also have a money-back guarantee if you're not completely satisfied with our services.
+
+Single Parent: That sounds good. I'm interested in learning more.
+
+Sales Rep: Great! I'd be happy to set up a time to discuss our products and services in more detail and answer any questions you may have. Would that be possible?
+
+Single Parent: Yes, that's fine. When would be a good time for you? 
+
+Sales Rep: How about tomorrow at 1 pm? 
+
+Single Parent: That sounds good. I'll be available then.
+
+Sales Rep: Wonderful. I look forward to speaking with you then. Have a great day!

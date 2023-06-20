@@ -1,0 +1,26 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] calling from [Agriculture Company]. I am calling to see if there is a person in charge of processing customer orders that I can speak to?
+Business Executive: Yes, this is [Business Executive Name], what can I do for you?
+
+Sales Rep: Great, [Business Executive Name], I am calling to introduce our [Agriculture Company] services. We specialize in providing high-quality, sustainable local produce to businesses across the country. 
+
+Business Executive: That’s interesting. Can you tell me more about your services?
+
+Sales Rep: Absolutely. We provide a wide variety of locally sourced products, from fruits and vegetables to grains and dairy products. Our products are all grown using sustainable methods and are of the highest quality. We also offer delivery services, so you don’t have to worry about getting your orders on time. 
+
+Business Executive: That sounds great. What kind of customer service do you provide?
+
+Sales Rep: We have a dedicated customer service team who are available to answer any questions you may have about our products and services. We also have a commitment to providing timely and accurate order processing. We understand the importance of getting orders to our customers on time. 
+
+Business Executive: That’s great to hear. What kind of payment options do you offer?
+
+Sales Rep: We accept all major credit cards, as well as PayPal and Apple Pay. We also offer flexible payment plans for businesses that require them.
+
+Business Executive: That’s impressive. Can you tell me more about your delivery services?
+
+Sales Rep: Absolutely. We offer same-day delivery services in most areas, and our delivery team is highly experienced and dedicated to ensuring that orders arrive on time and in perfect condition. We also offer tracking services so that you can monitor the progress of your order. 
+
+Business Executive: That sounds great. I think our company could benefit from your services. What do you need from me to get started?
+
+Sales Rep: All we need is your contact information, and we can start setting up your account. We look forward to working with you.

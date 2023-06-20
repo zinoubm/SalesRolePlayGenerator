@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Agriculture Company]. Is this [Name]? 
+
+Stay-at-home Parent: Yes, this is [Name].
+
+Sales Rep: Great, [Name], it's a pleasure to speak with you. The reason I'm calling today is to introduce you to our company and our services. We're a leading provider of agricultural solutions, offering a variety of products and services designed to meet your needs. 
+
+Stay-at-home Parent: That sounds interesting. Can you tell me more about the services you offer?
+
+Sales Rep: Absolutely! We offer a wide range of services, from crop management to soil testing and fertilization. We also provide consulting services to help you evaluate and optimize your operations.
+
+Stay-at-home Parent: That's great. I'm interested in learning more.
+
+Sales Rep: Of course. One of the areas we specialize in is delivery times. We understand that delivery times can be a major concern for customers, and we strive to ensure that all orders are delivered on time. We have a team of dedicated professionals who are committed to providing excellent customer service and ensuring that orders are delivered on time.
+
+Stay-at-home Parent: That sounds very promising. Is there anything else I should know about your delivery services?
+
+Sales Rep: Yes, we also offer a range of other services that can help you optimize your operations, including inventory management, order tracking, and more. We also provide free training and support, so you can be confident that your operations will run smoothly. 
+
+Stay-at-home Parent: That sounds great. I'm definitely interested in learning more about your services.
+
+Sales Rep: Wonderful! I'd be happy to provide you with more information and answer any questions you may have. Can I schedule a time for us to discuss your needs in more detail?

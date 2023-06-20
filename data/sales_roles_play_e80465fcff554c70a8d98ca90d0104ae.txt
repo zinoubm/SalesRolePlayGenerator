@@ -1,0 +1,21 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Technology Company]. How are you doing today?
+
+High-end Consumer: Good morning, I'm doing well. How can I help you?
+
+Sales Rep: I'm calling to introduce our new technology products to your company. We offer top-of-the-line products that can help you stay ahead of the competition. 
+
+High-end Consumer: That's great, I'm interested in learning more. What kind of products do you have?
+
+Sales Rep: We have a wide variety of products ranging from software, hardware, and networking solutions. We also provide product demonstrations so you can see how our products can help you. 
+
+High-end Consumer: That sounds great. Who would I need to speak with in order to arrange a product demonstration?
+
+Sales Rep: Usually, the person in charge of providing product demonstrations to customers is the sales representative. Can I put you in touch with one of our sales reps who can provide more information about our products?
+
+High-end Consumer: Yes, that would be great. 
+
+Sales Rep: Great, I'll have one of our sales reps contact you shortly. Is there anything else I can help you with today?
+
+High-end Consumer: No, that's all. Thank you for your help.

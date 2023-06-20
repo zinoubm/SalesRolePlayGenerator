@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep name] calling from [Agriculture Company name]. Am I speaking with the person in charge of answering customer questions about pricing?
+
+Business Owner: Yes, this is [Business Owner name]. How can I help you?
+
+Sales Rep: Great! I'm calling because I wanted to let you know about our new range of agricultural products. We have a variety of items that could help you save money and increase the productivity of your business. 
+
+Business Owner: That sounds interesting. Can you tell me more about the products?
+
+Sales Rep: Sure! Our products are made from the highest quality materials and are designed to increase the efficiency of your operations. We offer competitive pricing and a variety of services to help you get the most out of your investment.
+
+Business Owner: That is great. Can you tell me more about the services you provide?
+
+Sales Rep: Absolutely! We offer a wide range of services, including customized training, technical support, and ongoing maintenance. We also provide financing options to help you get the products you need.
+
+Business Owner: That is great. Could you tell me a bit more about the pricing?
+
+Sales Rep: Of course. We offer competitive prices that are tailored to fit your budget. We also offer discounts for bulk orders and can provide additional discounts depending on the size of your order. 
+
+Business Owner: That sounds great. Do you have any other services or products that I should be aware of?
+
+Sales Rep: Yes, we also provide a range of fertilizer products, pest control solutions, and other related items. We also have a team of experts that can provide specialized advice and support for your agricultural operations.

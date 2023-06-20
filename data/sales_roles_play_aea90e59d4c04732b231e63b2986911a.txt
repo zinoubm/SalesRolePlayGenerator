@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name], I’m calling from [Healthcare Company]. Are you the person in charge of explaining product warranties to customers?
+
+Senior Citizen: Yes, this is [Name], how may I help you?
+
+Sales Rep: Well [Name], I’m calling to discuss our healthcare products and the warranties we offer. Our products offer the highest quality in healthcare, and our warranties are among the most comprehensive on the market. 
+
+Senior Citizen: That sounds great. What kind of warranty do you offer?
+
+Sales Rep: We offer a variety of warranties, depending on the product. For example, our dental care products come with a two-year warranty, while our vision care products come with a three-year warranty. We also offer an extended warranty for an additional fee. 
+
+Senior Citizen: That’s great to know. What kind of coverage does the warranty provide?
+
+Sales Rep: Our warranties provide coverage for any defects in materials or workmanship, as well as damages due to normal wear and tear. We also provide coverage for accidental or intentional damage. 
+
+Senior Citizen: Okay, that’s helpful. What happens if I need to make a claim?
+
+Sales Rep: If you need to make a claim, simply contact our customer service department and they will help you through the process. We also have an online portal where you can manage your warranty and make claims. 
+
+Senior Citizen: That sounds great. How do I know if my product is eligible for a warranty?
+
+Sales Rep: All of our products are eligible for a warranty, as long as they are purchased from an authorized retailer or directly from us. If you have any questions about whether or not your product is eligible, you can contact our customer service department for assistance.

@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning! My name is [NAME], and I'm with [HOSPITALITY COMPANY]. We are a leading hospitality provider and I'm calling to see if I can answer any questions you may have about our pricing. 
+
+Stay-at-home Parent: Hi [NAME], thanks for calling. I'm curious about the cost of your services. 
+
+Sales Rep: Absolutely! We offer a range of options to fit different budgets. What are you looking for?
+
+Stay-at-home Parent: Well, I'm a stay-at-home parent and I'm looking for something affordable.
+
+Sales Rep: No problem. We have several packages that are perfect for stay-at-home parents. Can I ask what you're looking for specifically?
+
+Stay-at-home Parent: I'm interested in a package that includes meals and cleaning services.
+
+Sales Rep: Great, we have a package that includes three meals a day and a weekly cleaning service. The cost of this package is [PRICE]. 
+
+Stay-at-home Parent: That's a bit more than I was expecting. Are there any discounts or specials available?
+
+Sales Rep: Absolutely. We offer a 10% discount for any stay-at-home parent who books our package. That brings the total cost down to [DISCOUNTED PRICE]. 
+
+Stay-at-home Parent: That sounds great. Is there anything else I need to know?
+
+Sales Rep: Yes, we also offer a money back guarantee if you're not satisfied with our services. You can cancel within the first week and get a full refund. 
+
+Stay-at-home Parent: That's great! I think I'm ready to book. 
+
+Sales Rep: Fantastic! I'll just need some basic information to get you set up. Can I have your name, address, and phone number?

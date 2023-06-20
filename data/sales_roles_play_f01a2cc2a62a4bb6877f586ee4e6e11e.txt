@@ -1,0 +1,29 @@
+
+
+Sales Rep: Good morning, this is [Name], calling from [Healthcare Company]. Am I speaking with [Name]? 
+
+Young Professional: Yes, this is [Name], how can I help you?
+
+Sales Rep: Hi [Name], I’m calling to discuss our healthcare solutions and how they could help your company. Are you the person in charge of troubleshooting technical issues for customers?
+
+Young Professional: Yes, that’s me. What kind of solutions are you offering?
+
+Sales Rep: We have a full suite of healthcare solutions that can help improve efficiency and customer service. For example, our platform allows customers to access their medical records anytime, anywhere. It also includes built-in troubleshooting tools to help quickly resolve any technical issues that customers may have. 
+
+Young Professional: That sounds interesting. What other features do you offer?
+
+Sales Rep: We also provide detailed analytics and reporting capabilities to help track customer interactions and identify areas for improvement. Plus, our customer service team is available 24/7 to provide ongoing support for any technical issues that may come up. 
+
+Young Professional: That sounds great. What kind of customer support do you offer? 
+
+Sales Rep: We offer a variety of support options including live chat, video tutorials, and email. Plus, our in-depth knowledge base is full of helpful troubleshooting tips and resources. 
+
+Young Professional: Okay, that sounds like a great solution. Can you tell me more about the pricing?
+
+Sales Rep: Yes, of course. We offer a flexible pricing model that allows you to pay based on the number of users or features you need. We also have special discounts for long-term contracts. 
+
+Young Professional: That sounds good. Can I get a demo of the platform? 
+
+Sales Rep: Absolutely. I’d be happy to arrange a time to walk you through the features and show you how it works. Would that be something you’d be interested in? 
+
+Young Professional: Yes, that would be great. Let’s set up a time to do that.

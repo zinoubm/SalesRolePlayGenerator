@@ -1,0 +1,45 @@
+
+
+Sales Rep: Good morning. My name is [Name] and I'm calling from [Healthcare Company]. How can I help you?
+
+College Student: Hi [Name]. I'm [Name], and I'm a college student. What can I do for you?
+
+Sales Rep: Well [Name], I'm calling to see if I can help you with any product returns you may have at the healthcare company. Are you the person in charge of assisting customers with product returns?
+
+College Student: No, I'm not. That's actually [Name], she's the one in charge of that.
+
+Sales Rep: Oh okay, could you please transfer me to her?
+
+College Student: Sure, I'll transfer you right away.
+
+[transfer to person in charge of product returns]
+
+Sales Rep: Hi [Name], my name is [Name] and I'm calling from [Healthcare Company]. I understand you're in charge of assisting customers with product returns? 
+
+Person in Charge of Product Returns: Yes, that's correct. How can I help you?
+
+Sales Rep: Well, I'm calling to see if there's anything we can do to help you with product returns. Are there any issues you are having with product returns that we can help with?
+
+Person in Charge of Product Returns: Actually, yes. We have been experiencing some issues with customers returning products that have been damaged in shipment. We've been having a hard time getting refunds for these products. 
+
+Sales Rep: I see. That sounds like a difficult situation. Well, we have a policy in place that allows us to replace products that have been damaged in transit. So if a customer returns a product that has been damaged in transit, we can replace it for free. 
+
+Person in Charge of Product Returns: That sounds great. That will definitely help us out. 
+
+Sales Rep: Wonderful. Is there anything else we can do to help you with product returns? 
+
+Person in Charge of Product Returns: Actually, yes. We have been having some trouble with customers returning products that they are not happy with. We've been having a hard time getting refunds for these products. 
+
+Sales Rep: I understand. We have a policy in place that allows us to offer a full refund to customers that are not happy with their purchase. So if a customer returns a product that they are not happy with, we can offer a full refund. 
+
+Person in Charge of Product Returns: That sounds great. That will definitely help us out. 
+
+Sales Rep: Wonderful. Is there anything else we can do to help you with product returns? 
+
+Person in Charge of Product Returns: No, I think that should do it. Thank you for your help. 
+
+Sales Rep: You're welcome. Is there anything else I can do for you? 
+
+Person in Charge of Product Returns: No, I think that should do it. Thank you for your help. 
+
+Sales Rep: My pleasure. Have a great day.

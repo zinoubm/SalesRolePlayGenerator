@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep's Name] from [Company Name]. Is this a good time to talk?
+
+Working Parent: Yes, this is a good time. What can I do for you?
+
+Sales Rep: I'm calling because our company specializes in providing IT solutions to businesses like yours. We understand that the troubleshooting process can be difficult and time consuming. We have a variety of products and services that can help you streamline this process and make it more efficient for your business. 
+
+Working Parent: That sounds interesting. Could you tell me more about your products and services?
+
+Sales Rep: Absolutely. Our products and services include a range of IT solutions such as cloud hosting, data backup, disaster recovery, and security solutions. We also offer a wide selection of hardware and software products that can help you troubleshoot any technical issues you may be facing. 
+
+Working Parent: That's great. We've been having some difficulties with our current IT system, so I'm definitely interested in hearing more about how you can help us.
+
+Sales Rep: Sure, I'd be more than happy to discuss our products and services with you in more detail. Before we do, is there anything else you'd like to know about our company or our solutions?
+
+Working Parent: Yes, I'd like to know more about your pricing and how your services compare to other companies.
+
+Sales Rep: Of course. We have competitive pricing, and we're always willing to negotiate to make sure you get the best deal. We also have a team of experienced IT professionals who can help you with any technical issues you may be facing. 
+
+Working Parent: That sounds great. Can you tell me more about your customer support?
+
+Sales Rep: Absolutely. We have a 24/7 customer support team that can help you with any issues you may be having. Our team is highly trained and experienced in troubleshooting and resolving technical issues. We also provide regular updates and maintenance to ensure your system is running smoothly. 
+
+Working Parent: That's great. I'm definitely interested in learning more about your products and services. What would be the next steps?
+
+Sales Rep: Sure. We can arrange a meeting with one of our IT specialists to discuss your needs in more detail. We can also provide you with a free consultation to help you decide which products and services are best for your business.

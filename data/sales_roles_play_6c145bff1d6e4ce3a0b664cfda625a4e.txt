@@ -1,0 +1,25 @@
+
+
+Sales Rep: Good morning, I'm calling from a hospitality company that specializes in providing services for entrepreneurs. Is this a good time to talk? 
+
+Entrepreneur: Sure, what can I do for you?
+
+Sales Rep: I'm looking to connect with the person in charge of answering customer questions about pricing for our services. Are you that person? 
+
+Entrepreneur: No, sorry. That would be my assistant. Can I take a message?
+
+Sales Rep: Absolutely. I'd like to discuss how we can provide our services to you at the best possible price. 
+
+Entrepreneur: OK, I'll be sure to let my assistant know. 
+
+Sales Rep: Great. Could I also ask if you have any current pricing agreements in place with other hospitality companies? 
+
+Entrepreneur: Yes, we do. We have a few agreements with different companies.
+
+Sales Rep: That's great. Could you tell me more about these agreements? 
+
+Entrepreneur: Sure, they involve discounts on services and free upgrades depending on the package we choose. 
+
+Sales Rep: That sounds great. How would you feel about comparing our services and pricing to your current agreements? 
+
+Entrepreneur: I'm open to it. Let me put you in touch with my assistant so you can discuss the details.

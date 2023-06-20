@@ -1,0 +1,31 @@
+
+
+(Sales Rep speaking on the phone): 
+Hello, is this [name of Senior Citizen]? 
+
+(Customer): 
+Yes, this is [name]. Who is this?
+
+(Sales Rep): 
+My name is [sales rep name] and I'm calling from [technology company name]. We specialize in providing technology solutions for businesses of all sizes. I'm wondering if this is a good time to talk about how we can help your company?
+
+(Customer): 
+Yes, I'm open to hearing about what you offer.
+
+(Sales Rep): 
+Great! We provide a wide range of technology solutions, from cloud computing to software development. We also offer customer service and technical support to ensure that your business is well taken care of. Is there anyone in particular at your company who handles customer complaints? 
+
+(Customer): 
+Yes, we have a team of customer service representatives who handle complaints and inquiries.
+
+(Sales Rep): 
+That's great to hear. I'd love to discuss our services further with them. Would it be possible for me to get in touch with them?
+
+(Customer): 
+Of course. I'll provide you with their contact information and you can reach out to them directly.
+
+(Sales Rep): 
+That's great. I look forward to speaking with them and exploring how we can help your business. Is there anything else I can help you with today?
+
+(Customer): 
+No, that's all. Thank you for your time.

@@ -1,0 +1,37 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Energy Company]. How are you today?
+
+College Student: I'm doing okay, thanks for asking.
+
+Sales Rep: Great. I'm calling today to talk to you about our energy services. Can I ask who I'm speaking with?
+
+College Student: Yes, my name is [Name].
+
+Sales Rep: Nice to meet you, [Name]. I'm calling because we specialize in providing energy services to businesses and organizations. I'm wondering if you're the person in charge of processing customer orders at the company?
+
+College Student: No, I'm not. That would be my supervisor, [Name].
+
+Sales Rep: Got it. Do you think I could speak to [Name] today, or should I schedule a call with them at a later time?
+
+College Student: I'm not sure if they're available right now, but I can put you in touch with them if you'd like.
+
+Sales Rep: That would be great. Can I ask you a few questions about the company's energy needs so I can better understand what kind of services would be best for you?
+
+College Student: Sure.
+
+Sales Rep: Great. Can you tell me what type of energy your company currently uses? 
+
+College Student: We currently use natural gas and electricity.
+
+Sales Rep: Got it. And how satisfied are you with your current energy provider? 
+
+College Student: We've been happy with them, but we're always looking for ways to save money.
+
+Sales Rep: I understand. We specialize in providing cost-effective energy solutions. We also have a variety of services that can help you reduce your energy bills. Would you like to learn more? 
+
+College Student: Sure, I'd love to hear more.
+
+Sales Rep: Great. I'd be happy to explain our services in more detail and answer any questions you may have. Would that be okay? 
+
+College Student: Yes, that sounds great.

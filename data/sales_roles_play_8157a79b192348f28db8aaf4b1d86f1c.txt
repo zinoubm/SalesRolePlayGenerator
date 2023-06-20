@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hi, this is [Sales Rep Name] from [Energy Company]. How are you today?
+
+Customer: I'm doing well. How can I help you?
+
+Sales Rep: We specialize in providing energy solutions that can help reduce your company's energy consumption. We are offering a special promotion that can help you save money.
+
+Customer: That sounds interesting, tell me more.
+
+Sales Rep: We can provide you with a customized energy solution that is tailored to meet your specific needs and budget. We can help you reduce your energy costs, lower your carbon emissions, and simplify your operations. 
+
+Customer: That sounds great, but I'm not sure if I'm the right person to make a decision on this.
+
+Sales Rep: No problem. Who is the person in charge of processing customer orders at your company? I would be more than happy to discuss the details with them. 
+
+Customer: That would be [Name], our orders manager. 
+
+Sales Rep: Perfect. Would it be ok if I scheduled a time to speak with [Name]? 
+
+Customer: Yes, that would be fine. 
+
+Sales Rep: Great. I'll reach out to [Name] and schedule a time to discuss our energy solution. Is there anything else I can help you with today?
+
+Customer: No, that'll be all. Thank you.
+
+Sales Rep: You're welcome. Have a great day.

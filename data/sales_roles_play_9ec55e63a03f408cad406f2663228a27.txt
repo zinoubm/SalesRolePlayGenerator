@@ -1,0 +1,29 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Company]. How are you today? 
+
+Stay-at-home Parent: Good morning, I'm doing well, thank you. 
+
+Sales Rep: Great! I'm calling to see if your hospitality company may be interested in our services. We offer a wide range of services to help hospitality companies improve their customer experiences. Could you tell me who handles customer orders at your company? 
+
+Stay-at-home Parent: Yes, that would be me. 
+
+Sales Rep: Great, I'm so glad I got the right person. Could you tell me a little bit about your current customer ordering process? 
+
+Stay-at-home Parent: Sure. We currently have a manual ordering process that is time consuming and not very efficient. 
+
+Sales Rep: I understand. That sounds like a challenge. What would a more efficient process look like to you? 
+
+Stay-at-home Parent: I think it would be great if we could automate the process and make it faster and easier for our customers to order. 
+
+Sales Rep: Absolutely. That is exactly what our services can do. We have a variety of options that can be tailored to your specific needs. Would you like to hear more about our services? 
+
+Stay-at-home Parent: Yes, that would be great. 
+
+Sales Rep: Great. We offer a range of services that can help streamline your customer ordering process, including automated order processing, order tracking, and customer notifications. We also offer additional features such as loyalty programs and customer surveys. Would any of these services be of interest to your company? 
+
+Stay-at-home Parent: Yes, those all sound like great options. 
+
+Sales Rep: Wonderful. We would be happy to provide you with a personalized quote and further information about our services. Would you like to arrange a time for us to discuss this further? 
+
+Stay-at-home Parent: Yes, that would be great.

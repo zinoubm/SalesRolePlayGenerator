@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [name] from [Company]. How are you today?
+
+Business Owner: I'm well, thank you. What can I do for you?
+
+Sales Rep: We specialize in providing technology solutions for businesses like yours. We noticed your company is having difficulty managing product returns. Is this a problem you are currently facing?
+
+Business Owner: Yes, it is. We're not sure how to streamline the process so that our customers get their refunds in a timely manner.
+
+Sales Rep: Well, fortunately, our company has a software solution that can help with that. It automates the entire return process, from providing customers with return labels to tracking their refunds.
+
+Business Owner: That sounds great. How much does it cost?
+
+Sales Rep: Our software is very affordable. We offer a tiered pricing system based on the size of your business and the number of transactions you process. I can give you more information if you'd like.
+
+Business Owner: That would be great.
+
+Sales Rep: Absolutely. We can also provide you with a free trial so that you can see how the system works before you commit to it.
+
+Business Owner: That sounds like a great option.
+
+Sales Rep: Wonderful. Is there someone in charge of handling product returns at your company that I can speak to? 
+
+Business Owner: Yes, that would be me. 
+
+Sales Rep: Great! I'd be happy to provide you with more information about our system and answer any questions you may have.

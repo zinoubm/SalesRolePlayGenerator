@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hello, this is [Name] from [Company]. I'm calling to introduce our healthcare services to your college. How are you doing today?
+
+College Student: Hi, I'm doing well. How can I help?
+
+Sales Rep: Great. I wanted to let you know about our company and the services we provide. We offer a variety of healthcare plans that are tailored to the needs of college students. We have a wide range of options available, from basic coverage to more comprehensive plans that cover a variety of services.
+
+College Student: That sounds interesting. What kind of services do you offer?
+
+Sales Rep: We cover a variety of common healthcare needs, from doctor visits to prescriptions. We also offer additional services such as dental and vision care, mental health services, and more. We strive to make our services as affordable as possible for students. 
+
+College Student: That sounds great. Who would be the best person to speak with about upselling additional services?
+
+Sales Rep: We have a dedicated team of professionals who specialize in upselling additional services. I can connect you with the person in charge of that team if you'd like. Would that be helpful?
+
+College Student: Yes, that would be great.
+
+Sales Rep: Absolutely. I'll get you connected with them right away. Is there anything else I can help you with today?
+
+College Student: No, that's it. Thank you for your help. 
+
+Sales Rep: No problem. I'm glad I could be of assistance. Have a great day!

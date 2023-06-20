@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hello, this is [Name] from [Agriculture Company]. How can I help you today?
+
+Stay-at-home Parent: Hi, I'm [Name], a stay-at-home parent. What can I do for you?
+
+Sales Rep: Good to meet you, [Name]. I'm calling to see if you or someone else at your company would be interested in upselling additional products or services from our Agriculture Company.
+
+Stay-at-home Parent: That's not something I'm in charge of, but I can put you in touch with the right person.
+
+Sales Rep: Great, who should I speak with?
+
+Stay-at-home Parent: You can speak with [Name], our sales manager. I can give you her contact details if you like.
+
+Sales Rep: That would be wonderful.
+
+Scenario 1:
+
+Stay-at-home Parent: Before I give you her details, can you tell me more about what your company offers?
+
+Sales Rep: Absolutely. [Agriculture Company] offers a range of products and services to help farmers increase their yields, reduce their costs, and maximize their profits.
+
+Scenario 2:
+
+Stay-at-home Parent: That sounds great, but we're already using a number of different agriculture companies. What can you offer that's different?
+
+Sales Rep: We offer a wide range of products and services that are tailored to the specific needs of each customer. We also have a team of experts who are always available to provide advice and support.

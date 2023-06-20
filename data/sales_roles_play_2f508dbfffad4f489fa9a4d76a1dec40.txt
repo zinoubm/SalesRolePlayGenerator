@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning, this is [sales rep name] from [company name]. How are you doing today? 
+
+Senior Citizen: I'm doing well, thank you. How can I help you?
+
+Sales Rep: I'm calling to discuss our new technology products. We specialize in [list products]. Our products are designed to provide customers with the latest and most advanced features to make their lives easier and more efficient. 
+
+Senior Citizen: That sounds great, but I'm not sure how our company could benefit from your products.
+
+Sales Rep: Well, our products offer a range of features that can help your business save time and money. For example, our [product] can help you streamline processes, like customer service inquiries. You can set up automated responses that provide customers with the information they need, quickly and easily. 
+
+Senior Citizen: That does sound helpful. Who should I speak with if I have questions about the product features?
+
+Sales Rep: Absolutely. I'd be happy to connect you with the person in charge of responding to customer inquiries about product features at our company. Would that be helpful? 
+
+Senior Citizen: Yes, that would be great. 
+
+Sales Rep: Excellent. I'll transfer you to our customer service team now. They'll be able to answer any questions you may have. Thank you for your time and have a great day.

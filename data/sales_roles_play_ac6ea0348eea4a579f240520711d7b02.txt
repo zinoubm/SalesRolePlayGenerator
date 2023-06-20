@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep] from [Energy Company]. I’m calling to discuss the possibility of providing energy solutions to your company.
+
+Business Owner: Hi [Sales Rep], what kind of energy solutions are you talking about?
+
+Sales Rep: We specialize in providing renewable energy solutions such as solar and wind power. We also offer energy efficiency solutions such as LED lighting and energy monitoring systems. 
+
+Business Owner: That sounds interesting. How would these solutions help our business?
+
+Sales Rep: Well, our solutions can help you save money on energy costs by reducing your energy consumption. They can also reduce your carbon footprint and help you meet sustainability goals. 
+
+Business Owner: That sounds great. I’d like to know more.
+
+Sales Rep: Of course! I can provide you with more information and answer any questions you may have. I can also arrange a product demonstration so you can see our solutions in action. 
+
+Business Owner: That would be great. Who should I contact to arrange the demonstration?
+
+Sales Rep: I can connect you with the person in charge of providing product demonstrations to customers. Would you like me to do that now?
+
+Business Owner: Yes, please. 
+
+Sales Rep: Alright. I’ll connect you with the appropriate person right away. Is there anything else I can help you with?
+
+Business Owner: No, that should do it. Thank you. 
+
+Sales Rep: You’re welcome. I look forward to hearing from you soon. Have a great day!

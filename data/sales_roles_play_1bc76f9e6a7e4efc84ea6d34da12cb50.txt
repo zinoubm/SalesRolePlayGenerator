@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep name] from [Company name], an education company. How are you today? 
+
+Senior Citizen: I'm doing okay. How can I help you?
+
+Sales Rep: We are an education company that specializes in providing customized educational services and products to our customers. We noticed that you are an ideal customer for our services, and I'm calling to see if you're interested in learning more about what we have to offer. 
+
+Senior Citizen: I'm not sure I'm the person you want to talk to about this. Who should I be speaking to? 
+
+Sales Rep: I believe you are the ideal person to speak to about this. We understand that you are the person in charge of responding to customer inquiries about product features at your company, and we would love to talk to you about the various services and products we offer. Are you open to hearing more about what we have to offer? 
+
+Senior Citizen: Sure, I'm open to hearing more. 
+
+Sales Rep: Great! We offer a variety of educational products and services that are tailored to your specific needs. We have courses that are designed to help you learn new skills, and we can work with you to create a customized learning plan that works for you. We also offer one-on-one tutoring sessions to help you further your knowledge. 
+
+Senior Citizen: That sounds interesting. Do you offer any discounts for senior citizens? 
+
+Sales Rep: Absolutely! We recognize the importance of providing discounts to our senior customers, and we would be more than happy to provide you with a discount on our services. Would you like to learn more about our services and the discounts we offer? 
+
+Senior Citizen: Yes, please tell me more. 
+
+Sales Rep: Absolutely! Let me tell you more about our services and the discounts we offer to our senior customers. We offer discounts on all of our services, including our one-on-one tutoring sessions and our customized learning plans. We also offer discounts on our courses, so you can save money while learning new skills. 
+
+Senior Citizen: That sounds great. How do I go about signing up for these services?
+
+Sales Rep: You can sign up for our services online or over the phone. We will provide you with all the information you need to get started, and our customer service team is always available to answer any questions you may have. 
+
+Senior Citizen: That sounds great. I think I'm ready to sign up. 
+
+Sales Rep: Wonderful! Let me get the paperwork ready and we can get started right away. Thank you for your interest in our services, and we look forward to working with you.

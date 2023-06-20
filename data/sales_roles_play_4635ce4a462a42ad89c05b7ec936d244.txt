@@ -1,0 +1,43 @@
+
+
+[Sales Rep]
+Hello, is this [Stay-at-home Parent]? 
+
+[Stay-at-home Parent]
+Yes, this is [Stay-at-home Parent]. 
+
+[Sales Rep]
+My name is [Sales Rep] and I'm calling on behalf of [Healthcare Company]. We offer a range of healthcare products and services and I'd like to tell you a bit more about them. 
+
+[Stay-at-home Parent]
+I'm sorry, I'm not interested. 
+
+[Sales Rep]
+I understand. May I ask why? 
+
+[Stay-at-home Parent]
+I don't need any healthcare products right now. 
+
+[Sales Rep]
+That's okay. We understand that not everyone needs healthcare products right away. However, we do have a range of products that could be beneficial for you in the future. Can I tell you a bit more about them? 
+
+[Stay-at-home Parent]
+Sure. 
+
+[Sales Rep]
+Great. We offer a wide variety of products and services, from specialty medical equipment to professional medical advice. We also have a wide range of warranties available for our products, so you can be sure that your products are covered in case of any necessary repairs. 
+
+[Stay-at-home Parent]
+That's great, but how do I know what kind of warranty I need? 
+
+[Sales Rep]
+We have a team of professionals who are trained to explain our warranties and help customers choose the best warranty for their needs. Would you like me to connect you with someone who can explain more about our warranties? 
+
+[Stay-at-home Parent]
+Yes, please. 
+
+[Sales Rep]
+Great. Let me transfer you to one of our representatives who will be able to explain our warranties to you in more detail. Thank you for your time. 
+
+[Stay-at-home Parent]
+Thank you.

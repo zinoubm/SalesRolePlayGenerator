@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Healthcare Company], how can I help you?
+
+Senior Citizen: Hi, [Sales Rep Name], I'm [Senior Citizen Name], I'm interested in learning more about the [Healthcare Company] products and services.
+
+Sales Rep: That's great to hear! [Healthcare Company] offers a wide variety of products and services that can help individuals like yourself stay healthy. Can you tell me a little bit more about what you're looking for?
+
+Senior Citizen: Yes, I'm looking for something that can help me stay healthy and active as I get older.
+
+Sales Rep: Absolutely! [Healthcare Company] offers a range of products and services that can help you stay healthy and active. For example, we offer physical therapy services, nutritional counseling, exercise programs, and more. We also have a variety of products that can help with mobility and strength.
+
+Senior Citizen: That sounds great. I'm interested in learning more about the products and services.
+
+Sales Rep: Absolutely! [Healthcare Company] offers a wide range of products and services that can help you stay healthy and active. For example, we offer physical therapy services, nutritional counseling, exercise programs, and more. We also have a variety of products that can help with mobility and strength. And, if you're looking for something a little more comprehensive, we also offer upselling opportunities. For example, we can provide additional products and services that can help you stay healthy and active as you age. 
+
+Senior Citizen: That sounds great. I'm interested in learning more about the upselling opportunities.
+
+Sales Rep: Absolutely! We offer a variety of upselling opportunities that can help you stay healthy and active as you age. For example, we can provide additional products and services such as home health aides, medical equipment, and more. We can also provide additional nutritional counseling and exercise programs that can help you stay healthy and active.

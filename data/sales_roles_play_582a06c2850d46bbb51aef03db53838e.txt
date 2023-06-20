@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hello, my name is [NAME] and I’m calling from [Company Name]. How are you doing today? 
+
+Customer: I’m doing okay. What can I do for you?
+
+Sales Rep: I’m calling to inform you about our new technology that can help streamline customer orders for your business. We specialize in providing solutions that help companies save time, money, and energy. 
+
+Customer: That sounds interesting. Can you tell me more about it?
+
+Sales Rep: Sure. Our technology provides a fully integrated solution that simplifies the entire customer ordering process. We can help you track orders, manage inventory, and reduce errors in customer data. 
+
+Customer: That sounds great, but I’m a single parent and don’t have a lot of time to dedicate to learning about new technology. 
+
+Sales Rep: I understand. Our technology is designed to be user-friendly and easy to learn, so you won’t have to spend a lot of time on it. We also offer customer support and training to help you get up and running quickly. 
+
+Customer: Okay, that sounds good. Who should I speak to if I have any questions?
+
+Sales Rep: You can speak to our customer service team or our account manager at any time. They’ll be able to answer any questions you have. 
+
+Customer: Great. Who is the person in charge of processing customer orders at your company? I’d like to speak with them to discuss the details of your technology. 
+
+Sales Rep: Our head of customer operations is [NAME]. I can put you in touch with them if you’d like. 
+
+Customer: Yes, please. 
+
+Sales Rep: Great. I’ll send an email to you with their contact information. Is there anything else I can help you with?
+
+Customer: No, that should do it. Thank you. 
+
+Sales Rep: You’re welcome. Thank you for your time. Have a great day.

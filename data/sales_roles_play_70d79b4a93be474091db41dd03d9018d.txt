@@ -1,0 +1,19 @@
+
+
+Sales rep: Hi, I'm [Name], calling from [Hospitality Company]. Is this a good time to talk?
+
+College Student: Sure, what can I do for you?
+
+Sales rep: Great, thank you for taking the time. We provide a range of hospitality services and I wanted to know if you or your company might be interested?
+
+College Student: That sounds interesting, but I'm not sure how it could help us. Could you explain more?
+
+Sales rep: Absolutely! We specialize in helping companies with their customer service needs, such as assisting with product returns, order processing, and more. Our team has experience with a variety of hospitality businesses and we're confident we can help you too.
+
+College Student: That's great, but who would be in charge of handling the product returns?
+
+Sales rep: We have a team of specialists who are experienced in dealing with product returns. We can assign a dedicated person to your account so that they can provide the best service possible.
+
+College Student: That sounds great, but I'm on a tight budget. Is there any way you can reduce the cost?
+
+Sales rep: Yes, of course! We offer special discounts for students, so if you're a college student, you can benefit from a reduced price.

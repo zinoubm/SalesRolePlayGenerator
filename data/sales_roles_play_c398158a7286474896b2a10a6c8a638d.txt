@@ -1,0 +1,19 @@
+
+
+Sales Rep: [cold call] Good morning, this is [Name] from [Healthcare Company]. How are you doing today? 
+
+High-end Consumer: Hi, [Name]. I'm doing well. What can I do for you? 
+
+Sales Rep: Great! I'm calling to introduce our healthcare product, [Name], and explain the features and benefits to you. 
+
+High-end Consumer: That sounds interesting. What makes your product different from others on the market? 
+
+Sales Rep: Our product is designed to provide comprehensive health care coverage, including access to 24/7 medical services, online medical consultation, and doctor house call services. It also offers a wide range of health and wellness programs tailored to your needs. 
+
+High-end Consumer: That sounds great. What if I need help understanding the product? 
+
+Sales Rep: Absolutely. Our customer service team is available to answer any questions you may have. We also have an online tutorial to help you understand the features of our product. Furthermore, we have a dedicated team of experts who are available to provide personalized support to help you get the most out of our product. 
+
+High-end Consumer: That's really useful. Is there a way for me to get in touch with someone in the customer service team if I have more questions? 
+
+Sales Rep: Absolutely. We have a toll-free customer service line that is available 24/7. Additionally, you can email us and we will be happy to answer any questions you may have. We also have a live chat service available if you need help right away.

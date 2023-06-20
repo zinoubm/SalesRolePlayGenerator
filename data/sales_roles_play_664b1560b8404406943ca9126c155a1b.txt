@@ -1,0 +1,35 @@
+
+
+Sales Rep: Hi, this is [Name], from [Hospitality Company]. How are you doing today?
+
+Young Professional: Hi [Name], I'm doing well, how can I help you?
+
+Sales Rep: We provide hospitality services to businesses and I was wondering if you had any need for our services?
+
+Young Professional: That's interesting. What kind of services do you offer?
+
+Sales Rep: We provide a variety of services including catering, cleaning, and event planning. We also offer technical support for troubleshooting any issues that may arise.
+
+Young Professional: That's great. Who would I speak to about the technical support services?
+
+Sales Rep: You can speak directly to our technical support team. They can help you diagnose and fix any technical issues you may have. 
+
+Young Professional: That sounds helpful. What kind of experience do they have?
+
+Sales Rep: Our technical support team is highly experienced. They have worked with companies of all sizes and have the expertise to help you troubleshoot any issues you may have. 
+
+Young Professional: That's great. Are there any other services you provide?
+
+Sales Rep: Yes, we also provide additional services such as IT support, website design, and training. 
+
+Young Professional: That's really comprehensive. How much do these services cost?
+
+Sales Rep: Our prices are competitive and we also offer discounts for long-term contracts. 
+
+Young Professional: That's great. I'll definitely keep your services in mind. 
+
+Sales Rep: Thank you for your time. Is there anything else I can help you with today?
+
+Young Professional: No, that's it. 
+
+Sales Rep: Great, have a great day.

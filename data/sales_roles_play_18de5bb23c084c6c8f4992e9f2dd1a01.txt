@@ -1,0 +1,33 @@
+
+
+Sales Rep: Good morning/afternoon, this is [Sales Rep Name] from [Agriculture Company]. Is this [Name of Working Parent]? 
+
+Working Parent: Yes, this is [Name].
+
+Sales Rep: Hi [Name], I'm calling today to discuss our products and services related to the agriculture industry. Does that sound like something you'd be interested in hearing more about? 
+
+Working Parent: Sure, I'm curious. What do you offer?
+
+Sales Rep: Our company specializes in providing top-of-the-line products to farmers, ranchers, and other agricultural professionals. We have a wide selection of products ranging from high-quality fertilizers and pesticides to advanced irrigation systems. What type of products are you looking for? 
+
+Working Parent: I'm interested in learning more about your product warranties. 
+
+Sales Rep: Absolutely. We offer a variety of warranties on our products, depending on their type and the length of time you plan to use them. Our warranties cover repair and replacement for any defects in the product. We also offer a satisfaction guarantee that allows customers to return a product for a full refund if they're not completely satisfied. 
+
+Working Parent: That sounds great. Can you explain more about how these warranties work? 
+
+Sales Rep: Absolutely. Our warranties cover any defects in the product for a specified period of time. If you experience any problems with the product, you can contact our customer service team and they'll be able to help you determine if the issue is covered by the warranty. If it is, we'll repair or replace the product for you.
+
+Working Parent: That sounds great. What if I have additional questions about the warranty or the product itself? 
+
+Sales Rep: No problem. Our customer service team is available to answer any questions you may have. You can reach them by phone, email, or through our website. 
+
+Working Parent: Perfect, I'll keep that in mind. Thanks for explaining everything. 
+
+Sales Rep: You're welcome. Is there anything else I can help you with today? 
+
+Working Parent: No, I think that's all. 
+
+Sales Rep: Alright, thanks for your time. Have a great day. 
+
+Working Parent: You too.

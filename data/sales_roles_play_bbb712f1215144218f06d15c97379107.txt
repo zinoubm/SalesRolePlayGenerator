@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hi there, this is [Sales Rep Name] from [Healthcare Company] calling. How are you doing today? 
+
+Single Parent: Hi, I'm doing okay. How can I help you?
+
+Sales Rep: Great! I'm calling to provide you with an introduction to our healthcare products and services. We specialize in providing quality healthcare solutions to families and businesses. I understand that you are a single parent, so I wanted to make sure that you are aware of the many options available to you through our company. 
+
+Single Parent: That sounds great. What kind of options do you have?
+
+Sales Rep: Our healthcare products and services include a wide range of options such as health insurance plans, medical assistance programs, and even online health education resources. We also offer discounts on prescription medications and provide access to a wide network of healthcare professionals. 
+
+Single Parent: That sounds really helpful. Is there someone I can speak with to get more information about the options available to me?
+
+Sales Rep: Absolutely! Our team of customer service representatives is available to help you with any questions or concerns you may have. We also have an expert on our team who can provide product demonstrations and walk you through the various options available to you. Would you like to speak with someone about that?
+
+Single Parent: Yes, please. That would be very helpful.
+
+Sales Rep: Great! I'll connect you with our product demonstration specialist who can provide you with more information. Please hold while I transfer your call. Have a great day!

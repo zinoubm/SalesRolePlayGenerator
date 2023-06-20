@@ -1,0 +1,8 @@
+
+Sales Rep: Hi, this is [Sales Rep Name] calling from [Company Name]. We provide healthcare products and services to those in need. How can I help you today?
+Stay-at-Home Parent: Hi, I'm interested in your delivery times. Do you have any information about that?
+Sales Rep: Absolutely! We understand that delivery times are an important factor when it comes to healthcare products, so we make sure to get your orders to you as quickly as possible. We have several delivery options available and offer same-day delivery in some areas. 
+Stay-at-Home Parent: That sounds great! Are there any additional fees I would need to pay?
+Sales Rep: No, we don't charge any additional fees for our delivery services. We also provide free shipping on orders over a certain amount.
+Stay-at-Home Parent: That's great to hear. What happens if I have any issues with my order?
+Sales Rep: We have a dedicated customer service team that is available to help with any issues you may have. You can reach them by phone, email, or even live chat. We also have a satisfaction guarantee, so if you're not happy with your order, we'll make it right.

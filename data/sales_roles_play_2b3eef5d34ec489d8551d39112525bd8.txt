@@ -1,0 +1,19 @@
+
+
+Sales Rep:  Hi, my name is [Name], and I am calling from [Company]. We provide hospitality solutions for businesses in the area. Can I speak with the person in charge of troubleshooting technical issues for customers? 
+
+Single Parent:  Yes, that would be me. What can I do for you?
+
+Sales Rep:  Great! Well, I wanted to discuss our product with you, and how it can help your business. Our product is designed to help streamline the customer experience, and make it easier for your customers to book rooms, order food, and make payments. 
+
+Single Parent:  That sounds interesting, but I'm not sure how it would benefit our business. 
+
+Sales Rep:  Well, our product offers a range of features that can help you save time and money, such as automated booking systems, payment portals, and customer loyalty programs. These features can help you provide a better experience for your customers and make it easier for them to access your services. 
+
+Single Parent:  That seems like a great solution, but I'm concerned about the cost. 
+
+Sales Rep:  I understand. That's why we offer flexible pricing options that can be tailored to meet your budget. We also offer a money-back guarantee if you're not satisfied with our product, so you don't have to worry about making a commitment. 
+
+Single Parent:  That sounds promising. Can you tell me more about the product? 
+
+Sales Rep:  Absolutely. Let me explain in more detail how our product can help your business.

@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hi, this is [Name] from [Company], we provide hospitality services to businesses and individuals. Is this a good time to talk?
+
+College Student: Sure. What can I do for you?
+
+Sales Rep: I'm calling because I wanted to let you know about the great services we offer to help businesses and individuals troubleshoot technical issues. 
+
+College Student: That sounds interesting. What kind of services do you offer?
+
+Sales Rep: We provide an array of services to help troubleshoot technical issues, including 24/7 technical support, remote maintenance, and on-site support. We also offer advanced solutions such as cloud-based solutions, data recovery, and system optimization. 
+
+College Student: That's great. What makes your services stand out from other companies?
+
+Sales Rep: Our services are designed to provide fast, reliable, and cost-effective solutions. We use the latest technology and have a team of certified tech experts who are available round-the-clock to provide support. We also provide flexible pricing plans to meet the needs of our customers. 
+
+College Student: That sounds great. What if I encounter a problem that you can't solve?
+
+Sales Rep: We take pride in our ability to provide solutions for any situation. In the event that we cannot solve a problem, we will work with you to find a suitable solution. We will also consult with third-party experts to ensure that the issue is resolved in a timely manner.

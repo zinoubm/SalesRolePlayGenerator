@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning! My name is [Sales Rep], and I'm calling from [Technology Company]. How are you today? 
+
+Stay-at-home Parent: I'm doing well, thank you. How can I help you?
+
+Sales Rep: I'm calling because [Technology Company] has developed a new software solution that can help your business streamline its customer service operations. We offer a comprehensive suite of features to help simplify customer complaints management, including automated ticketing, routing and tracking, and advanced analytics. 
+
+Stay-at-home Parent: That sounds interesting. Who would be in charge of resolving customer complaints at our company?
+
+Sales Rep: That would be the person in charge of customer service. They would be the best person to speak with about our software solution and how it could help your business. 
+
+Stay-at-home Parent: Okay, let me transfer you to the customer service department.
+
+Sales Rep: Great! Before I go, I wanted to make sure you were aware of our free trial period. If you sign up now, you can test our software solution free of charge for 30 days. 
+
+Stay-at-home Parent: That sounds great! I'll let the customer service team know about the free trial offer.
+
+Sales Rep: Wonderful! Thank you for your time, and I look forward to speaking with the customer service team soon. Have a great day!

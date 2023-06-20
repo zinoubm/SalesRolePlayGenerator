@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [name] from [Healthcare Company], how can I help you? 
+
+Stay-at-home Parent: Hi, this is [name]. How can I help you?
+
+Sales Rep: I'm calling to see if you have a few minutes to discuss our company's healthcare products. We are a leading provider in the industry and we have some great products that could help you and your family.
+
+Stay-at-home Parent: Sure, I'm interested in learning more.
+
+Sales Rep: Great, let me tell you a little bit about what we offer. We have a variety of plans that can meet a variety of needs. Our plans are designed to provide comprehensive coverage for both individuals and families. We also have a variety of add-on services such as dental, vision, and pharmacy coverage. 
+
+Stay-at-home Parent: That sounds great. How do I know which plan is right for me?
+
+Sales Rep: I understand your concern. That's why we are here to help. Our team of experts can help you compare plans, determine which one is right for you, and answer any questions you may have. 
+
+Stay-at-home Parent: That sounds great. Who do I speak to if I have questions about product features?
+
+Sales Rep: You can speak to our customer service team. They are available to answer any questions you may have about our products and services. They can also provide additional information about our plans and services. Does that sound helpful? 
+
+Stay-at-home Parent: Yes, that does sound helpful. 
+
+Sales Rep: Great! We would be happy to provide you with any additional information you may need. Is there anything else I can help you with today? 
+
+Stay-at-home Parent: No, that's all for now. Thank you for your help. 
+
+Sales Rep: You're welcome. Please don't hesitate to reach out to us if you need any additional assistance. Have a great day!

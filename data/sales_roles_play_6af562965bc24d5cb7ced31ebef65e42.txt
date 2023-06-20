@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning! This is [name], calling from [healthcare company]. I was wondering if I could speak to the person in charge of resolving customer complaints? 
+
+Working Parent: Yes, this is [name]. How can I help you?
+
+Sales Rep: [Name], thank you for taking the time to speak with me. My company offers healthcare services that can help make life a little bit easier for working parents. Would you like to learn more about our services? 
+
+Working Parent: Sure, I'm interested in hearing what your company has to offer. 
+
+Sales Rep: Great! Our services provide a variety of benefits for working parents, including flexible working hours, on-site childcare, and discounts on healthcare services. We can also help streamline your customer service operations, so that resolving customer complaints becomes simpler and more efficient. 
+
+Working Parent: That sounds useful. Do you have any examples or case studies of how your services have helped other working parents? 
+
+Sales Rep: Absolutely! I can provide you with several case studies that highlight the successes of our services. Would you like me to email those to you? 
+
+Working Parent: Sure, that would be great. Can you also explain how your services can help my company specifically?
+
+Sales Rep: Of course! Our services can help your company streamline customer service operations, which helps reduce costs and increases customer satisfaction. We can also provide training to your customer service staff, so they have the knowledge and skills necessary to handle customer complaints more effectively. 
+
+Working Parent: That sounds like it could be very helpful. How much do your services cost? 
+
+Sales Rep: Our services start at $[price], and the cost will depend on the specific services you choose. We are also open to negotiating a discounted rate, depending on your company's budget. 
+
+Working Parent: That sounds fair. Can you provide me with more information about your services and pricing? 
+
+Sales Rep: Absolutely! I can email you a detailed breakdown of the services we offer, as well as our pricing plans. Would that be helpful? 
+
+Working Parent: Yes, that would be great. Thank you for your time. 
+
+Sales Rep: You're welcome! I look forward to hearing from you soon. Have a great day!

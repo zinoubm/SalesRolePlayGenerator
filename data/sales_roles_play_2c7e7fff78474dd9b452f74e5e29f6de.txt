@@ -1,0 +1,34 @@
+
+
+[Sales Rep]
+Hello, is this [Name]?
+
+[Single Parent]
+Yes, who is this?
+
+[Sales Rep]
+This is [Name] from [Hospitality Company]. How are you doing today?
+
+[Single Parent]
+I'm doing alright. What is this about?
+
+[Sales Rep]
+I'm calling to talk to you about our [Hospitality Company] services. We specialize in providing [hotels, resorts, etc.] for people who want to experience a vacation or a special event. 
+
+[Single Parent]
+That sounds interesting, but I'm only a single parent so I can't afford to spend a lot of money on a vacation.
+
+[Sales Rep]
+I understand. We have a number of packages that are tailored to fit different budgets. We also offer discounts for single parents and other special groups. Would you like to learn more about our services and packages?
+
+[Single Parent]
+Yes, I would.
+
+[Sales Rep]
+Great. I can provide you with all of the information you need about our services and packages. Do you have any questions about our pricing?
+
+[Single Parent]
+Yes, I do. What is the most affordable package you offer?
+
+[Sales Rep]
+We have a variety of packages that are tailored to fit different budgets. Our most affordable package is [package name], which includes [list features] for [price]. We also offer discounts for single parents, so this package would be even more affordable for you. Would you like to learn more?

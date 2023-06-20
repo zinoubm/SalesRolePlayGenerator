@@ -1,0 +1,51 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Energy Company], how are you today? 
+
+Business Owner: Hi, I'm doing well. What can I do for you?
+
+Sales Rep: I'm calling to offer our services to help your business with its energy needs. We have a wide range of options available, and I'm sure that we can find something that fits your needs. Can I ask who I'm speaking with?
+
+Business Owner: Sure, this is [Name].
+
+Sales Rep: Great, [Name], it's nice to meet you. Can I ask who handles the processing of customer orders in your business? 
+
+Business Owner: Yes, that would be me. 
+
+Sales Rep: Perfect, I'd love to discuss our services with you in more detail. Can I ask what your current energy needs are? 
+
+Business Owner: Sure, we use quite a bit of energy so our needs are quite large. 
+
+Sales Rep: That sounds great. We have solutions that can help you save money on energy costs. Would you like to hear more?
+
+Business Owner: Yes, please tell me more. 
+
+Sales Rep: We offer a range of options that can help you reduce energy costs, such as renewable energy solutions and energy efficiency solutions. We can also provide you with an energy audit to help you identify ways to maximize your energy savings. 
+
+Business Owner: That sounds interesting, but I'm not sure if we have the budget for any of those solutions right now. 
+
+Sales Rep: I understand. We have financing options available to help you spread the cost of the solutions over time, so you don't have to worry about the upfront cost. We also offer incentives and rebates to help offset the cost of the solutions. 
+
+Business Owner: That sounds great. Can you tell me more about the incentives and rebates? 
+
+Sales Rep: Absolutely. We have a range of incentives and rebates available depending on your energy needs. We can help you find the best solution for your business and ensure you get the most out of the incentives and rebates. 
+
+Business Owner: That sounds great. Let's discuss further. 
+
+Sales Rep: Wonderful. I can arrange a meeting with you and one of our energy experts to discuss your options in more detail. Does that sound like something you would be interested in? 
+
+Business Owner: Yes, that sounds perfect. When can we arrange a meeting? 
+
+Sales Rep: I can arrange a meeting for next week. Would that work for you? 
+
+Business Owner: Yes, that would work. 
+
+Sales Rep: Wonderful. I'll send you a meeting invite with all the details. Is there anything else I can help you with today?
+
+Business Owner: No, I think that covers it. 
+
+Sales Rep: Great, I look forward to meeting with you next week. Have a great day. 
+
+Business Owner: You too. 
+
+Sales Rep: Goodbye.

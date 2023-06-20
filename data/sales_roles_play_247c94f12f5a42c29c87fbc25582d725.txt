@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hello, this is (Sales Rep name) from (Company Name). How are you doing today? 
+
+College Student: I’m doing well, thanks. How can I help you?
+
+Sales Rep: Great! I’m calling to tell you about a great technology solution we have that could help streamline the customer ordering process for your company. 
+
+College Student: Interesting. What does this solution do?
+
+Sales Rep: Our solution is designed to help businesses, like yours, save time and money by automating the customer order process. It allows customers to submit orders and receive updates on the status of their orders without having to involve any manual processing. 
+
+College Student: That sounds like it could be really useful. Who would be the best person to talk to about this?
+
+Sales Rep: The best person to talk to would likely be the person in charge of processing customer orders. Do you have someone in your company who handles this? 
+
+College Student: Yes, we do. His name is (Name). 
+
+Sales Rep: Perfect! I’d love to schedule a call with him to discuss our solution and how it could benefit your company. Is there a good time for him to speak with me about this? 
+
+College Student: He’s usually available after 4pm on weekdays. Would that work for you? 
+
+Sales Rep: That works great for me. I’ll make sure to schedule a call with him for then. Is there anything else I can help you with today? 
+
+College Student: No, that’s all. Thanks for your help. 
+
+Sales Rep: You’re welcome. Have a great day!

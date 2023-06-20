@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep] from [Agriculture Company]. I'm calling to connect with the person in charge of answering customer questions about pricing. Is that you? 
+
+Business Executive: Yes, this is [Business Executive]. How can I help you?
+
+Sales Rep: I am calling to introduce our company and the services we provide. We specialize in providing agricultural products and services to businesses across the country. Our mission is to help farmers and businesses create a more sustainable future.
+
+Business Executive: That sounds great. What kind of services do you provide?
+
+Sales Rep: We provide a variety of services, including assistance with crop selection, soil analysis, irrigation systems, and agronomy services. We also have a team of experts that can help with marketing and branding strategies.
+
+Business Executive: That sounds interesting. What are your prices?
+
+Sales Rep: Our prices vary based on the type of service you need and the size of your operation. We can provide you with a custom quote once we review your specific needs. 
+
+Business Executive: That sounds great. Can you tell me more about your customer service?
+
+Sales Rep: Absolutely! We have a team of dedicated customer service representatives who are available to answer any questions you may have. We also have an online portal that allows you to view your current and historical orders, view invoices, and track shipments.
+
+Business Executive: That's great to know. Can you tell me a bit more about your payment terms?
+
+Sales Rep: Sure. We offer flexible payment terms and accept most major credit cards. We also offer net 30 and net 45 payment plans, depending on the size of your order. 
+
+Business Executive: That sounds great. I think I have all the information I need. 
+
+Sales Rep: Wonderful! Is there anything else I can help you with?
+
+Business Executive: No, I think that's all. Thank you for your time. 
+
+Sales Rep: It was my pleasure. Have a great day!

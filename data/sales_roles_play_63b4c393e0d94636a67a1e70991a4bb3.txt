@@ -1,0 +1,15 @@
+
+
+Sales Rep: Hello, may I please speak with the person in charge of assisting customers with product returns? 
+
+Senior Citizen: Yes, this is them.
+
+Sales Rep: Hi, my name is [Name], and I'm calling on behalf of [Company], a healthcare company specializing in products that help seniors maintain their independence. We understand that seniors often have unique needs, and we would like to help you find the right products to meet those needs.
+
+Senior Citizen: That sounds great. What kind of products do you offer?
+
+Sales Rep: We have a variety of products, from medical aids to assistive technology. We also have a wide range of products designed specifically for seniors, including mobility aids and home health monitoring devices.
+
+Senior Citizen: That's great, but what if I'm not happy with a product I purchased?
+
+Sales Rep: We understand that sometimes products don't work out as expected, and we're here to help. We offer a 30-day money-back guarantee on all products, so if you're unhappy with your purchase, you can simply return it for a full refund. We also have a customer service team that can help with any issues or questions you may have.

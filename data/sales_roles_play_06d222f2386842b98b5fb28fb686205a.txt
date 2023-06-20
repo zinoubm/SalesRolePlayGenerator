@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Energy Company]. I'm calling to discuss our new energy plans. Are you the person in charge of Upselling additional products or services at your company?
+
+Single Parent: Yes, this is [Name]. How can I help you? 
+
+Sales Rep: Great to meet you [Name]. I'm calling to discuss our new energy plans that can help you save money and get more out of your energy usage. 
+
+Single Parent: That sounds great. What do you have to offer? 
+
+Sales Rep: We have a range of plans that are tailored to your needs. Our plans are designed to help you save money on your energy costs, and give you access to a range of exclusive discounts. We even have a plan that allows you to pay your energy bills in installments, so you can spread out your payments over time. 
+
+Single Parent: That sounds like a great option for me. How much will it cost me? 
+
+Sales Rep: Our plans are competitively priced and start from as little as [$X]. Plus, with our special discounts, you could save even more. 
+
+Single Parent: That sounds great. Are there any other benefits I should know about?
+
+Sales Rep: Yes, we also offer free energy-efficiency advice, so you can make sure you're getting the most out of your energy usage. Plus, our customer service team is available 24/7, so you can get help whenever you need it. 
+
+Single Parent: That's really helpful. How do I sign up? 
+
+Sales Rep: Just give me a few minutes and I can walk you through the process. Is now a good time? 
+
+Single Parent: Yes, that would be great. 
+
+Sales Rep: Fantastic! Let's get started....

@@ -1,0 +1,29 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Healthcare Company] calling. 
+
+Business Executive: Hello, [Sales Rep Name]. How can I help you?
+
+Sales Rep: We specialize in healthcare services, and I wanted to discuss how our services might be beneficial to your company.
+
+Business Executive: Sure, go ahead.
+
+Sales Rep: We understand that customer satisfaction is important to you and that you may be concerned about delivery times. At our company we strive to provide fast and efficient service, so that your customers can receive their orders in a timely manner.
+
+Business Executive: That sounds great. We would love to learn more about your services and how you can help.
+
+Sales Rep: Absolutely. Our team is highly experienced in addressing customer concerns about delivery times. We have a wide range of services and solutions that can help you meet your customer’s needs. 
+
+Scenario #1: The Business Executive is interested in learning more but is concerned about the cost of the services.
+
+Sales Rep: I understand that cost is a concern. We offer competitive pricing and are confident that our services will provide value for your business. We would be happy to discuss specific pricing options that meet your budget. 
+
+Scenario #2: The Business Executive is skeptical of the services and is not sure if it is the right fit for their company.
+
+Sales Rep: I understand your concern. We have a proven track record of success and our team is highly experienced in addressing customer concerns about delivery times. We would be happy to provide you with additional information and customer testimonials to show you that our services can help your company. 
+
+Business Executive: That sounds great. Let’s set up a time to discuss further.
+
+Sales Rep: Wonderful! I look forward to speaking with you soon. Is there anything else I can help you with? 
+
+Business Executive: No, that should be all. Thank you for your time.

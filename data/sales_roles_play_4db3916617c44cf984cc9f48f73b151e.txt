@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, may I please speak with the person in charge of addressing customer concerns about delivery times at your company?
+
+Business Executive: Yes, this is [Name], how may I help you?
+
+Sales Rep: Hi [Name], my name is [Name], and I'm from [Technology Company]. We specialize in providing technology solutions for businesses like yours. I was wondering if I could take a few minutes of your time to discuss how our services could help you improve delivery times for your customers?
+
+Business Executive: Sure, I'm interested in learning more. What do you have in mind?
+
+Sales Rep: Great. We specialize in technology solutions such as automation, data analysis, and customer service software. All of these have the potential to improve customer satisfaction by reducing delivery times and improving the overall customer experience.
+
+Business Executive: That sounds like something we could definitely benefit from. What kind of services do you provide?
+
+Sales Rep: We offer a wide range of services, such as creating customized software solutions, integrating existing software with new systems, and providing ongoing support and maintenance. We also provide consulting services to help you develop a comprehensive strategy for improving delivery times.
+
+Business Executive: That sounds like a great offer. How much do your services cost?
+
+Sales Rep: We offer competitive pricing based on the scope of the project and the services required. We can provide you with a detailed quote after we review your specific needs.
+
+Business Executive: That sounds great. Let's set up a meeting so we can discuss the details further.
+
+Sales Rep: Absolutely. I'll reach out to you in the next couple of days to schedule a meeting at your convenience. Is there anything else I can do for you today?
+
+Business Executive: No, that sounds great. Looking forward to hearing from you. 
+
+Sales Rep: Great. It was a pleasure speaking with you. Have a good day.

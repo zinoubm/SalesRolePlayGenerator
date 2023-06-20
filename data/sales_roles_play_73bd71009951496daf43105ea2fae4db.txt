@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hello, this is [Name] from [Company Name]. How are you doing today? 
+
+Young Professional: Hi, I'm doing great. How can I help you?
+
+Sales Rep: I'm calling from [Company Name], a healthcare company that specializes in providing top quality services. I was wondering if I could speak with the person in charge of answering customer questions about pricing?
+
+Young Professional: Sure, that would be me. What do you need to know?
+
+Sales Rep: Great! I wanted to discuss the various pricing options available to our customers. We offer a range of services and packages that are tailored to suit individual needs and budgets. 
+
+Young Professional: That sounds great. What kind of packages do you offer?
+
+Sales Rep: We offer basic and premium packages, as well as a variety of add-ons and special discounts. All of our packages are designed to provide maximum value for money. We also have a flexible payment plan that allows customers to pay in installments. 
+
+Young Professional: That's really helpful. Do you have any other services that you offer?
+
+Sales Rep: Yes, we also offer a variety of additional services such as 24/7 customer support, online portal access, and discounts on additional services.
+
+Young Professional: That sounds great. Can you provide me with more information about the pricing and packages?
+
+Sales Rep: Absolutely! I'd be happy to discuss the details with you. Can I schedule a call or meeting to go over the different options available? 
+
+Young Professional: Sure, that sounds great. Let's schedule a call for tomorrow morning. 
+
+Sales Rep: Perfect! I'll send you a confirmation email with the details. Is there anything else I can help you with? 
+
+Young Professional: No, that should be all. Thanks for your help. 
+
+Sales Rep: My pleasure. Have a great day!

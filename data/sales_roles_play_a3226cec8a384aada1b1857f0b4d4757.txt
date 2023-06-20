@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hi, this is [Sales Rep name] from [Agriculture Company]! How are you doing today? 
+
+College Student: Hi, I'm doing well. How can I help you?
+
+Sales Rep: Well, I'm calling because [Agriculture Company] has some great deals on agricultural products and I wanted to see if you might be interested in learning more.
+
+College Student: Hmm, that's interesting. What kind of products are you talking about?
+
+Sales Rep: We offer a wide variety of products—from fertilizers to seeds to irrigation systems. We've got something for every type of farming need.
+
+College Student: That's great. How do your prices compare to other companies?
+
+Sales Rep: We're very competitively priced—in fact, we often offer discounts and other special deals. I can put you in touch with the person in charge of answering customer questions about pricing if you'd like. Would that be helpful?
+
+College Student: Yes, that would be great!
+
+Sales Rep: Sure, I can do that. What's the best way to reach you so I can connect you with the right person?

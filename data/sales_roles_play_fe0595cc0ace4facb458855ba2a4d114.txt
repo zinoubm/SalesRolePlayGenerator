@@ -1,0 +1,19 @@
+
+
+(Sales Rep) Hello, this is [Name] from [Hospitality Company], I'm calling to find out if your company is interested in using our services. 
+
+(Single Parent) Hi, what services do you offer? 
+
+(Sales Rep) We offer a range of hospitality services including catering, event planning, and corporate hospitality packages. We are also able to provide delivery services for all of our services. 
+
+(Single Parent) That sounds interesting. What are your delivery times? 
+
+(Sales Rep) Our delivery times depend on the type of service requested. We offer same day delivery for catering and event planning services, while corporate hospitality packages may take up to 72 hours. 
+
+(Single Parent) I see. Do you have any policies or procedures in place to ensure that deliveries are made on time? 
+
+(Sales Rep) Absolutely. We have a strict policy in place to ensure that all deliveries are made within the expected timeframe. In addition, we have a team of customer service representatives available 24/7 to address any customer concerns about delivery times. 
+
+(Single Parent) That's great. Do you offer any discounts or incentives for repeat customers? 
+
+(Sales Rep) Yes, we do offer discounts and incentives for repeat customers. We also have a loyalty program that offers additional savings and discounts for customers who use our services regularly.

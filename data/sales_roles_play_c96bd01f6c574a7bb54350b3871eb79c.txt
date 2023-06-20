@@ -1,0 +1,25 @@
+
+
+Sales Rep: Good morning, this is [Name], calling on behalf of [Company], the leading hospitality company in the region.
+
+Working Parent: Hi [Name], what can I do for you?
+
+Sales Rep: We are a hospitality company that specializes in providing custom solutions for businesses. We offer a wide variety of services, from training to product warranties. I was wondering if you could tell me who is in charge of explaining product warranties to customers?
+
+Working Parent: Yes, that would be [Name].
+
+Sales Rep: Great, do you think I could arrange a call with [Name] to discuss how our product warranties can help your business?
+
+Working Parent: That sounds like a great idea. Let me check my calendar and see when I can schedule a call.
+
+[Sales Rep adds call to calendar]
+
+Sales Rep: Perfect. Now, I understand you're a working parent so I wanted to ask if there are any other challenges your business is facing related to product warranties? 
+
+Working Parent: Yes, we are having a lot of trouble explaining our product warranties to customers in a way that is clear and easy to understand.
+
+Sales Rep: That's a great opportunity to discuss how our product warranties could be helpful. We've developed a comprehensive product warranty program that helps businesses simplify the process of explaining product warranties to their customers. Would you be interested in hearing more about it? 
+
+Working Parent: Absolutely! That sounds like it could be very helpful. 
+
+Sales Rep: Great, I look forward to our call and discussing how our product warranties can help your business. Have a great day!

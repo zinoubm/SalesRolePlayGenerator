@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hello, my name is [Name] and I am calling on behalf of [Energy Company]. How can I help? 
+
+Single Parent: Hi, what is this in regards to?
+
+Sales Rep: We are an energy company that provides renewable energy sources such as solar and wind energy to our customers. We are offering a special rate for single parents who are looking to switch to a more sustainable source of energy. 
+
+Single Parent: That sounds great, but I'm not sure if I'm the right person to speak with. I'm a single parent and I don't handle the energy bills around here.
+
+Sales Rep: I understand. Is there someone else I can speak with to discuss this offer? 
+
+Single Parent: Yes, the person in charge of processing customer orders handles all of that. Let me get you their information.
+
+Sales Rep: Perfect. I'll be sure to reach out to them. Is there anything else I can help you with?
+
+Single Parent: No, that's all. Thank you for your help. 
+
+Sales Rep: You're welcome. Have a great day!

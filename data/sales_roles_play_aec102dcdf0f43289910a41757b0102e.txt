@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hello, is this [College Student]? 
+
+College Student: Yes, this is [College Student].
+
+Sales Rep: Hi [College Student], this is [Sales Rep] from [Agriculture Company]. I'm calling to inform you about our amazing selection of agricultural products. 
+
+College Student: Oh, that's great. What kind of products do you have? 
+
+Sales Rep: We offer a wide variety of products, such as fruits, vegetables, grains, and herbs. We also have a selection of organic, non-GMO, and locally sourced products. 
+
+College Student: That's great! What's the delivery time like?
+
+Sales Rep: We understand that fast delivery is important for our customers, so we offer same-day delivery on most of our products. We also have an expedited delivery option for those in need of faster delivery times. 
+
+College Student: That's great to hear. Can I get an estimate of the delivery time for my order? 
+
+Sales Rep: Absolutely! We can provide an estimate of the delivery time when you place your order. We also have a customer service team that is available to answer any questions or address any concerns you may have. 
+
+College Student: That's great. I'll definitely keep that in mind when I place my order. 
+
+Sales Rep: Great! Let me know if you have any other questions. We look forward to serving you.

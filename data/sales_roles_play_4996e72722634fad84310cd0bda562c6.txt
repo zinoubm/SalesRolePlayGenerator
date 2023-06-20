@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hello, this is (Name) from (Company). How are you today?
+
+Single Parent: Hi, I'm doing well. What can I do for you?
+
+Sales Rep: Well, I'm calling to tell you about our technology company and the products and services we offer. We specialize in helping businesses of all sizes succeed and reach their goals. We also have a great track record for delivering our products on time.
+
+Single Parent: That's great to hear. What kind of products do you offer?
+
+Sales Rep: We offer a wide range of products, from hardware to software to cloud-based solutions. We can help businesses with their IT needs, from setting up networks to providing support and maintenance. 
+
+Single Parent: That sounds interesting. What about delivery times?
+
+Sales Rep: Absolutely. We understand how important reliable delivery times are for our customers. We have a dedicated team that works hard to ensure our products arrive on time. We also offer a satisfaction guarantee where we will replace any product that doesn't arrive on time.
+
+Single Parent: That's really reassuring. What other services do you offer? 
+
+Sales Rep: We offer a wide range of services, from setup and installation to training and support. We also have a team of experts who can help with any technical issues you may have. We also offer custom solutions tailored to your specific needs. 
+
+Single Parent: That sounds great. Is there any way I can get a discount on my order?
+
+Sales Rep: Yes, absolutely. We offer discounts for bulk orders, as well as for repeat customers. We also have seasonal discounts, so be sure to check back to see what's available. 
+
+Single Parent: That's helpful. Is there anything else I should know about your company?
+
+Sales Rep: Yes, we strive to be a customer-oriented company, so if you ever have any questions or concerns, don't hesitate to reach out. Our team is always happy to help. 
+
+Single Parent: Great, I'll keep that in mind. Thanks for your help. 
+
+Sales Rep: You're welcome. Have a great day!

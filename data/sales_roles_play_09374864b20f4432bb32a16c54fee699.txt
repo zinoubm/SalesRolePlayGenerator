@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep] from [Technology Company], how can I help you? 
+
+Stay-at-Home Parent: Hi, I'm a stay-at-home parent and I'm looking for some information about pricing at your company.
+
+Sales Rep: Absolutely! I'd be more than happy to help you out with that. Can I ask, are you looking for pricing information for a particular product or service?
+
+Stay-at-Home Parent: Yes, I was hoping to get some information about your [Technology Product].
+
+Sales Rep: Great, I'm happy to provide you with the information you're looking for. [Introduce the pricing options]. Is there anything else I can help you with? 
+
+Stay-at-Home Parent: Yes, I have a few more questions about the product. 
+
+Sales Rep: Sure, what do you need to know?
+
+Stay-at-Home Parent: [State questions].
+
+Sales Rep: [Answer questions]. Anything else? 
+
+Stay-at-Home Parent: Yes, I was wondering if there are any special deals or discounts available? 
+
+Sales Rep: Yes, we do have some special deals and discounts available. [Introduce those options]. Is there anything else I can help you with? 
+
+Stay-at-Home Parent: No, that's it.
+
+Sales Rep: Great, if you have any other questions or need any additional information, please don't hesitate to contact us. Have a great day!

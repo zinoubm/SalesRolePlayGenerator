@@ -1,0 +1,23 @@
+
+
+[Sales Rep] Good morning, this is [Name] from [Energy Company]. I'm calling to talk to you about our energy services. Is this a good time?
+
+[Working Parent] Yes, I have a few minutes. 
+
+[Sales Rep] Great! I understand that you are a working parent, and I can appreciate how busy you are. I want to make sure I'm taking up the least amount of your time possible.
+
+[Working Parent] That’s great. What can I do for you?
+
+[Sales Rep] We offer a variety of energy services that can help you save money while still providing reliable power to your home or business. I'm here to answer any questions you may have and see if our services could be a good fit for you.
+
+[Working Parent] That sounds interesting. I’m in charge of processing orders for our company, so I’d like to know more about what you have to offer.
+
+[Sales Rep] Absolutely. Our services come with a variety of benefits including cost savings, reliable power, and great customer service. We offer a wide range of plans and packages that can be tailored to meet your needs.
+
+[Working Parent] That sounds great. But I’m concerned about the cost. What kind of price range are we talking about?
+
+[Sales Rep] We offer competitive pricing and have plans that can fit any budget. We also have payment plans and specials that can help you save even more. 
+
+[Working Parent] That’s great. I’d like to learn more.
+
+[Sales Rep] Absolutely. Let me tell you more about our services and how they can help you.

@@ -1,0 +1,23 @@
+
+
+Sales Rep:  Hi, this is [Name] from [Agriculture Company], how are you doing today?
+
+Business Owner: Good, what can I do for you?
+
+Sales Rep: I'd like to talk to you about our product warranties and explain how they can benefit your business.
+
+Business Owner: Sure, I'm interested in hearing more.
+
+Sales Rep: Great! Our warranties are designed to help protect your business against unforeseen costs associated with our products. Our warranties cover any repairs or replacements needed, and they also cover any labor costs associated with the repair or replacement.
+
+Business Owner: That's great. Who is the person I should speak to about the warranties?
+
+Sales Rep: We have a dedicated team of experts who specialize in explaining product warranties to customers. I can connect you with one of our experts if you'd like.
+
+Business Owner: That would be great.
+
+Sales Rep: Alright, I'll connect you with our warranty expert. In the meantime, I'll answer any questions you have about our warranties.
+
+Business Owner: I understand that the warranty covers repairs and replacements, but does it also cover any additional costs associated with the repair or replacement?
+
+Sales Rep: Yes, our warranties cover any labor costs associated with the repair or replacement, as well as any additional costs that may be incurred.

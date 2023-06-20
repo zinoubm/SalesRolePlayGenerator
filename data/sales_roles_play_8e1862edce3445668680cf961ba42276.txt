@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Healthcare Company]. I’m calling to introduce our products and services to you today. Could you tell me a bit more about your business and the products you’re looking for? 
+
+Working Parent: We’re a small healthcare practice and we’re looking for products that can help us improve our efficiency and patient care. 
+
+Sales Rep: That sounds great! Our products are specifically designed to help healthcare practices like yours streamline their operations and provide better patient care. We can provide product demonstrations to help you get a better understanding of how our products work. Do you have someone in charge of product demonstrations at your company? 
+
+Working Parent: Yes, we do. Our product specialist, [Name], is in charge of providing product demonstrations.
+
+Sales Rep: Perfect! Can I schedule a meeting with [Name] to discuss our product in more detail?
+
+Working Parent: Sure, I can have [Name] contact you to set up a meeting.
+
+Sales Rep: Great! I look forward to hearing from [Name]. Is there anything else I can help you with?
+
+Working Parent: No, that should cover it. 
+
+Sales Rep: Alright, thank you for your time. Have a great day!

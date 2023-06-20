@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hello, this is [Name], and I’m calling on behalf of [Energy Company]. Is this [College Student]?
+
+College Student: Yes, this is [College Student].
+
+Sales Rep: Hi [College Student], I'm calling to tell you about a great energy saving opportunity that our company, [Energy Company] can provide. We specialize in energy-efficient products and services that can help you save on your energy costs. 
+
+College Student: That’s great, but I’m not sure how this applies to me.
+
+Sales Rep: Our products are designed to reduce energy consumption by up to 50%, and we can provide you with customized solutions that can fit your specific needs. We also offer a variety of payment plans and discounts that you can take advantage of.
+
+College Student: That sounds interesting, but I’m not sure who I should talk to about this.
+
+Sales Rep: We have a team of experienced professionals who can provide you with the best advice and service. I can connect you with the person in charge of troubleshooting technical issues for customers at our company. Would that be of interest to you?
+
+College Student: Yes, that would be great.
+
+Sales Rep: Fantastic! Let me transfer you to our customer service team and they can help you with any questions or concerns you may have. Thank you for your time and have a great day.

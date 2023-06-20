@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hello, my name is [Sales Rep Name], and I'm calling from [Agriculture Company]. I was wondering if I could speak with the person in charge of answering customer questions about pricing?
+
+High-end Consumer: Hello, this is [High-end Consumer Name]. How can I help you?
+
+Sales Rep: Hi [High-end Consumer Name]. I'm calling to let you know about a new product we're offering at [Agriculture Company]. We recently launched a line of organic vegetable and fruit products, and I think it would be a great fit for your business.
+
+High-end Consumer: That sounds interesting. What kind of pricing do you offer?
+
+Sales Rep: We offer competitive prices on all of our products. We also offer discounts when you order in bulk or sign up for a subscription service. Would you be interested in learning more about that?
+
+High-end Consumer: Sure, let’s hear it.
+
+[Sales Rep should provide details about the bulk discount and subscription services]
+
+High-end Consumer: That sounds great. What about delivery?
+
+Sales Rep: We offer free delivery on orders over a certain amount. Do you have any other questions or concerns?
+
+High-end Consumer: Yes, I was wondering if you offer any guarantees or warranties on your products?
+
+Sales Rep: Absolutely. We offer a 30-day money-back guarantee on all of our products. Is there anything else I can help you with?
+
+High-end Consumer: No, that's all. Thank you for your help.
+
+Sales Rep: You're welcome. Is there a good time for me to follow up with you to discuss our products further?
+
+High-end Consumer: Yes, I'm available Wednesday morning at 10am.
+
+Sales Rep: Perfect, I'll call you then. Have a great day.

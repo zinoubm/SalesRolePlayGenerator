@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Energy Company]. How are you doing today?
+
+High-end Consumer: I'm doing well, thank you. What can I do for you?
+
+Sales Rep: I'm calling to see if I can help you get the most out of your energy usage. We offer a variety of services, such as energy audits, energy efficiency upgrades, and product warranties.
+
+High-end Consumer: That sounds interesting. What type of product warranties do you offer?
+
+Sales Rep: We offer warranties on our energy-saving products, such as LED lighting, solar panels, and energy-efficient appliances. These warranties cover repair and replacement costs for up to 10 years.
+
+High-end Consumer: That sounds great. Who would I contact if I needed to explain product warranties to customers?
+
+Sales Rep: We have a team of customer service representatives who can answer any questions you have about our product warranties. They can also help you explain the warranty to your customers.
+
+High-end Consumer: That's great. What happens if a customer has a problem with a product that is covered by a warranty?
+
+Sales Rep: If a customer has a problem with a product that is covered by a warranty, our customer service representatives will work with you to troubleshoot the problem and determine the best solution. If the problem cannot be resolved, we can provide a replacement product or a full refund.

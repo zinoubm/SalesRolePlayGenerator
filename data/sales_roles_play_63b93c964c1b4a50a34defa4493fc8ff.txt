@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning, I'm calling from XYZ Energy Company. How are you today? 
+
+Senior Citizen: I'm doing okay thanks. 
+
+Sales Rep: Well, that's terrific. I'm calling to see if you're interested in learning about some of the energy-saving products and services that XYZ offers. 
+
+Senior Citizen: Well, I'm not sure what you have to offer. 
+
+Sales Rep: We have several energy-saving products that could help you save money on your energy bills. For example, we offer advanced energy management systems that can help you monitor your usage and make changes to lower your energy bills. We also have energy-efficient lighting products that can help you reduce energy consumption. 
+
+Senior Citizen: That sounds interesting, but I'm not sure I understand how it works. 
+
+Sales Rep: Absolutely, no problem. Let me explain. Our energy management systems monitor your energy usage and give you real-time data. With this data, you can determine how to make changes to lower your energy bills. 
+
+Senior Citizen: Okay, that makes sense. 
+
+Sales Rep: Great! And with our energy-efficient lighting products, you can reduce your energy consumption by up to 50% compared to traditional lighting products. 
+
+Senior Citizen: That sounds like a great deal. Who do I talk to about getting these products?
+
+Sales Rep: We have a team of experts who can help you. I can put you in touch with the person in charge of upselling additional products and services. Would you like me to do that? 
+
+Senior Citizen: Yes, please. 
+
+Sales Rep: Wonderful. I'll get your information and have them call you as soon as possible. 
+
+Senior Citizen: Alright, thank you. 
+
+Sales Rep: My pleasure. Have a great day!

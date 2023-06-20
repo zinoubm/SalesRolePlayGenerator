@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, this is [Name] calling from [Company]. How are you doing today?
+
+College Student: Good morning, I'm doing well. How can I help you?
+
+Sales Rep: I'm calling because I wanted to introduce you to our company, [Company]. We specialize in providing innovative solutions for agricultural businesses, from agricultural equipment to crop management and monitoring. 
+
+College Student: That's really fascinating. What services do you provide?
+
+Sales Rep: We provide a variety of services, including field mapping and crop monitoring, precision agriculture solutions, and troubleshooting technical issues for customers. 
+
+College Student: Sounds great, what kind of troubleshooting do you offer?
+
+Sales Rep: We offer a range of troubleshooting services, including troubleshooting hardware and software, diagnosing problems, and providing technical support. We also provide remote support, so our team can provide assistance from anywhere.
+
+College Student: That's really convenient. What kind of hardware and software do you troubleshoot?
+
+Sales Rep: We troubleshoot a wide variety of hardware and software, from agricultural equipment and sensors to cloud-based applications. We also provide support for any software applications that our customers are using.
+
+College Student: That's great. What kind of customer service do you provide?
+
+Sales Rep: Our customer service team is dedicated to providing the best possible support for our customers. We provide 24/7 technical support, so our customers can get the help they need, when they need it. We also offer a variety of resources, such as tutorials, user guides, and FAQs, so our customers can get the most out of our services. 
+
+College Student: That's really helpful. What kind of training do you provide?
+
+Sales Rep: We provide comprehensive training programs for our customers, so they can get the most out of our services. We offer a variety of online courses, webinars, and tutorials, so our customers can get up to speed quickly and easily. We also provide on-site training, so our customers can get the help they need in person.

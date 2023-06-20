@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning, this is [Name], a representative from [Hospitality Company]. I'm calling to inquire about your customer service needs and how we can help. 
+
+Business Executive: Hi [Name], my name is [Name] and I am the person in charge of customer inquiries at our company. What can I do for you?
+
+Sales Rep: Great, it's nice to meet you [Name]. I'm here to offer our services and let you know how we can help you with all of your customer service needs. We specialize in hospitality services, and our goal is to make sure that your customers have a positive experience.
+
+Business Executive: That sounds great. What services do you offer exactly? 
+
+Sales Rep: We offer a variety of services such as customer service training, customer service consulting, and customer service technology. We can help you with all of your customer service needs, from responding to inquiries to providing support and advice. 
+
+Business Executive: That sounds very helpful. What kind of customer service technology do you offer? 
+
+Sales Rep: Our customer service technology includes customer relationship management software, online chat support, and automated customer service systems. We can help you with any customer service needs you may have. 
+
+Business Executive: That sounds great. What kind of customer service training do you offer? 
+
+Sales Rep: We offer a variety of customer service training programs to help your team become more efficient and effective. We can train your team in communication skills, customer service best practices, and customer service technology. 
+
+Business Executive: That sounds great. How long does the customer service training usually take? 
+
+Sales Rep: The customer service training usually takes about two weeks, depending on how much content we cover. We can tailor the program to your specific needs. 
+
+Business Executive: That sounds like a great option. How much does the customer service training cost? 
+
+Sales Rep: The cost of the customer service training depends on the scope of the project, the size of your team, and the number of sessions needed. We can discuss the specifics and provide you with an estimate. 
+
+Business Executive: That sounds great. I'm interested in hearing more. 
+
+Sales Rep: Fantastic! I would be happy to schedule a call with you to discuss the details further. Is there a time that works for you?

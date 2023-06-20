@@ -1,0 +1,23 @@
+
+
+Sales Rep:  Good morning! This is [Sales Rep name] from [Healthcare Company]. How may I help you?
+
+Stay-at-home Parent: Hi there. What do you want?
+
+Sales Rep: I'm calling to introduce our healthcare company and the services we offer. We specialize in providing healthcare solutions that help individuals and businesses manage their health and wellness. We offer a range of services, including telemedicine, wellness programs, and health insurance plans.
+
+Stay-at-home Parent: That sounds interesting, but why are you calling me?
+
+Sales Rep: I'm calling because I understand you work in a technical role at your company and I wanted to discuss how our services could help your business. We have a variety of healthcare solutions that can help your business troubleshoot technical issues and streamline processes.
+
+Stay-at-home Parent: That sounds like it could be useful, but I'm not sure if it's something my company would be interested in.
+
+Sales Rep: Absolutely! Our solutions are designed to help businesses save money and time by streamlining their processes and providing comprehensive healthcare solutions. We understand that your company has unique needs, and we can tailor our services to meet those needs. We also have a team of experienced professionals who can provide assistance with troubleshooting technical issues. 
+
+Stay-at-home Parent: That sounds great. I think my company would be interested in hearing more. Could you provide me with some more information?
+
+Sales Rep: Absolutely! I'm more than happy to provide you with additional information. Would you like me to send you a brochure or schedule a meeting with a member of our team? 
+
+Stay-at-home Parent: Sure, I'd love to learn more about your services. A brochure would be great, and I'm also interested in scheduling a meeting with one of your team members. 
+
+Sales Rep: Great! I'll send you a brochure right away and will follow-up with you in a few days to schedule a meeting. Thank you for your time and have a great day!

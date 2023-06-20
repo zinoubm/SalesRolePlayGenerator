@@ -1,0 +1,15 @@
+
+
+Sales Rep: Hello, my name is [Sales Rep Name], and I'm calling from [Hospitality Company]. I'm reaching out to see if I can help you with any of your customer inquiries.
+
+Entrepreneur: Hi [Sales Rep Name], what kind of inquiries are you referring to?
+
+Sales Rep: We specialize in hospitality products and services. We offer a variety of services ranging from catering and event planning to hotel and vacation packages. We also provide information about product features, so customers can make informed decisions.
+
+Entrepreneur: That sounds interesting. What kind of features do you have?
+
+Sales Rep: We have a wide range of features, depending on the service you're looking for. For example, our catering services offer custom menus, on-site chefs, and flexible payment plans. Our hotel packages include access to amenities like swimming pools, fitness centers, and restaurants.
+
+Entrepreneur: That's great. Is there someone I can talk to about product features in more detail?
+
+Sales Rep: Absolutely. I can connect you with one of our product specialists. They can answer any questions you have about our services and make sure you have all the information you need to make an informed decision.

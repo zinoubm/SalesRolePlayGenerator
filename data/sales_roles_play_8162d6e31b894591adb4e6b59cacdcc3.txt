@@ -1,0 +1,29 @@
+
+
+Sales Rep: Good morning, my name is [Sales Rep Name] and I am calling from [Energy Company]. How are you today?
+
+Single Parent: Hi, I'm fine, thank you.
+
+Sales Rep: Great! I'm calling today because [Energy Company] has some great products and services that I think could be of benefit to you. Can I ask what kind of energy services you are currently using?
+
+Single Parent: Yes, I am currently using a traditional energy provider.
+
+Sales Rep: Great! Well, I am sure you have heard of [Energy Company], the leading provider of energy solutions in the region. We have a range of services that could help you save money, reduce your energy consumption, and improve your overall energy efficiency. 
+
+Single Parent: That sounds interesting. 
+
+Sales Rep: Definitely! We offer a unique package that includes comprehensive energy monitoring, energy efficiency training, and product demonstrations. 
+
+Single Parent: That sounds great, but I'm a single parent, so I'm not sure how I would be able to attend a product demonstration. 
+
+Sales Rep: That's understandable and we completely understand your situation. We are committed to making our services accessible to everyone, so we can arrange for a team member to come to your home and provide a product demonstration at a time that works for you. 
+
+Single Parent: That's amazing! 
+
+Sales Rep: We are happy to help. All you need to do is let me know when you'd like to schedule the demonstration and we'll take care of the rest. 
+
+Single Parent: That sounds great, I'll be in touch. 
+
+Sales Rep: Wonderful! I look forward to hearing from you. In the meantime, if you have any questions or would like more information, please don't hesitate to give us a call. Have a great day! 
+
+Single Parent: You too! Goodbye.

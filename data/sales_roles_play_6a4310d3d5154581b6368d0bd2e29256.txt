@@ -1,0 +1,25 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Company Name]. Is this [Customer Name]?
+
+Customer: Yes, this is [Customer Name].
+
+Sales Rep: Hi [Customer Name], I'm calling from [Company Name] and I was hoping to speak with someone who is in charge of answering customer questions about pricing.
+
+Customer: That would be me.
+
+Sales Rep: Great! I'm sure you're aware of our technology offerings and the impact they can have on your business. I'm calling to discuss our latest product and see if it's something you'd be interested in. 
+
+Customer: I'm interested, but before I commit to anything I need to know more about pricing.
+
+Sales Rep: Absolutely. Our pricing is very competitive and we also offer discounts for bulk orders. We also have a flexible payment plan that allows you to pay in installments. 
+
+Customer: That sounds great, but I'm concerned about the quality of the product.
+
+Sales Rep: No worries. Our products are made with the highest quality materials and are backed by a one-year warranty. We also offer free technical support and customer service. 
+
+Customer: That's reassuring. I think I'm ready to make a purchase. What's the next step?
+
+Sales Rep: Great! We'll need to get some basic information from you in order to process the order. Once that's done, we'll send you an invoice and you can make the payment. 
+
+Customer: Wonderful. Let's get started.

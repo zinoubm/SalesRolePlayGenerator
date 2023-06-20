@@ -1,0 +1,31 @@
+
+
+Sales Rep: Good morning, this is [Name], calling from [Energy Company]. I’m calling to discuss our energy services. 
+
+Business Executive: Hi, [Name]. How can I help you? 
+
+Sales Rep: Thank you for taking the time to speak with me. I wanted to tell you a bit about our company and the energy services we offer. We are dedicated to providing businesses with a reliable and cost-effective energy solution. 
+
+Business Executive: That sounds great. Tell me more about your services. 
+
+Sales Rep: Certainly. We provide a wide range of services, from energy efficient lighting solutions to renewable energy sources. We also offer customized solutions to meet your specific needs. 
+
+Business Executive: That’s interesting. What about warranties? 
+
+Sales Rep: Absolutely. We offer a variety of warranties on our products and services. We understand that your business needs reliable products, so we are committed to ensuring that our customers are protected. We offer a one-year warranty on our energy efficient lighting solutions, and a two-year warranty on our renewable energy sources. 
+
+Business Executive: That’s great. Who do I contact if I have questions about the warranties? 
+
+Sales Rep: You can contact our customer service team, or the person in charge of explaining product warranties to customers. They will be able to answer any questions you may have. 
+
+Business Executive: That’s helpful. Can you tell me a bit more about your renewable energy sources? 
+
+Sales Rep: Certainly. We offer a variety of renewable energy sources, such as solar, wind, and geothermal. We are committed to providing a sustainable and cost-effective solution for your business. 
+
+Business Executive: That sounds great. Can you provide me with more information about your services and warranties? 
+
+Sales Rep: Absolutely. I would be glad to provide you with more information. Would you like me to email you the details? 
+
+Business Executive: That would be great. Thank you for your time. 
+
+Sales Rep: You’re welcome. It was a pleasure speaking with you. Have a great day.

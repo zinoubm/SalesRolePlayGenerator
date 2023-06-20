@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hello, my name is [Name] with [Technology Company]. I’m calling to discuss our latest technology products and services. Can I speak to the person in charge of answering customer questions about pricing at the company?
+
+Senior Citizen: Yes, that would be me. How can I help you?
+
+Sales Rep: Great! It’s a pleasure to speak with you. I wanted to let you know that we are currently offering a special promotion on our products and services. 
+
+Senior Citizen: That sounds interesting, can you tell me more?
+
+Sales Rep: Absolutely! Our products and services are designed to help you save time and money. We offer a variety of features and benefits that are tailored to your specific needs. 
+
+Senior Citizen: That sounds great. What kind of pricing do you have?
+
+Sales Rep: We have several different pricing plans to fit your budget. We also have a money-back guarantee if you’re not satisfied with our products and services. 
+
+Senior Citizen: That sounds good. What kind of discounts do you offer for senior citizens?
+
+Sales Rep: We have special discounts for senior citizens. We also have a loyalty program that rewards our customers for their continued loyalty. We would love to have you as a customer so please let us know if there’s anything else we can do to help you out.

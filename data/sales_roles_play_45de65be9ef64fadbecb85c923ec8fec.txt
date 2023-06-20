@@ -1,0 +1,27 @@
+
+
+Sales Rep: Good morning, I'm [Name], calling from [Healthcare Company]. How are you doing today? 
+
+Business Owner: [Response]
+
+Sales Rep: I'm calling because [Healthcare Company] provides healthcare products that can help streamline your customers' ordering process. Can you tell me who is in charge of processing customer orders at your company?
+
+Business Owner: [Response]
+
+Sales Rep: Great, I'd like to discuss the potential benefits of our products and services with them. Would it be possible to schedule a meeting?
+
+Business Owner: [Response]
+
+Sales Rep: Sure, let me explain some of the features our products offer. Our products offer a secure and user-friendly ordering process. This helps to improve customer satisfaction, reduce order processing time, and minimize errors. Additionally, our products are designed to be customizable, so you can tailor them to fit the specific needs of your business. 
+
+Scenario 1: 
+
+Business Owner: We already have a system in place.
+
+Sales Rep: That's great! Our products are designed to enhance existing systems, not replace them. By integrating our products into your existing system, you can take advantage of all the benefits I mentioned earlier. 
+
+Scenario 2: 
+
+Business Owner: We don't have the budget for this right now. 
+
+Sales Rep: I understand. Our products are designed to save you money in the long run, so this could be a great investment. We also offer a variety of payment plans and discounts, so you can find one that works for your budget.

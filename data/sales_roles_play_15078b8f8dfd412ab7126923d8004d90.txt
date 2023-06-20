@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Company Name]. How are you doing today? 
+
+College Student: I'm doing well, thank you. How can I help you?
+
+Sales Rep: I'm calling to let you know about our new technology solutions. We specialize in providing customized solutions to help businesses optimize their operations. 
+
+College Student: That sounds interesting. What kind of solutions do you offer?
+
+Sales Rep: We offer a variety of products and services, including cloud computing, software development, and data analytics. We can help you reduce costs and improve efficiency. 
+
+College Student: That sounds great. What do you think would be the best solution for our company?
+
+Sales Rep: It depends on your individual needs. We would need to get a better understanding of your current operations and goals to determine the best solution. 
+
+College Student: That makes sense. Can you tell me more about your customer service process? 
+
+Sales Rep: Of course. We have a dedicated team of customer service representatives who are available 24/7 to assist with any issues or questions. We also offer a comprehensive knowledge base that can help you troubleshoot any issues. 
+
+College Student: Who would be the best person to contact if we had a customer complaint?
+
+Sales Rep: The best person to contact would be the customer service manager. They are in charge of resolving customer complaints and would be able to provide you with the best information and support.

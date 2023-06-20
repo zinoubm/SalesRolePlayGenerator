@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, this is [Name] from [Energy Company]. How can I help you today?
+
+College Student: Hi [Name]. I'm [Name] from [College]. I'm interested in learning more about your energy products.
+
+Sales Rep: Great! I'd be happy to assist you. Can I start by asking a few questions?
+
+College Student: Sure.
+
+Sales Rep: Firstly, what type of energy products are you looking for?
+
+College Student: We're looking for solar energy products.
+
+Sales Rep: Great. We have a variety of solar energy products that can meet your needs. Can I ask a bit more about the specific types of products you're looking for?
+
+College Student: Yes, we're looking for products that can provide demonstrations to customers.
+
+Sales Rep: We offer a range of products that can be used in product demonstrations. We also have a team of experts who can help set up the demonstration and explain the products in detail. Would you be interested in hearing more about this?
+
+College Student: Yes, that sounds great.
+
+Sales Rep: Great. I'd be happy to provide more information and answer any questions you may have. Do you have any questions for me?

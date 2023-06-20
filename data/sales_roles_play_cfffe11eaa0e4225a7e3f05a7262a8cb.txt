@@ -1,0 +1,21 @@
+
+
+Sales Rep: Hello, I'm calling from [Healthcare Company]. Is this [Single Parent]?
+
+Single Parent: Yes, this is [Single Parent].
+
+Sales Rep: Hi [Single Parent], I'm [Sales Rep] and I'm calling to discuss our company's delivery times for healthcare products. We understand that time can be of the essence when it comes to healthcare, and we want to make sure our customers are getting the best service possible. 
+
+Single Parent: That sounds great. What can you tell me about your delivery times?
+
+Sales Rep: We offer a very competitive delivery time of 2-3 business days, depending on the product. We understand that customers may need certain items more quickly, however, so we also offer priority and express delivery options. 
+
+Single Parent: That sounds great, but what if something goes wrong with the delivery?
+
+Sales Rep: We understand that mistakes can happen, and we take full responsibility for any errors that occur. We have a customer service team in place to respond to any issues and address customer concerns as quickly as possible. We also offer a full money-back guarantee if there are any problems with the delivery. 
+
+Single Parent: That's reassuring. Is there anything else I should know about your delivery times?
+
+Sales Rep: Yes, we also offer a tracking system for all orders, so customers can keep an eye on their packages and know exactly when they should expect them. 
+
+Single Parent: That's really helpful. Thank you for explaining everything so clearly.

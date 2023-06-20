@@ -1,0 +1,19 @@
+
+
+Sales Rep: Hello, this is [Sales Rep Name] from [Hospitality Company]. I'm calling to introduce our services and solutions that can help your business grow. Are you the person in charge of upselling additional products and services?
+
+Entrepreneur: Yes, that's me. What do you have to offer?
+
+Sales Rep: We specialize in providing hospitality services to businesses like yours, such as hotel and restaurant management, event planning, and catering. We can help you upsell additional products and services to your customers, such as VIP experiences, custom packages, and discounts. 
+
+Entrepreneur: That sounds interesting. What kind of discounts are you offering?
+
+Sales Rep: We can offer discounts on services or products depending on the volume your business requires. For example, if you book a certain number of rooms in one of our hotels, we can give you a discount.
+
+Entrepreneur: That's great. What other services do you offer?
+
+Sales Rep: We also provide a variety of other services such as marketing and advertising, customer service training, and website design and development. We can help you create a custom package that is tailored to your business needs. 
+
+Entrepreneur: That sounds like a great idea. What else can you do to help my business?
+
+Sales Rep: We offer a variety of services that can help you boost sales and increase customer satisfaction, such as loyalty programs, customer feedback surveys, and online booking systems. We also provide support and guidance to help you reach your goals.

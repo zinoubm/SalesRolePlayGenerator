@@ -1,0 +1,33 @@
+
+
+( Sales Rep cold calling ) 
+
+Sales Rep: Hi, this is [Name] from [Hospitality Company]. I'm calling to discuss our services and how they can help you and your business. 
+
+Senior Citizen: Hello, what services do you offer?
+
+Sales Rep: We offer a range of hospitality services, including booking systems, restaurant management, and customer service support. Would you like to hear more?
+
+Senior Citizen: Sure, that sounds interesting.
+
+Sales Rep: Great! We have a team of highly trained professionals who are dedicated to providing the highest level of customer service. We also offer a free trial so you can get a feel for our services before making a commitment.
+
+Senior Citizen: That sounds great. Who do I contact if I have any technical issues?
+
+Sales Rep: We have a team dedicated to troubleshooting technical issues for customers. I can connect you with the person in charge of this if you'd like. 
+
+Senior Citizen: Yes, please. 
+
+Sales Rep: Absolutely. Let me just get some information from you first, then I can connect you with the person in charge. 
+
+(Sales Rep collects information from Senior Citizen) 
+
+Sales Rep: Okay, I've got all the information I need. Let me just connect you with the person in charge of troubleshooting technical issues. 
+
+(Sales Rep connects Senior Citizen to the person in charge of Troubleshooting technical issues) 
+
+Sales Rep: Thank you for your time. Is there anything else I can do for you today? 
+
+Senior Citizen: No, thank you. 
+
+Sales Rep: Alright, it was a pleasure speaking with you. Have a great day!

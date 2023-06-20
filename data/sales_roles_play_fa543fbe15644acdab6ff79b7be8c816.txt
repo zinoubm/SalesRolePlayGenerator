@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning, this is [Name], calling from [Hospitality Company]. How are you doing today? 
+
+High-end Consumer: Fine, thank you. What can I do for you?
+
+Sales Rep: I'm calling because I wanted to let you know about our amazing hospitality services and packages we offer here at [Hospitality Company]. We specialize in providing luxurious and comfortable stays for our customers. We have a wide range of packages that include accommodations, dining options, and entertainment. 
+
+High-end Consumer: That sounds great, but I'm not sure if I'm interested.
+
+Sales Rep: Of course, I understand. We offer competitive prices and have a variety of flexible payment options. We also have an exclusive discount program for our high-end customers. Would you like to hear more about it? 
+
+High-end Consumer: Sure. 
+
+Sales Rep: Great! We have a team of specialists who can answer any questions you may have about our packages and pricing. Is there someone in charge of customer inquiries in your company who I could speak to? 
+
+High-end Consumer: Yes, that would be [Name]. I'll transfer you to him now. 
+
+Sales Rep: Thank you very much.

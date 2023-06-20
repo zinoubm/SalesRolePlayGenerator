@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hello, my name is [Name] and I'm calling from [Company]. We provide healthcare services to seniors. How may I help you today? 
+
+Senior Citizen: I'm looking to resolve a customer complaint.
+
+Sales Rep: I understand, and I'm here to help. What kind of complaint are you dealing with?
+
+Senior Citizen: I'm having trouble with one of your products.
+
+Sales Rep: I'm sorry to hear that. Can you tell me more about the issue you're having?
+
+Senior Citizen: I purchased a medical device from your company, and it's not working properly.
+
+Sales Rep: That's definitely not what we want to hear. I'm sure we can help you get it fixed. Can you tell me a bit more about the device and what's not working?
+
+Senior Citizen: Sure, it's a [name of device] and the issue is that it's not providing accurate readings.
+
+Sales Rep: Alright, I'll make sure to get this issue resolved for you as soon as possible. In the meantime, would you like to speak with someone in our customer service department?
+
+Senior Citizen: Yes, that would be great.
+
+Sales Rep: No problem. I can connect you with the person in charge of resolving customer complaints. Can I get your contact information so I can forward the issue to them? 
+
+Senior Citizen: Sure, my name is [Name] and my phone number is [Number].
+
+Sales Rep: Great, I'll make sure to get this issue taken care of for you. Is there anything else I can help you with today? 
+
+Senior Citizen: No, that's all. Thank you for your help.
+
+Sales Rep: You're welcome. Have a great day.

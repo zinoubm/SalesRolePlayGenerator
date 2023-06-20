@@ -1,0 +1,15 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep name] from [Agriculture Company], how are you doing today? 
+
+High-end Consumer: Good morning. I'm doing well, how can I help you?
+
+Sales Rep: Great! I wanted to talk to you about our company's products and services. We specialize in agricultural services and products. We offer a wide variety of services, from fertilizers and crop protection to planting and harvesting. Is this something that interests you? 
+
+High-end Consumer: It does, but I'm more interested in products and services related to warranties. Do you offer warranties?
+
+Sales Rep: Absolutely! We offer product warranties for all of our products and services. We can provide you with a comprehensive warranty that covers a range of issues, from defective parts to accidental damage. We also have a customer service team that can explain product warranties to customers if they have any questions. Would you like me to connect you with someone in charge of explaining product warranties to customers? 
+
+High-end Consumer: Yes, that would be great.
+
+Sales Rep: Wonderful. I'll connect you with our customer service representative who can answer any questions you may have. Thank you for your time and have a great day!

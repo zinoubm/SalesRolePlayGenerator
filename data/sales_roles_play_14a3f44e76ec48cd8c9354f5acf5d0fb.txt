@@ -1,0 +1,27 @@
+
+
+Sales Rep: Hello, I'm calling from Energy Company. How can I help you today?
+
+Single Parent: Hi, I was interested in learning more about your product warranties. I'm a single parent and need to make sure that I'm getting the best deal possible.
+
+Sales Rep: Absolutely! We are happy to provide you with information about our product warranties. We offer a variety of options that are tailored to meet your needs and budget. Would you like to learn more about these options? 
+
+Single Parent: Yes, that would be great.
+
+Sales Rep: Wonderful! Let me explain a few of our most popular product warranties. We offer a basic warranty that covers parts and labor, a premium warranty that covers additional components, and an extended warranty that covers the entire product for a longer period of time. Which of these options would you like to learn more about?
+
+Single Parent: The extended warranty sounds like the best option for me.
+
+Sales Rep: Great! Our extended warranty covers the entire product for up to five years. It also includes 24/7 customer service and a satisfaction guarantee. Would you like to learn more about the specific coverage options and pricing? 
+
+Single Parent: Yes, that would be great.
+
+Sales Rep: Absolutely! Our extended warranty covers parts, labor, and any necessary repairs. It also includes a satisfaction guarantee and a dedicated customer service line. The cost of this warranty is $50 per year. Does that sound like something you'd be interested in? 
+
+Single Parent: Yes, that sounds great. I'd like to go ahead and purchase the warranty.
+
+Sales Rep: Wonderful! I'm happy to get you set up with the extended warranty. Please provide me with your payment information and I'll get you all set up. Do you have any other questions or concerns I can help you with? 
+
+Single Parent: No, that should do it. Thank you for your help. 
+
+Sales Rep: You're welcome! It was a pleasure speaking with you. Have a great day!

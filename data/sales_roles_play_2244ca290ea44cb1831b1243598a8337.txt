@@ -1,0 +1,23 @@
+
+
+Sales Rep: Good morning, is this [Stay-at-home Parent]?
+
+Stay-at-Home Parent: Yes, this is [Stay-at-Home Parent].
+
+Sales Rep: Hi [Stay-at-Home Parent], this is [Sales Rep] from [Healthcare Company]. I'm calling to speak with you about our product that can help improve the health of your family. 
+
+Stay-at-Home Parent: I'm not sure I'm interested...what is your product?
+
+Sales Rep: Our product is a healthcare monitoring system that can help you track the health of your family members. It monitors vital signs, such as blood pressure, heart rate, and temperature, and can alert you if any of those numbers are outside of normal range. 
+
+Stay-at-Home Parent: That sounds interesting. Can you tell me more?
+
+Sales Rep: Of course! We have a team of experts that can provide product demonstrations to customers to help them understand the product better. Would you like to schedule one?
+
+Stay-at-Home Parent: Sure, that would be great.
+
+Sales Rep: Fantastic. I'll connect you with our product demonstration team. Before I do, do you have any questions or concerns you'd like to discuss? 
+
+Stay-at-Home Parent: Well, I'm worried about the cost of the product.
+
+Sales Rep: I understand. We offer flexible payment plans that can help make the product more affordable for you. Let me connect you with our product demonstration team and they can discuss our payment plans with you in more detail.

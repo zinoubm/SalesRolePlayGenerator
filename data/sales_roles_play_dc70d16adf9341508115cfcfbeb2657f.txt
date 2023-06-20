@@ -1,0 +1,25 @@
+
+
+Sales Rep: Hello, this is [sales rep name] from [energy company]. I'm calling to talk to you about our company's energy services. Could I get the name of the person in charge of customer questions about pricing?
+
+Senior Citizen: Sure, that would be me. My name is [name].
+
+Sales Rep: Hi [name], it's nice to meet you. I'm calling because we have some great new services that we think would be beneficial to you. Our services are designed to help reduce energy costs and increase efficiency. Would you be interested in hearing more about what we have to offer?
+
+Senior Citizen: Yes, I would like to hear more.
+
+Sales Rep: Great, I'm happy to tell you more. Our services are designed to help you reduce your energy costs, while also increasing efficiency. We also offer discounts for senior citizens that sign up for our services. Would you be interested in learning more about our pricing and discounts?
+
+Senior Citizen: Yes, that sounds great. What kind of discounts do you offer?
+
+Sales Rep: We offer discounts for seniors that sign up for our services. We also have a variety of payment plans available to fit your budget. We also have a loyalty program that rewards customers for their continued loyalty and support. 
+
+Senior Citizen: That sounds like a great deal. What kind of payment plans do you offer?
+
+Sales Rep: We offer a variety of payment plans, including monthly, quarterly, and annual. We also offer a prepaid plan, which allows you to make one payment upfront and then have your payments automatically deducted from your account each month. 
+
+Senior Citizen: That sounds like a great option. Can you tell me more about the loyalty program? 
+
+Sales Rep: Absolutely. Our loyalty program rewards customers for their continued loyalty and support. You'll receive discounts on your energy costs and other benefits as you continue to use our services. Is there anything else I can help you with? 
+
+Senior Citizen: No, that's all. Thank you for your help.

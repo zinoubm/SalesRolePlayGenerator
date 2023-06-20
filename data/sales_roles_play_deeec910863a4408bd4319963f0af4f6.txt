@@ -1,0 +1,31 @@
+
+
+Sales Rep: Hello, this is [Name] with [Healthcare Company]. How are you doing today?
+
+Working Parent: Hi, I'm doing okay, what can I do for you?
+
+Sales Rep: I'm calling today to let you know about a new product [or service] we offer here at our company. It's designed to help working parents like yourself to save time and money. Would you be interested in learning more about it?
+
+Working Parent: Sure, tell me more.
+
+Sales Rep: Well, our product [or service] is designed to make your life easier by reducing the amount of time and money you need to spend on managing your healthcare needs. It allows you to access a range of services and features that can help you manage your medical expenses, check your health records, and more.
+
+Working Parent: That sounds great. What else can you tell me?
+
+Sales Rep: We also offer a range of upsells that can help you save even more time and money. For example, we can provide you with discounts on health insurance and additional services and products that can help you manage your healthcare needs.
+
+Working Parent: That sounds great. How do I sign up for these extra services?
+
+Sales Rep: All you need to do is fill out the online application form and our team will take care of the rest. Would you like me to walk you through the process?
+
+Working Parent: Yes, please.
+
+Sales Rep: Sure, no problem. To get started, just head over to our website, fill out the online application form, and then our team will review your information and contact you to discuss the best options for you. 
+
+Working Parent: Great, I will do that. Thanks for the information.
+
+Sales Rep: You're welcome. Is there anything else I can help you with today?
+
+Working Parent: No, I think I'm all set. 
+
+Sales Rep: Wonderful. Thank you for your time. Have a great day!

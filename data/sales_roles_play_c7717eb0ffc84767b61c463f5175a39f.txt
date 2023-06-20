@@ -1,0 +1,33 @@
+
+
+Sales Rep: Good morning, I'm [Sales Rep's Name] from [Technology Company]. Is this a good time to talk? 
+
+Working Parent: Yes, what can I do for you? 
+
+Sales Rep: We provide technology solutions to help businesses improve their efficiency and productivity. I wanted to see if [Working Parent's Company] could benefit from our services. 
+
+Working Parent: That sounds interesting. What kind of services do you offer? 
+
+Sales Rep: We specialize in creating customized software, providing IT support, and offering product demonstrations to customers. 
+
+Working Parent: That's great. Our business could definitely benefit from those services. Who is in charge of giving product demonstrations at your company? 
+
+Sales Rep: That would be me. I'm the sales rep for our product demonstrations. I can provide you with a comprehensive overview of our product, as well as a demonstration of what it can do. 
+
+Working Parent: That sounds great. Can you tell me a bit more about the product? 
+
+Sales Rep: Absolutely. Our product is designed to help businesses streamline their processes and increase their efficiency. It also helps to reduce costs and save time. 
+
+Working Parent: That sounds like it could be very useful. 
+
+Sales Rep: It certainly is. We've also implemented a few features specifically for working parents, such as the ability to set up flexible work schedules, as well as access to remote working tools. 
+
+Working Parent: That's great. I'll definitely look into it. 
+
+Sales Rep: Excellent. I'm happy to answer any questions you may have. Is there anything else I can help you with? 
+
+Working Parent: Not right now, but I'll let you know if I have any questions. 
+
+Sales Rep: Sounds good. I'll be in touch. Have a great day. 
+
+Working Parent: You too. Goodbye.

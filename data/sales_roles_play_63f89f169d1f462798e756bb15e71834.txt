@@ -1,0 +1,23 @@
+
+
+Sales Rep: Hi, I'm [Name], calling from [Company], a hospitality company specializing in troubleshooting technical issues for customers. Is this a good time to speak?
+
+Entrepreneur: Hi [Name], sure, what can I do for you?
+
+Sales Rep: Great, thanks for taking the time to speak with me. I'm calling because I wanted to chat with you about the technical troubleshooting services we offer. We specialize in providing solutions to help you better serve your customers.
+
+Entrepreneur: That sounds interesting. What kind of services do you offer?
+
+Sales Rep: We offer a range of services, such as troubleshooting hardware and software issues, providing network support, and managing customer data. We also have a team of experienced technicians who are available 24/7 to help with any issues that may arise.
+
+Entrepreneur: That sounds like it could be very helpful. But what makes you better than other companies that offer similar services?
+
+Sales Rep: We understand the importance of customer service, and we strive to provide the best possible experience for our customers. We also work closely with our clients to customize our services to meet their specific needs. In addition, our technicians are highly trained and certified in the latest technologies, ensuring that our customers get the most up-to-date solutions.
+
+Entrepreneur: That all sounds great. What kind of guarantees do you offer?
+
+Sales Rep: We offer a 100% satisfaction guarantee. If for any reason our customers are not completely satisfied with our services, we will work with them to make things right. We also offer a money-back guarantee in the event that our services do not meet the customer's expectations.
+
+Entrepreneur: That's reassuring. I think I'd like to learn more about your services. Can you provide me with some more information?
+
+Sales Rep: Absolutely. I'd be happy to send you some more information about our services and answer any questions you may have. Would you like me to send you an email with the details?

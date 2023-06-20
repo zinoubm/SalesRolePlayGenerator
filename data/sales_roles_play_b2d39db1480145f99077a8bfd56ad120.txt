@@ -1,0 +1,19 @@
+
+
+Sales Rep: Good morning, this is [Sales Rep Name] from [Hospitality Company]. I'm calling to introduce our services to your business.
+
+Business Owner: Hi [Sales Rep Name]. What services does your company provide? 
+
+Sales Rep: We provide a range of hospitality services, such as catering, event planning, and food delivery. Our services are designed to help businesses like yours save time and money. 
+
+Business Owner: That sounds interesting. What makes your services stand out from others in the industry? 
+
+Sales Rep: We have a track record of delivering quality services on time and within budget. We also offer customized solutions to meet the needs of each individual customer. 
+
+Business Owner: That's great to hear. I'm particularly interested in your delivery services. How quickly can you deliver orders? 
+
+Sales Rep: We understand that delivery times are important to our customers, so we strive to deliver orders as quickly as possible. Depending on the size of the order and the location, we can typically deliver within 24-48 hours. 
+
+Business Owner: That's helpful to know. What happens if orders don't arrive on time? 
+
+Sales Rep: We understand that timely delivery is critical for our customers, so we take great care to ensure that orders arrive on time. In the event of a delayed delivery, we will work with the customer to find a solution that meets their needs. We also provide a money-back guarantee if the order is not delivered on time.
